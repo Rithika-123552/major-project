@@ -1,0 +1,71 @@
+{
+  "status": "completed",
+  "generated_at_utc": "2026-11-19T11:22:12.490316+00:00",
+  "original_dataset_modified": false,
+  "original_manual_review_modified": false,
+  "exact_duplicate_metadata_modified": false,
+  "splits_modified": false,
+  "model_training_performed": false,
+  "override_file": "D:\\major project\\Hybrid Vision Transformer and convolutional Network for  Automated Road Damage Detection\\artifacts\\duplicate_aware_splits_corrected\\conflict_review\\corrected_manual_review_decisions.csv",
+  "original_review_file": "D:\\major project\\Hybrid Vision Transformer and convolutional Network for  Automated Road Damage Detection\\artifacts\\duplicate_aware_splits\\near_duplicate_review\\manual_review_decisions.csv",
+  "source_manifest": "D:\\major project\\Hybrid Vision Transformer and convolutional Network for  Automated Road Damage Detection\\artifacts\\duplicate_aware_splits\\split_manifest.csv",
+  "override_change": [
+    {
+      "candidate_id": "candidate-156",
+      "source": "D:\\major project\\Road damage data\\Crack\\20240301_073625.jpg",
+      "destination": "D:\\major project\\Road damage data\\Pot hole\\13.jpg",
+      "hamming_distance": "8",
+      "original_decision": "duplicate",
+      "override_decision": "not_duplicate"
+    }
+  ],
+  "original_row_count": 290,
+  "override_row_count": 290,
+  "unchanged_candidate_decision_count": 289,
+  "changed_candidate_decision_count": 1,
+  "candidate_271": {
+    "source": "D:\\major project\\Road damage data\\Pot hole\\13 (2).JPG",
+    "destination": "D:\\major project\\Road damage data\\Pot hole\\13 (3).JPG",
+    "hamming_distance": "0",
+    "decision": "duplicate"
+  },
+  "candidate_272": {
+    "source": "D:\\major project\\Road damage data\\Pot hole\\13 (3).JPG",
+    "destination": "D:\\major project\\Road damage data\\Pot hole\\13.jpg",
+    "hamming_distance": "0",
+    "decision": "duplicate"
+  },
+  "exact_memberships": {
+    "D:\\major project\\Road damage data\\Crack\\20240301_073625 - Copy.jpg": "exact-000640",
+    "D:\\major project\\Road damage data\\Crack\\20240301_073625.jpg": "exact-000640",
+    "D:\\major project\\Road damage data\\Pot hole\\13 (2).JPG": "exact-000991",
+    "D:\\major project\\Road damage data\\Pot hole\\13 (3).JPG": "exact-000080",
+    "D:\\major project\\Road damage data\\Pot hole\\13.jpg": "exact-000991"
+  },
+  "component_verification": {
+    "crack_expected": [
+      "D:\\major project\\Road damage data\\Crack\\20240301_073625 - Copy.jpg",
+      "D:\\major project\\Road damage data\\Crack\\20240301_073625.jpg"
+    ],
+    "crack_actual": [
+      "D:\\major project\\Road damage data\\Crack\\20240301_073625 - Copy.jpg",
+      "D:\\major project\\Road damage data\\Crack\\20240301_073625.jpg"
+    ],
+    "pothole_expected": [
+      "D:\\major project\\Road damage data\\Pot hole\\13 (2).JPG",
+      "D:\\major project\\Road damage data\\Pot hole\\13 (3).JPG",
+      "D:\\major project\\Road damage data\\Pot hole\\13.jpg"
+    ],
+    "pothole_actual": [
+      "D:\\major project\\Road damage data\\Pot hole\\13 (2).JPG",
+      "D:\\major project\\Road damage data\\Pot hole\\13 (3).JPG",
+      "D:\\major project\\Road damage data\\Pot hole\\13.jpg"
+    ],
+    "crack_component_exact": true,
+    "pothole_component_exact": true
+  },
+  "cross_class_confirmed_duplicate_edges": [],
+  "cross_class_connection_present": false,
+  "cross_class_connection_count": 0,
+  "verification_passed": true
+}

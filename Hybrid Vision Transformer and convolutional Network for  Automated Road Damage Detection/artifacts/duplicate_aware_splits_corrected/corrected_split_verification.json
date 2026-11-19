@@ -1,0 +1,37 @@
+{
+  "status": "completed",
+  "generated_at_utc": "2026-11-19T13:28:55.476687+00:00",
+  "original_images_modified": false,
+  "existing_split_manifest_modified": false,
+  "model_training_performed": false,
+  "all_original_images_accounted_once": true,
+  "confirmed_duplicate_groups_cross_partitions": [],
+  "exact_duplicate_groups_cross_partitions": [],
+  "conflicting_label_groups": [],
+  "violating_confirmed_duplicate_groups": [],
+  "violating_exact_duplicate_groups": [],
+  "unresolved_grouping_problems": [],
+  "split_sizes": {
+    "train": 1125,
+    "test": 241,
+    "validation": 241
+  },
+  "class_distribution_by_split": {
+    "train": {
+      "Asphalt": 357,
+      "Crack": 410,
+      "Pothole": 358
+    },
+    "validation": {
+      "Asphalt": 76,
+      "Crack": 88,
+      "Pothole": 77
+    },
+    "test": {
+      "Asphalt": 77,
+      "Crack": 88,
+      "Pothole": 76
+    }
+  },
+  "exact_verification_source": "D:\\major project\\Hybrid Vision Transformer and convolutional Network for  Automated Road Damage Detection\\artifacts\\duplicate_aware_splits\\duplicate_verification.json"
+}

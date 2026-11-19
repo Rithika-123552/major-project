@@ -1,0 +1,551 @@
+image_path_a,image_path_b,class_label_a,class_label_b,hamming_distance,review_status
+D:\major project\Road damage data\Asphalt\10.JPG,D:\major project\Road damage data\Asphalt\asp(9).JPG,Asphalt,Asphalt,3,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\10.JPG,D:\major project\Road damage data\Asphalt\asp1 (24).JPG,Asphalt,Asphalt,3,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\10.JPG,D:\major project\Road damage data\Asphalt\asphalt(10).JPG,Asphalt,Asphalt,0,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\10.JPG,D:\major project\Road damage data\Asphalt\asphalt(9).JPG,Asphalt,Asphalt,3,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\109.JPG,D:\major project\Road damage data\Asphalt\asphalt(100).JPG,Asphalt,Asphalt,0,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\111.JPG,D:\major project\Road damage data\Asphalt\asphalt(102).JPG,Asphalt,Asphalt,0,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\116.JPG,D:\major project\Road damage data\Asphalt\asphalt(106).JPG,Asphalt,Asphalt,0,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\12.JPG,D:\major project\Road damage data\Asphalt\asphalt(12).JPG,Asphalt,Asphalt,0,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp(1).JPG,D:\major project\Road damage data\Asphalt\asp(2).JPG,Asphalt,Asphalt,5,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp(1).JPG,D:\major project\Road damage data\Asphalt\asphalt(2).JPG,Asphalt,Asphalt,5,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp(10).JPG,D:\major project\Road damage data\Asphalt\asp(9).JPG,Asphalt,Asphalt,3,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp(10).JPG,D:\major project\Road damage data\Asphalt\asp1 (24).JPG,Asphalt,Asphalt,3,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp(10).JPG,D:\major project\Road damage data\Asphalt\asphalt(10).JPG,Asphalt,Asphalt,0,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp(10).JPG,D:\major project\Road damage data\Asphalt\asphalt(9).JPG,Asphalt,Asphalt,3,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp(11).JPG,D:\major project\Road damage data\Asphalt\asphalt(11).JPG,Asphalt,Asphalt,0,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp(12).JPG,D:\major project\Road damage data\Asphalt\asp1 (5).JPG,Asphalt,Asphalt,8,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp(2).JPG,D:\major project\Road damage data\Asphalt\asp1 (18).JPG,Asphalt,Asphalt,5,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp(2).JPG,D:\major project\Road damage data\Asphalt\asphalt(1).JPG,Asphalt,Asphalt,5,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp(87).JPG,D:\major project\Road damage data\Asphalt\asphalt(101).JPG,Asphalt,Asphalt,0,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp(88).JPG,D:\major project\Road damage data\Asphalt\asphalt(103).JPG,Asphalt,Asphalt,1,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp(89).JPG,D:\major project\Road damage data\Asphalt\asphalt(104).JPG,Asphalt,Asphalt,1,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp(9).JPG,D:\major project\Road damage data\Asphalt\asp1 (25).JPG,Asphalt,Asphalt,3,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp(9).JPG,D:\major project\Road damage data\Asphalt\asphalt(10).JPG,Asphalt,Asphalt,3,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp(90).JPG,D:\major project\Road damage data\Asphalt\asphalt(105).JPG,Asphalt,Asphalt,0,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp(91).JPG,D:\major project\Road damage data\Asphalt\asphalt(106).JPG,Asphalt,Asphalt,0,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp(92).JPG,D:\major project\Road damage data\Asphalt\asphalt(107).JPG,Asphalt,Asphalt,0,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp(93).JPG,D:\major project\Road damage data\Asphalt\asphalt(108).JPG,Asphalt,Asphalt,2,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp(94).JPG,D:\major project\Road damage data\Asphalt\asphalt(109).JPG,Asphalt,Asphalt,1,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp(95).JPG,D:\major project\Road damage data\Asphalt\asphalt(110).JPG,Asphalt,Asphalt,1,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp(96).jpg,D:\major project\Road damage data\Asphalt\asphalt(111).jpg,Asphalt,Asphalt,0,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp(96).jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641450_y.jpg,Asphalt,Asphalt,2,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp1 (1).JPG,D:\major project\Road damage data\Asphalt\asp1 (3).JPG,Asphalt,Asphalt,5,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp1 (101).JPG,D:\major project\Road damage data\Asphalt\asphalt(100).JPG,Asphalt,Asphalt,0,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp1 (102).JPG,D:\major project\Road damage data\Asphalt\asphalt(101).JPG,Asphalt,Asphalt,0,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp1 (103).JPG,D:\major project\Road damage data\Asphalt\asphalt(102).JPG,Asphalt,Asphalt,0,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp1 (104).JPG,D:\major project\Road damage data\Asphalt\asphalt(103).JPG,Asphalt,Asphalt,1,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp1 (105).JPG,D:\major project\Road damage data\Asphalt\asphalt(104).JPG,Asphalt,Asphalt,1,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp1 (106).JPG,D:\major project\Road damage data\Asphalt\asphalt(106).JPG,Asphalt,Asphalt,0,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp1 (107).JPG,D:\major project\Road damage data\Asphalt\asphalt(107).JPG,Asphalt,Asphalt,0,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp1 (108).JPG,D:\major project\Road damage data\Asphalt\asphalt(109).JPG,Asphalt,Asphalt,1,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp1 (109).JPG,D:\major project\Road damage data\Asphalt\asphalt(110).JPG,Asphalt,Asphalt,1,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp1 (110).jpg,D:\major project\Road damage data\Asphalt\asphalt(111).jpg,Asphalt,Asphalt,0,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp1 (110).jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641450_y.jpg,Asphalt,Asphalt,2,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp1 (17).JPG,D:\major project\Road damage data\Asphalt\asp1 (5).JPG,Asphalt,Asphalt,8,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp1 (18).JPG,D:\major project\Road damage data\Asphalt\asphalt(2).JPG,Asphalt,Asphalt,5,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp1 (24).JPG,D:\major project\Road damage data\Asphalt\asp1 (25).JPG,Asphalt,Asphalt,3,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp1 (24).JPG,D:\major project\Road damage data\Asphalt\asphalt(10).JPG,Asphalt,Asphalt,3,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp1 (25).JPG,D:\major project\Road damage data\Asphalt\asphalt(10).JPG,Asphalt,Asphalt,0,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp1 (25).JPG,D:\major project\Road damage data\Asphalt\asphalt(9).JPG,Asphalt,Asphalt,3,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp1 (26).JPG,D:\major project\Road damage data\Asphalt\asphalt(11).JPG,Asphalt,Asphalt,0,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp1 (27).JPG,D:\major project\Road damage data\Asphalt\asphalt(12).JPG,Asphalt,Asphalt,0,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp1 (29).JPG,D:\major project\Road damage data\Asphalt\asp1 (5).JPG,Asphalt,Asphalt,8,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asp1 (5).JPG,D:\major project\Road damage data\Asphalt\asphalt(14).JPG,Asphalt,Asphalt,8,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asphalt(1).JPG,D:\major project\Road damage data\Asphalt\asphalt(2).JPG,Asphalt,Asphalt,5,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asphalt(10).JPG,D:\major project\Road damage data\Asphalt\asphalt(9).JPG,Asphalt,Asphalt,3,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asphalt(111).jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641450_y.jpg,Asphalt,Asphalt,2,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asphalt(112).jpg,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0095 - Copy.jpg,Asphalt,Asphalt,0,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asphalt(112).jpg,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0095.jpg,Asphalt,Asphalt,0,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asphalt(113).jpg,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0106 - Copy.jpg,Asphalt,Asphalt,1,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asphalt(113).jpg,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0106.jpg,Asphalt,Asphalt,1,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asphalt(114).jpg,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0119 - Copy.jpg,Asphalt,Asphalt,3,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asphalt(114).jpg,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0119.jpg,Asphalt,Asphalt,3,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asphalt(114).jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641364_y.jpg,Asphalt,Asphalt,4,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asphalt(115).jpg,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0120 - Copy.jpg,Asphalt,Asphalt,0,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asphalt(115).jpg,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0120.jpg,Asphalt,Asphalt,0,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asphalt(115).jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641363_y.jpg,Asphalt,Asphalt,1,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asphalt(117).jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641358_y.jpg,Asphalt,Asphalt,2,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asphalt(118).jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641355_y.jpg,Asphalt,Asphalt,2,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asphalt(119).jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641353_y.jpg,Asphalt,Asphalt,1,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asphalt(120).jpg,D:\major project\Road damage data\Asphalt\IMG-20240301-WA0018.jpg,Asphalt,Asphalt,2,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asphalt(120).jpg,D:\major project\Road damage data\Asphalt\IMG20240301081406 - Copy.jpg,Asphalt,Asphalt,1,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\asphalt(120).jpg,D:\major project\Road damage data\Asphalt\IMG20240301081406.jpg,Asphalt,Asphalt,1,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG-20240301-WA0018.jpg,D:\major project\Road damage data\Asphalt\IMG20240301081406 - Copy.jpg,Asphalt,Asphalt,1,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG-20240301-WA0018.jpg,D:\major project\Road damage data\Asphalt\IMG20240301081406.jpg,Asphalt,Asphalt,1,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG-20240301-WA0027.jpg,D:\major project\Road damage data\Asphalt\IMG20240301081411.jpg,Asphalt,Asphalt,0,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG-20240301-WA0042.jpg,D:\major project\Road damage data\Asphalt\IMG20240301095632.jpg,Asphalt,Asphalt,1,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG-20240302-WA0001.jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641354_y.jpg,Asphalt,Asphalt,1,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG-20240302-WA0002.jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641462_y.jpg,Asphalt,Asphalt,1,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG-20240302-WA0003.jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641461_y.jpg,Asphalt,Asphalt,1,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG-20240302-WA0006.jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641458_y.jpg,Asphalt,Asphalt,0,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG-20240302-WA0007 - Copy.jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641361_y.jpg,Asphalt,Asphalt,0,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG-20240302-WA0007.jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641361_y.jpg,Asphalt,Asphalt,0,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG-20240302-WA0008.jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641457_y.jpg,Asphalt,Asphalt,0,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG-20240302-WA0009.jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641456_y.jpg,Asphalt,Asphalt,1,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG-20240302-WA0012.jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641454_y.jpg,Asphalt,Asphalt,2,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG-20240302-WA0016.jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641451_y.jpg,Asphalt,Asphalt,2,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG-20240302-WA0022.jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641446_y.jpg,Asphalt,Asphalt,4,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG-20240302-WA0023.jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641445_y.jpg,Asphalt,Asphalt,0,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG-20240302-WA0027.jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641442_y.jpg,Asphalt,Asphalt,3,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG-20240302-WA0031.jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641440_y.jpg,Asphalt,Asphalt,1,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG-20240302-WA0033.jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641434_y.jpg,Asphalt,Asphalt,1,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG-20240302-WA0036.jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641436_y.jpg,Asphalt,Asphalt,0,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG-20240302-WA0039.jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641433_y (1).jpg,Asphalt,Asphalt,0,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG-20240302-WA0039.jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641433_y.jpg,Asphalt,Asphalt,0,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG-20240302-WA0046.jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641431_y.jpg,Asphalt,Asphalt,3,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG-20240302-WA0052.jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641427_y.jpg,Asphalt,Asphalt,2,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG-20240302-WA0056.jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641425_y.jpg,Asphalt,Asphalt,1,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG-20240302-WA0098.jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641369_y.jpg,Asphalt,Asphalt,3,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG-20240302-WA0099.jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641367_y (1).jpg,Asphalt,Asphalt,2,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG-20240302-WA0099.jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641367_y.jpg,Asphalt,Asphalt,2,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG-20240302-WA0108.jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641366_y (1).jpg,Asphalt,Asphalt,1,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG-20240302-WA0108.jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641366_y.jpg,Asphalt,Asphalt,1,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG-20240302-WA0118.jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641365_y.jpg,Asphalt,Asphalt,2,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG-20240302-WA0119 - Copy.jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641364_y.jpg,Asphalt,Asphalt,7,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG-20240302-WA0119.jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641364_y.jpg,Asphalt,Asphalt,7,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG-20240302-WA0120 - Copy.jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641363_y.jpg,Asphalt,Asphalt,1,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG-20240302-WA0120.jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641363_y.jpg,Asphalt,Asphalt,1,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG-20240303-WA0000 - Copy.jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641358_y.jpg,Asphalt,Asphalt,2,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG-20240303-WA0000.jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641358_y.jpg,Asphalt,Asphalt,2,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG-20240303-WA0001.jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641357_y.jpg,Asphalt,Asphalt,1,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG-20240303-WA0002.jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641356_y.jpg,Asphalt,Asphalt,1,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG-20240303-WA0003 - Copy.jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641355_y.jpg,Asphalt,Asphalt,2,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG-20240303-WA0003.jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641355_y.jpg,Asphalt,Asphalt,2,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG-20240303-WA0004 - Copy.jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641353_y.jpg,Asphalt,Asphalt,1,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG-20240303-WA0004.jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641353_y.jpg,Asphalt,Asphalt,1,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG20240221072943.jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641468_y.jpg,Asphalt,Asphalt,1,candidate_requires_manual_review
+D:\major project\Road damage data\Asphalt\IMG20240301094458.jpg,D:\major project\Road damage data\Asphalt\photo_6217532711279641485_y.jpg,Asphalt,Asphalt,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\1 (2).JPG,D:\major project\Road damage data\Crack\1.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\10 (2).JPG,D:\major project\Road damage data\Crack\10.JPG,Crack,Crack,3,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\100 (2).JPG,D:\major project\Road damage data\Crack\100.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\100 (3).JPG,D:\major project\Road damage data\Crack\100.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\101 (2).JPG,D:\major project\Road damage data\Crack\101.JPG,Crack,Crack,2,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\101 (3).JPG,D:\major project\Road damage data\Crack\101.JPG,Crack,Crack,2,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\102 (2).JPG,D:\major project\Road damage data\Crack\102.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\102 (3).JPG,D:\major project\Road damage data\Crack\102.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\103 (2).JPG,D:\major project\Road damage data\Crack\103.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\103 (3).JPG,D:\major project\Road damage data\Crack\103.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\104 (2).JPG,D:\major project\Road damage data\Crack\104.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\104 (3).JPG,D:\major project\Road damage data\Crack\104.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\105 (2).JPG,D:\major project\Road damage data\Crack\105.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\105 (3).JPG,D:\major project\Road damage data\Crack\105.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\107 (2).JPG,D:\major project\Road damage data\Crack\107.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\107 (3).JPG,D:\major project\Road damage data\Crack\107.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\108 (2).JPG,D:\major project\Road damage data\Crack\108.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\108 (3).JPG,D:\major project\Road damage data\Crack\108.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\109 (2).JPG,D:\major project\Road damage data\Crack\109.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\109 (3).JPG,D:\major project\Road damage data\Crack\109.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\11 (2).JPG,D:\major project\Road damage data\Crack\11.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\110 (2).JPG,D:\major project\Road damage data\Crack\110.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\110 (3).JPG,D:\major project\Road damage data\Crack\110.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\111 (2).JPG,D:\major project\Road damage data\Crack\111.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\111 (3).JPG,D:\major project\Road damage data\Crack\111.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\112 (2).JPG,D:\major project\Road damage data\Crack\112.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\112 (3).JPG,D:\major project\Road damage data\Crack\112.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\113 (2).JPG,D:\major project\Road damage data\Crack\113.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\113 (3).JPG,D:\major project\Road damage data\Crack\113.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\114 (2).JPG,D:\major project\Road damage data\Crack\114.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\114 (3).JPG,D:\major project\Road damage data\Crack\114.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\115 (2).JPG,D:\major project\Road damage data\Crack\115.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\115 (3).JPG,D:\major project\Road damage data\Crack\115.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\116 (2).JPG,D:\major project\Road damage data\Crack\116.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\116 (3).JPG,D:\major project\Road damage data\Crack\116.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\117 (2).JPG,D:\major project\Road damage data\Crack\117.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\117 (3).JPG,D:\major project\Road damage data\Crack\117.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\118 (2).JPG,D:\major project\Road damage data\Crack\118.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\118 (3).JPG,D:\major project\Road damage data\Crack\118.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\12 (2).JPG,D:\major project\Road damage data\Crack\12.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\120 (2).JPG,D:\major project\Road damage data\Crack\120.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\120 (3).JPG,D:\major project\Road damage data\Crack\120.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\13 (2).JPG,D:\major project\Road damage data\Crack\13.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\13 (3).JPG,D:\major project\Road damage data\Crack\13.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\14 (2).JPG,D:\major project\Road damage data\Crack\14.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\14 (3).JPG,D:\major project\Road damage data\Crack\14.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\15 (2).JPG,D:\major project\Road damage data\Crack\15.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\15 (3).JPG,D:\major project\Road damage data\Crack\15.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\16 (2).JPG,D:\major project\Road damage data\Crack\16.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\16 (3).JPG,D:\major project\Road damage data\Crack\16.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\17 (2).JPG,D:\major project\Road damage data\Crack\17.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\18 (2).JPG,D:\major project\Road damage data\Crack\18.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\2 (2).JPG,D:\major project\Road damage data\Crack\2.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20 (2).JPG,D:\major project\Road damage data\Crack\20.jpg,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20 (2).JPG,D:\major project\Road damage data\Crack\67 (2).JPG,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20 (2).JPG,D:\major project\Road damage data\Crack\67 (3).JPG,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20 (2).JPG,D:\major project\Road damage data\Crack\67.JPG,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20.jpg,D:\major project\Road damage data\Crack\67 (2).JPG,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20.jpg,D:\major project\Road damage data\Crack\67 (3).JPG,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20.jpg,D:\major project\Road damage data\Crack\67.JPG,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073039 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_101221.jpg,Crack,Crack,7,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073102.jpg,D:\major project\Road damage data\Crack\20240301_074158 - Copy.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073102.jpg,D:\major project\Road damage data\Crack\20240301_074158.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073102.jpg,D:\major project\Road damage data\Crack\20240301_080103.jpg,Crack,Crack,7,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_073343 - Copy.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_073343.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_073417 - Copy.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_073417.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_073530 - Copy (2).jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_073530 - Copy.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_073530.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_073625 - Copy.jpg,Crack,Crack,4,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_073625.jpg,Crack,Crack,4,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_073841 (2).jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_073841 - Copy.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_073841.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_074137 - Copy.jpg,Crack,Crack,5,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_074137.jpg,Crack,Crack,5,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_074158 - Copy.jpg,Crack,Crack,7,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_074158.jpg,Crack,Crack,7,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_074238 - Copy (2).jpg,Crack,Crack,5,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_074238 - Copy.jpg,Crack,Crack,5,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_074238.jpg,Crack,Crack,5,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_080103.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_100937.jpg,Crack,Crack,4,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331 - Copy.jpg,D:\major project\Road damage data\Pot hole\13 (2).JPG,Crack,Pothole,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331 - Copy.jpg,D:\major project\Road damage data\Pot hole\13 (3).JPG,Crack,Pothole,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331 - Copy.jpg,D:\major project\Road damage data\Pot hole\13.jpg,Crack,Pothole,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331.jpg,D:\major project\Road damage data\Crack\20240301_073343 - Copy.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331.jpg,D:\major project\Road damage data\Crack\20240301_073343.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331.jpg,D:\major project\Road damage data\Crack\20240301_073417 - Copy.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331.jpg,D:\major project\Road damage data\Crack\20240301_073417.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331.jpg,D:\major project\Road damage data\Crack\20240301_073530 - Copy (2).jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331.jpg,D:\major project\Road damage data\Crack\20240301_073530 - Copy.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331.jpg,D:\major project\Road damage data\Crack\20240301_073530.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331.jpg,D:\major project\Road damage data\Crack\20240301_073625 - Copy.jpg,Crack,Crack,4,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331.jpg,D:\major project\Road damage data\Crack\20240301_073625.jpg,Crack,Crack,4,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331.jpg,D:\major project\Road damage data\Crack\20240301_073841 (2).jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331.jpg,D:\major project\Road damage data\Crack\20240301_073841 - Copy.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331.jpg,D:\major project\Road damage data\Crack\20240301_073841.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331.jpg,D:\major project\Road damage data\Crack\20240301_074137 - Copy.jpg,Crack,Crack,5,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331.jpg,D:\major project\Road damage data\Crack\20240301_074137.jpg,Crack,Crack,5,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331.jpg,D:\major project\Road damage data\Crack\20240301_074158 - Copy.jpg,Crack,Crack,7,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331.jpg,D:\major project\Road damage data\Crack\20240301_074158.jpg,Crack,Crack,7,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331.jpg,D:\major project\Road damage data\Crack\20240301_074238 - Copy (2).jpg,Crack,Crack,5,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331.jpg,D:\major project\Road damage data\Crack\20240301_074238 - Copy.jpg,Crack,Crack,5,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331.jpg,D:\major project\Road damage data\Crack\20240301_074238.jpg,Crack,Crack,5,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331.jpg,D:\major project\Road damage data\Crack\20240301_080103.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331.jpg,D:\major project\Road damage data\Crack\20240301_100937.jpg,Crack,Crack,4,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331.jpg,D:\major project\Road damage data\Pot hole\13 (2).JPG,Crack,Pothole,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331.jpg,D:\major project\Road damage data\Pot hole\13 (3).JPG,Crack,Pothole,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073331.jpg,D:\major project\Road damage data\Pot hole\13.jpg,Crack,Pothole,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073343 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_073417 - Copy.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073343 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_073417.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073343 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_073517 - Copy.jpg,Crack,Crack,7,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073343 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_073517.jpg,Crack,Crack,7,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073343 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_080103.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073343.jpg,D:\major project\Road damage data\Crack\20240301_073417 - Copy.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073343.jpg,D:\major project\Road damage data\Crack\20240301_073417.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073343.jpg,D:\major project\Road damage data\Crack\20240301_073517 - Copy.jpg,Crack,Crack,7,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073343.jpg,D:\major project\Road damage data\Crack\20240301_073517.jpg,Crack,Crack,7,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073343.jpg,D:\major project\Road damage data\Crack\20240301_080103.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073417 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_073625 - Copy.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073417 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_073625.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073417 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_075616.jpg,Crack,Crack,5,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073417 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_080103.jpg,Crack,Crack,2,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073417 - Copy.jpg,D:\major project\Road damage data\Crack\IMG20240301102132 - Copy.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073417 - Copy.jpg,D:\major project\Road damage data\Crack\IMG20240301102132.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073417.jpg,D:\major project\Road damage data\Crack\20240301_073625 - Copy.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073417.jpg,D:\major project\Road damage data\Crack\20240301_073625.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073417.jpg,D:\major project\Road damage data\Crack\20240301_075616.jpg,Crack,Crack,5,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073417.jpg,D:\major project\Road damage data\Crack\20240301_080103.jpg,Crack,Crack,2,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073417.jpg,D:\major project\Road damage data\Crack\IMG20240301102132 - Copy.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073417.jpg,D:\major project\Road damage data\Crack\IMG20240301102132.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073437 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_073517 - Copy.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073437 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_073517.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073437.jpg,D:\major project\Road damage data\Crack\20240301_073517 - Copy.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073437.jpg,D:\major project\Road damage data\Crack\20240301_073517.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073517 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_073530 - Copy (2).jpg,Crack,Crack,5,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073517 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_073530 - Copy.jpg,Crack,Crack,5,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073517 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_073530.jpg,Crack,Crack,5,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073517.jpg,D:\major project\Road damage data\Crack\20240301_073530 - Copy (2).jpg,Crack,Crack,5,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073517.jpg,D:\major project\Road damage data\Crack\20240301_073530 - Copy.jpg,Crack,Crack,5,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073517.jpg,D:\major project\Road damage data\Crack\20240301_073530.jpg,Crack,Crack,5,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073530 - Copy (2).jpg,D:\major project\Road damage data\Crack\20240301_073530 - Copy.jpg,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073530 - Copy (2).jpg,D:\major project\Road damage data\Crack\20240301_074158 - Copy.jpg,Crack,Crack,7,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073530 - Copy (2).jpg,D:\major project\Road damage data\Crack\20240301_074158.jpg,Crack,Crack,7,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073530 - Copy (2).jpg,D:\major project\Road damage data\Crack\20240301_100937.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073530 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_073530.jpg,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073530 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_074158 - Copy.jpg,Crack,Crack,7,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073530 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_074158.jpg,Crack,Crack,7,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073530 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_100937.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073530.jpg,D:\major project\Road damage data\Crack\20240301_074158 - Copy.jpg,Crack,Crack,7,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073530.jpg,D:\major project\Road damage data\Crack\20240301_074158.jpg,Crack,Crack,7,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073530.jpg,D:\major project\Road damage data\Crack\20240301_100937.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073625 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_074137 - Copy.jpg,Crack,Crack,3,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073625 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_074137.jpg,Crack,Crack,3,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073625 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_074238 - Copy (2).jpg,Crack,Crack,5,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073625 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_074238 - Copy.jpg,Crack,Crack,5,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073625 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_074238.jpg,Crack,Crack,5,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073625 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_080103.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073625 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_100937.jpg,Crack,Crack,4,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073625 - Copy.jpg,D:\major project\Road damage data\Pot hole\13 (2).JPG,Crack,Pothole,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073625 - Copy.jpg,D:\major project\Road damage data\Pot hole\13 (3).JPG,Crack,Pothole,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073625 - Copy.jpg,D:\major project\Road damage data\Pot hole\13.jpg,Crack,Pothole,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073625.jpg,D:\major project\Road damage data\Crack\20240301_074137 - Copy.jpg,Crack,Crack,3,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073625.jpg,D:\major project\Road damage data\Crack\20240301_074137.jpg,Crack,Crack,3,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073625.jpg,D:\major project\Road damage data\Crack\20240301_074238 - Copy (2).jpg,Crack,Crack,5,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073625.jpg,D:\major project\Road damage data\Crack\20240301_074238 - Copy.jpg,Crack,Crack,5,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073625.jpg,D:\major project\Road damage data\Crack\20240301_074238.jpg,Crack,Crack,5,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073625.jpg,D:\major project\Road damage data\Crack\20240301_080103.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073625.jpg,D:\major project\Road damage data\Crack\20240301_100937.jpg,Crack,Crack,4,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073625.jpg,D:\major project\Road damage data\Pot hole\13 (2).JPG,Crack,Pothole,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073625.jpg,D:\major project\Road damage data\Pot hole\13 (3).JPG,Crack,Pothole,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073625.jpg,D:\major project\Road damage data\Pot hole\13.jpg,Crack,Pothole,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073841 (2).jpg,D:\major project\Road damage data\Crack\20240301_073841.jpg,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073841 (2).jpg,D:\major project\Road damage data\Crack\20240301_074158 - Copy.jpg,Crack,Crack,7,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073841 (2).jpg,D:\major project\Road damage data\Crack\20240301_074158.jpg,Crack,Crack,7,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073841 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_073841.jpg,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073841 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_074158 - Copy.jpg,Crack,Crack,7,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073841 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_074158.jpg,Crack,Crack,7,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073841.jpg,D:\major project\Road damage data\Crack\20240301_074158 - Copy.jpg,Crack,Crack,7,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_073841.jpg,D:\major project\Road damage data\Crack\20240301_074158.jpg,Crack,Crack,7,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_074137 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_074238 - Copy (2).jpg,Crack,Crack,6,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_074137 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_074238 - Copy.jpg,Crack,Crack,6,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_074137 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_074238.jpg,Crack,Crack,6,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_074137 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_100937.jpg,Crack,Crack,5,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_074137 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_101221.jpg,Crack,Crack,7,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_074137.jpg,D:\major project\Road damage data\Crack\20240301_074238 - Copy (2).jpg,Crack,Crack,6,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_074137.jpg,D:\major project\Road damage data\Crack\20240301_074238 - Copy.jpg,Crack,Crack,6,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_074137.jpg,D:\major project\Road damage data\Crack\20240301_074238.jpg,Crack,Crack,6,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_074137.jpg,D:\major project\Road damage data\Crack\20240301_100937.jpg,Crack,Crack,5,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_074137.jpg,D:\major project\Road damage data\Crack\20240301_101221.jpg,Crack,Crack,7,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_074238 - Copy (2).jpg,D:\major project\Road damage data\Crack\20240301_074238 - Copy.jpg,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_074238 - Copy (2).jpg,D:\major project\Road damage data\Crack\20240301_100937.jpg,Crack,Crack,7,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_074238 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_074238.jpg,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_074238 - Copy.jpg,D:\major project\Road damage data\Crack\20240301_100937.jpg,Crack,Crack,7,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_074238.jpg,D:\major project\Road damage data\Crack\20240301_100937.jpg,Crack,Crack,7,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_075616.jpg,D:\major project\Road damage data\Crack\20240301_080103.jpg,Crack,Crack,3,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_080103.jpg,D:\major project\Road damage data\Crack\IMG20240301102132 - Copy.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\20240301_080103.jpg,D:\major project\Road damage data\Crack\IMG20240301102132.jpg,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\21 (2).JPG,D:\major project\Road damage data\Crack\21.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\22 (2).JPG,D:\major project\Road damage data\Crack\22.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\22 (3).JPG,D:\major project\Road damage data\Crack\22.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\23 (2).JPG,D:\major project\Road damage data\Crack\23.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\23 (3).JPG,D:\major project\Road damage data\Crack\23.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\24 (2).JPG,D:\major project\Road damage data\Crack\24.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\24 (3).JPG,D:\major project\Road damage data\Crack\24.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\25 (2).JPG,D:\major project\Road damage data\Crack\25.JPG,Crack,Crack,2,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\25 (3).JPG,D:\major project\Road damage data\Crack\25.JPG,Crack,Crack,2,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\26 (2).JPG,D:\major project\Road damage data\Crack\26.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\27 (2).JPG,D:\major project\Road damage data\Crack\27.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\28 (2).JPG,D:\major project\Road damage data\Crack\28.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\29 (2).JPG,D:\major project\Road damage data\Crack\29.JPG,Crack,Crack,2,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\3 (2).JPG,D:\major project\Road damage data\Crack\3.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\30 (2).JPG,D:\major project\Road damage data\Crack\30.JPG,Crack,Crack,2,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\30 (3).JPG,D:\major project\Road damage data\Crack\30.JPG,Crack,Crack,2,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\31 (2).JPG,D:\major project\Road damage data\Crack\31.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\31 (3).JPG,D:\major project\Road damage data\Crack\31.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\32 (2).JPG,D:\major project\Road damage data\Crack\32.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\32 (3).JPG,D:\major project\Road damage data\Crack\32.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\33 (2).JPG,D:\major project\Road damage data\Crack\33.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\33 (3).JPG,D:\major project\Road damage data\Crack\33.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\34 (2).JPG,D:\major project\Road damage data\Crack\34.JPG,Crack,Crack,2,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\35 (2).JPG,D:\major project\Road damage data\Crack\35.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\36 (2).JPG,D:\major project\Road damage data\Crack\36.JPG,Crack,Crack,2,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\37 (2).JPG,D:\major project\Road damage data\Crack\37.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\37 (2).JPG,D:\major project\Road damage data\Crack\80 (2).JPG,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\37 (2).JPG,D:\major project\Road damage data\Crack\80 (3).JPG,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\37 (2).JPG,D:\major project\Road damage data\Crack\80.JPG,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\37.JPG,D:\major project\Road damage data\Crack\80 (2).JPG,Crack,Crack,7,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\37.JPG,D:\major project\Road damage data\Crack\80 (3).JPG,Crack,Crack,7,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\37.JPG,D:\major project\Road damage data\Crack\80.JPG,Crack,Crack,7,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\38 (2).JPG,D:\major project\Road damage data\Crack\38.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\38 (3).JPG,D:\major project\Road damage data\Crack\38.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\39 (2).JPG,D:\major project\Road damage data\Crack\39.JPG,Crack,Crack,2,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\39 (3).JPG,D:\major project\Road damage data\Crack\39.JPG,Crack,Crack,2,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\4 (2).JPG,D:\major project\Road damage data\Crack\4.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\40 (2).JPG,D:\major project\Road damage data\Crack\40.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\40 (3).JPG,D:\major project\Road damage data\Crack\40.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\41 (2).JPG,D:\major project\Road damage data\Crack\41.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\41 (3).JPG,D:\major project\Road damage data\Crack\41.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\42 (2).JPG,D:\major project\Road damage data\Crack\42.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\43 (2).JPG,D:\major project\Road damage data\Crack\43.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\44 (2).JPG,D:\major project\Road damage data\Crack\44.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\45 (2).JPG,D:\major project\Road damage data\Crack\45.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\46 (2).JPG,D:\major project\Road damage data\Crack\46.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\46 (3).JPG,D:\major project\Road damage data\Crack\46.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\47 (2).JPG,D:\major project\Road damage data\Crack\47.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\47 (3).JPG,D:\major project\Road damage data\Crack\47.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\48 (2).JPG,D:\major project\Road damage data\Crack\48.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\48 (2).JPG,D:\major project\Road damage data\Crack\88 (2).JPG,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\48 (2).JPG,D:\major project\Road damage data\Crack\88 (3).JPG,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\48 (2).JPG,D:\major project\Road damage data\Crack\88.JPG,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\48 (3).JPG,D:\major project\Road damage data\Crack\48.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\48 (3).JPG,D:\major project\Road damage data\Crack\88 (2).JPG,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\48 (3).JPG,D:\major project\Road damage data\Crack\88 (3).JPG,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\48 (3).JPG,D:\major project\Road damage data\Crack\88.JPG,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\48.JPG,D:\major project\Road damage data\Crack\88 (2).JPG,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\48.JPG,D:\major project\Road damage data\Crack\88 (3).JPG,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\48.JPG,D:\major project\Road damage data\Crack\88.JPG,Crack,Crack,8,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\49 (2).JPG,D:\major project\Road damage data\Crack\49.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\49 (3).JPG,D:\major project\Road damage data\Crack\49.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\5 (2).JPG,D:\major project\Road damage data\Crack\5.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\5 (3).JPG,D:\major project\Road damage data\Crack\5.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\50 (2).JPG,D:\major project\Road damage data\Crack\50.JPG,Crack,Crack,2,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\50 (3).JPG,D:\major project\Road damage data\Crack\50.JPG,Crack,Crack,2,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\51 (2).JPG,D:\major project\Road damage data\Crack\51.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\51 (3).JPG,D:\major project\Road damage data\Crack\51.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\52 (2).JPG,D:\major project\Road damage data\Crack\52.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\52 (3).JPG,D:\major project\Road damage data\Crack\52.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\54 (2).JPG,D:\major project\Road damage data\Crack\54.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\54 (3).JPG,D:\major project\Road damage data\Crack\54.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\55 (2).JPG,D:\major project\Road damage data\Crack\55.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\55 (3).JPG,D:\major project\Road damage data\Crack\55.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\56 (2).JPG,D:\major project\Road damage data\Crack\56.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\56 (3).JPG,D:\major project\Road damage data\Crack\56.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\57 (2).JPG,D:\major project\Road damage data\Crack\57.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\57 (3).JPG,D:\major project\Road damage data\Crack\57.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\58 (2).JPG,D:\major project\Road damage data\Crack\58.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\58 (3).JPG,D:\major project\Road damage data\Crack\58.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\59 (2).JPG,D:\major project\Road damage data\Crack\59.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\59 (3).JPG,D:\major project\Road damage data\Crack\59.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\6 (2).JPG,D:\major project\Road damage data\Crack\6.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\6 (3).JPG,D:\major project\Road damage data\Crack\6.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\60 (2).JPG,D:\major project\Road damage data\Crack\60.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\60 (3).JPG,D:\major project\Road damage data\Crack\60.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\61 (2).JPG,D:\major project\Road damage data\Crack\61.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\61 (3).JPG,D:\major project\Road damage data\Crack\61.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\62 (2).JPG,D:\major project\Road damage data\Crack\62.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\62 (3).JPG,D:\major project\Road damage data\Crack\62.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\63 (2).JPG,D:\major project\Road damage data\Crack\63.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\63 (3).JPG,D:\major project\Road damage data\Crack\63.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\64 (2).JPG,D:\major project\Road damage data\Crack\64.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\64 (3).JPG,D:\major project\Road damage data\Crack\64.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\65 (2).JPG,D:\major project\Road damage data\Crack\65.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\65 (3).JPG,D:\major project\Road damage data\Crack\65.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\66 (2).JPG,D:\major project\Road damage data\Crack\66.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\66 (3).JPG,D:\major project\Road damage data\Crack\66.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\67 (2).JPG,D:\major project\Road damage data\Crack\67.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\67 (3).JPG,D:\major project\Road damage data\Crack\67.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\68 (2).JPG,D:\major project\Road damage data\Crack\68.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\68 (3).JPG,D:\major project\Road damage data\Crack\68.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\69 (2).JPG,D:\major project\Road damage data\Crack\69.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\69 (3).JPG,D:\major project\Road damage data\Crack\69.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\7 (2).JPG,D:\major project\Road damage data\Crack\7.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\7 (3).JPG,D:\major project\Road damage data\Crack\7.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\70 (2).JPG,D:\major project\Road damage data\Crack\70.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\70 (3).JPG,D:\major project\Road damage data\Crack\70.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\71 (2).JPG,D:\major project\Road damage data\Crack\71.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\71 (3).JPG,D:\major project\Road damage data\Crack\71.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\72 (2).JPG,D:\major project\Road damage data\Crack\72.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\72 (3).JPG,D:\major project\Road damage data\Crack\72.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\73 (2).JPG,D:\major project\Road damage data\Crack\73.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\73 (3).JPG,D:\major project\Road damage data\Crack\73.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\74 (2).JPG,D:\major project\Road damage data\Crack\74.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\74 (3).JPG,D:\major project\Road damage data\Crack\74.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\75 (2).JPG,D:\major project\Road damage data\Crack\75.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\75 (3).JPG,D:\major project\Road damage data\Crack\75.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\76 (2).JPG,D:\major project\Road damage data\Crack\76.JPG,Crack,Crack,2,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\76 (3).JPG,D:\major project\Road damage data\Crack\76.JPG,Crack,Crack,2,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\77 (2).JPG,D:\major project\Road damage data\Crack\77.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\77 (3).JPG,D:\major project\Road damage data\Crack\77.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\78 (2).JPG,D:\major project\Road damage data\Crack\78.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\78 (3).JPG,D:\major project\Road damage data\Crack\78.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\79 (2).JPG,D:\major project\Road damage data\Crack\79.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\79 (3).JPG,D:\major project\Road damage data\Crack\79.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\8 (2).JPG,D:\major project\Road damage data\Crack\8.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\8 (3).JPG,D:\major project\Road damage data\Crack\8.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\80 (2).JPG,D:\major project\Road damage data\Crack\80.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\80 (3).JPG,D:\major project\Road damage data\Crack\80.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\81 (2).JPG,D:\major project\Road damage data\Crack\81.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\81 (3).JPG,D:\major project\Road damage data\Crack\81.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\82 (2).JPG,D:\major project\Road damage data\Crack\82.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\82 (3).JPG,D:\major project\Road damage data\Crack\82.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\83 (2).JPG,D:\major project\Road damage data\Crack\83.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\83 (3).JPG,D:\major project\Road damage data\Crack\83.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\84 (2).JPG,D:\major project\Road damage data\Crack\84.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\84 (3).JPG,D:\major project\Road damage data\Crack\84.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\85 (2).JPG,D:\major project\Road damage data\Crack\85.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\85 (3).JPG,D:\major project\Road damage data\Crack\85.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\86 (2).JPG,D:\major project\Road damage data\Crack\86.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\86 (3).JPG,D:\major project\Road damage data\Crack\86.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\87 (2).JPG,D:\major project\Road damage data\Crack\87.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\87 (3).JPG,D:\major project\Road damage data\Crack\87.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\88 (2).JPG,D:\major project\Road damage data\Crack\88.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\88 (3).JPG,D:\major project\Road damage data\Crack\88.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\89 (2).JPG,D:\major project\Road damage data\Crack\89.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\89 (3) - Copy.JPG,D:\major project\Road damage data\Crack\89.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\89 (3).JPG,D:\major project\Road damage data\Crack\89.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\9 (2).JPG,D:\major project\Road damage data\Crack\9.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\91 (2).JPG,D:\major project\Road damage data\Crack\91.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\91 (3).JPG,D:\major project\Road damage data\Crack\91.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\92 (2).JPG,D:\major project\Road damage data\Crack\92.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\92 (3).JPG,D:\major project\Road damage data\Crack\92.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\93 (2).JPG,D:\major project\Road damage data\Crack\93.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\93 (3).JPG,D:\major project\Road damage data\Crack\93.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\94 (2).JPG,D:\major project\Road damage data\Crack\94.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\94 (3).JPG,D:\major project\Road damage data\Crack\94.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\95 (2).JPG,D:\major project\Road damage data\Crack\95.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\95 (3).JPG,D:\major project\Road damage data\Crack\95.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\96 (2).JPG,D:\major project\Road damage data\Crack\96.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\96 (3).JPG,D:\major project\Road damage data\Crack\96.JPG,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\97 (2).JPG,D:\major project\Road damage data\Crack\97.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\97 (3).JPG,D:\major project\Road damage data\Crack\97.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\98 (2).JPG,D:\major project\Road damage data\Crack\98.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\98 (3).JPG,D:\major project\Road damage data\Crack\98.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\99 (2).JPG,D:\major project\Road damage data\Crack\99.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\99 (3).JPG,D:\major project\Road damage data\Crack\99.JPG,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\IMG20240301073431.jpg,D:\major project\Road damage data\Crack\IMG20240301073432.jpg,Crack,Crack,4,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\IMG20240301073504.jpg,D:\major project\Road damage data\Crack\IMG20240301073506.jpg,Crack,Crack,5,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\IMG20240301073800 (2).jpg,D:\major project\Road damage data\Crack\IMG20240301073800.jpg,Crack,Crack,0,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\IMG20240301074140.jpg,D:\major project\Road damage data\Crack\IMG20240301074141.jpg,Crack,Crack,4,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\IMG20240301074718_BURST000_COVER.jpg,D:\major project\Road damage data\Crack\IMG20240301074718_BURST001.jpg,Crack,Crack,1,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\IMG20240301074718_BURST000_COVER.jpg,D:\major project\Road damage data\Crack\IMG20240301074718_BURST002.jpg,Crack,Crack,4,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\IMG20240301074718_BURST000_COVER.jpg,D:\major project\Road damage data\Crack\IMG20240301074718_BURST003.jpg,Crack,Crack,4,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\IMG20240301074718_BURST001.jpg,D:\major project\Road damage data\Crack\IMG20240301074718_BURST002.jpg,Crack,Crack,3,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\IMG20240301074718_BURST001.jpg,D:\major project\Road damage data\Crack\IMG20240301074718_BURST003.jpg,Crack,Crack,3,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\IMG20240301074718_BURST002.jpg,D:\major project\Road damage data\Crack\IMG20240301074718_BURST003.jpg,Crack,Crack,2,candidate_requires_manual_review
+D:\major project\Road damage data\Crack\IMG20240301104112.jpg,D:\major project\Road damage data\Crack\IMG20240301104113.jpg,Crack,Crack,5,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\11 (2).JPG,D:\major project\Road damage data\Pot hole\11 (3).JPG,Pothole,Pothole,0,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\11 (3).JPG,D:\major project\Road damage data\Pot hole\11 (5).JPG,Pothole,Pothole,0,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\111 (4).JPG,D:\major project\Road damage data\Pot hole\72 (4).JPG,Pothole,Pothole,7,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\111 (4).JPG,D:\major project\Road damage data\Pot hole\72.JPG,Pothole,Pothole,7,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\112 (2).JPG,D:\major project\Road damage data\Pot hole\112 (3).JPG,Pothole,Pothole,0,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\113 (2).JPG,D:\major project\Road damage data\Pot hole\113 (3).JPG,Pothole,Pothole,1,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\113 (3).JPG,D:\major project\Road damage data\Pot hole\113 (5).JPG,Pothole,Pothole,1,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\114 (4).JPG,D:\major project\Road damage data\Pot hole\70 (4).JPG,Pothole,Pothole,6,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\114 (4).JPG,D:\major project\Road damage data\Pot hole\70.JPG,Pothole,Pothole,6,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\114.JPG,D:\major project\Road damage data\Pot hole\70 (4).JPG,Pothole,Pothole,6,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\114.JPG,D:\major project\Road damage data\Pot hole\70.JPG,Pothole,Pothole,6,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\118 (2).JPG,D:\major project\Road damage data\Pot hole\118 (3).JPG,Pothole,Pothole,1,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\118 (4).JPG,D:\major project\Road damage data\Pot hole\85 (4).JPG,Pothole,Pothole,7,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\118 (4).JPG,D:\major project\Road damage data\Pot hole\85.JPG,Pothole,Pothole,7,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\118.JPG,D:\major project\Road damage data\Pot hole\85 (4).JPG,Pothole,Pothole,7,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\118.JPG,D:\major project\Road damage data\Pot hole\85.JPG,Pothole,Pothole,7,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\12 (2).JPG,D:\major project\Road damage data\Pot hole\12 (3).JPG,Pothole,Pothole,0,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\12 (3).JPG,D:\major project\Road damage data\Pot hole\12 (5).JPG,Pothole,Pothole,0,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\13 (2).JPG,D:\major project\Road damage data\Pot hole\13 (3).JPG,Pothole,Pothole,0,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\13 (3).JPG,D:\major project\Road damage data\Pot hole\13.jpg,Pothole,Pothole,0,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\18 (2).JPG,D:\major project\Road damage data\Pot hole\18 (3).JPG,Pothole,Pothole,2,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\19 (2).JPG,D:\major project\Road damage data\Pot hole\19 (3).JPG,Pothole,Pothole,0,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\34 (2).JPG,D:\major project\Road damage data\Pot hole\34 (3).JPG,Pothole,Pothole,0,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\34 (3).JPG,D:\major project\Road damage data\Pot hole\34.JPG,Pothole,Pothole,0,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\48 (2).JPG,D:\major project\Road damage data\Pot hole\48 (3).JPG,Pothole,Pothole,0,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\48 (3).JPG,D:\major project\Road damage data\Pot hole\48 (5).JPG,Pothole,Pothole,0,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\49 (2).JPG,D:\major project\Road damage data\Pot hole\49 (3).JPG,Pothole,Pothole,0,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\49 (3).JPG,D:\major project\Road damage data\Pot hole\49 (5).JPG,Pothole,Pothole,0,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\49 (3).JPG,D:\major project\Road damage data\Pot hole\49.JPG,Pothole,Pothole,0,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\50 (2).JPG,D:\major project\Road damage data\Pot hole\50 (3).JPG,Pothole,Pothole,1,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\50 (2).JPG,D:\major project\Road damage data\Pot hole\74 (2).JPG,Pothole,Pothole,7,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\50 (2).JPG,D:\major project\Road damage data\Pot hole\74 (3).JPG,Pothole,Pothole,7,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\50 (3).JPG,D:\major project\Road damage data\Pot hole\50.JPG,Pothole,Pothole,1,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\50 (3).JPG,D:\major project\Road damage data\Pot hole\74 (2).JPG,Pothole,Pothole,8,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\50 (3).JPG,D:\major project\Road damage data\Pot hole\74 (3).JPG,Pothole,Pothole,8,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\50.JPG,D:\major project\Road damage data\Pot hole\74 (2).JPG,Pothole,Pothole,7,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\50.JPG,D:\major project\Road damage data\Pot hole\74 (3).JPG,Pothole,Pothole,7,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\55 (2).JPG,D:\major project\Road damage data\Pot hole\55 (3).JPG,Pothole,Pothole,0,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\55 (3).JPG,D:\major project\Road damage data\Pot hole\55 (5).JPG,Pothole,Pothole,0,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\7 (2).JPG,D:\major project\Road damage data\Pot hole\7 (3).JPG,Pothole,Pothole,0,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\7 (3).JPG,D:\major project\Road damage data\Pot hole\7.JPG,Pothole,Pothole,0,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\76 (2).JPG,D:\major project\Road damage data\Pot hole\76 (3).JPG,Pothole,Pothole,0,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\8 (2).JPG,D:\major project\Road damage data\Pot hole\8 (3).JPG,Pothole,Pothole,0,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\80 (2).JPG,D:\major project\Road damage data\Pot hole\80 (3).JPG,Pothole,Pothole,1,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\80 (3).JPG,D:\major project\Road damage data\Pot hole\80 (5).JPG,Pothole,Pothole,1,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\83 (2).JPG,D:\major project\Road damage data\Pot hole\83 (3).JPG,Pothole,Pothole,2,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\83 (3).JPG,D:\major project\Road damage data\Pot hole\83.JPG,Pothole,Pothole,2,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\85 (2).JPG,D:\major project\Road damage data\Pot hole\85 (3).JPG,Pothole,Pothole,0,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\86 (2).JPG,D:\major project\Road damage data\Pot hole\86 (3).JPG,Pothole,Pothole,0,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\87 (2).JPG,D:\major project\Road damage data\Pot hole\87 (3).JPG,Pothole,Pothole,1,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\9 (2).JPG,D:\major project\Road damage data\Pot hole\9 (3).JPG,Pothole,Pothole,0,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\90 (2).JPG,D:\major project\Road damage data\Pot hole\90 (3).JPG,Pothole,Pothole,1,candidate_requires_manual_review
+D:\major project\Road damage data\Pot hole\95 (2).JPG,D:\major project\Road damage data\Pot hole\95 (3).JPG,Pothole,Pothole,0,candidate_requires_manual_review

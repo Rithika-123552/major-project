@@ -1,0 +1,91 @@
+{
+  "project_title": "Hybrid Vision Transformer and convolutional Network for Automated Road Damage Detection",
+  "model_version": "resnet50-baseline-v1",
+  "device": "cpu",
+  "dataset_audit": "artifacts\\dataset_audit.json",
+  "split_sizes": {
+    "train": 1124,
+    "validation": 241,
+    "test": 242
+  },
+  "history": [
+    {
+      "epoch": 1.0,
+      "train_loss": 0.49401166865409907,
+      "validation_accuracy": 0.9626556016597511
+    },
+    {
+      "epoch": 2.0,
+      "train_loss": 0.18659551071791886,
+      "validation_accuracy": 0.966804979253112
+    },
+    {
+      "epoch": 3.0,
+      "train_loss": 0.1174057214272298,
+      "validation_accuracy": 0.970954356846473
+    },
+    {
+      "epoch": 4.0,
+      "train_loss": 0.0862404352759949,
+      "validation_accuracy": 0.966804979253112
+    },
+    {
+      "epoch": 5.0,
+      "train_loss": 0.07262800269995508,
+      "validation_accuracy": 0.966804979253112
+    }
+  ],
+  "test_accuracy": 0.9958677685950413,
+  "classification_report": {
+    "Pothole": {
+      "precision": 1.0,
+      "recall": 0.987012987012987,
+      "f1-score": 0.9934640522875817,
+      "support": 77.0
+    },
+    "Asphalt": {
+      "precision": 0.9871794871794872,
+      "recall": 1.0,
+      "f1-score": 0.9935483870967742,
+      "support": 77.0
+    },
+    "Crack": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 88.0
+    },
+    "accuracy": 0.9958677685950413,
+    "macro avg": {
+      "precision": 0.9957264957264957,
+      "recall": 0.9956709956709956,
+      "f1-score": 0.9956708131281187,
+      "support": 242.0
+    },
+    "weighted avg": {
+      "precision": 0.9959207459207459,
+      "recall": 0.9958677685950413,
+      "f1-score": 0.9958675943495677,
+      "support": 242.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      76,
+      1,
+      0
+    ],
+    [
+      0,
+      77,
+      0
+    ],
+    [
+      0,
+      0,
+      88
+    ]
+  ],
+  "training_time_seconds": 3684.070559100015,
+  "research_output_disclaimer": "Predictions are research outputs and are not certified road-safety assessments."
+}

@@ -1,0 +1,51 @@
+{
+  "status": "blocked",
+  "generated_at_utc": "2026-11-19T10:35:12.214808+00:00",
+  "original_images_modified": false,
+  "existing_split_manifest_modified": false,
+  "model_training_performed": false,
+  "blocking_issues": [
+    {
+      "issue": "conflicting_class_labels_in_transitive_duplicate_group",
+      "duplicate_group_id": "corrected-000323",
+      "labels": [
+        "Crack",
+        "Pothole"
+      ],
+      "image_paths": [
+        "D:\\major project\\Road damage data\\Crack\\20240301_073625 - Copy.jpg",
+        "D:\\major project\\Road damage data\\Crack\\20240301_073625.jpg",
+        "D:\\major project\\Road damage data\\Pot hole\\13 (2).JPG",
+        "D:\\major project\\Road damage data\\Pot hole\\13 (3).JPG",
+        "D:\\major project\\Road damage data\\Pot hole\\13.jpg"
+      ]
+    }
+  ],
+  "conflicting_label_groups": [
+    {
+      "duplicate_group_id": "corrected-000323",
+      "image_count": 5,
+      "labels": [
+        "Crack",
+        "Pothole"
+      ],
+      "image_paths": [
+        "D:\\major project\\Road damage data\\Crack\\20240301_073625 - Copy.jpg",
+        "D:\\major project\\Road damage data\\Crack\\20240301_073625.jpg",
+        "D:\\major project\\Road damage data\\Pot hole\\13 (2).JPG",
+        "D:\\major project\\Road damage data\\Pot hole\\13 (3).JPG",
+        "D:\\major project\\Road damage data\\Pot hole\\13.jpg"
+      ],
+      "exact_duplicate_group_ids": [
+        "exact-000080",
+        "exact-000640",
+        "exact-000991"
+      ],
+      "confirmed_duplicate_edge_count": 3,
+      "conflicting_labels": true,
+      "assigned_split": ""
+    }
+  ],
+  "confirmed_duplicate_groups_cross_partitions": null,
+  "exact_duplicate_groups_cross_partitions": false
+}

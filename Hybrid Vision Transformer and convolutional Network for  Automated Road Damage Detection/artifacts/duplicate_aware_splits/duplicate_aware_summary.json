@@ -1,0 +1,49 @@
+{
+  "project_title": "Hybrid Vision Transformer and convolutional Network for Automated Road Damage Detection",
+  "dataset_directory": "D:\\major project\\Road damage data",
+  "generated_at_utc": "2026-11-16T14:45:18.533419+00:00",
+  "seed": 42,
+  "near_duplicate_hamming_threshold": 8,
+  "original_dataset_modified": false,
+  "existing_model_or_artifacts_modified": false,
+  "total_files": 1607,
+  "readable_files": 1607,
+  "unreadable_files": [],
+  "exact_group_count": 1005,
+  "exact_duplicate_group_count": 462,
+  "exact_duplicate_paths": 1064,
+  "near_duplicate_candidate_count": 550,
+  "conflicting_label_group_count": 0,
+  "target_split_counts": {
+    "train": 1125,
+    "validation": 241,
+    "test": 241
+  },
+  "actual_split_counts": {
+    "validation": 241,
+    "test": 241,
+    "train": 1125
+  },
+  "class_distribution_by_split": {
+    "train": {
+      "Asphalt": 357,
+      "Crack": 410,
+      "Pothole": 358
+    },
+    "validation": {
+      "Asphalt": 76,
+      "Crack": 88,
+      "Pothole": 77
+    },
+    "test": {
+      "Asphalt": 77,
+      "Crack": 88,
+      "Pothole": 76
+    }
+  },
+  "split_ratio_deviation": {
+    "train": 0.7000622277535781,
+    "validation": 0.14996888612321096,
+    "test": 0.14996888612321096
+  }
+}

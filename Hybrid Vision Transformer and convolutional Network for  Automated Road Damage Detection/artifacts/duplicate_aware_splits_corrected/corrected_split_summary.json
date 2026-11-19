@@ -1,0 +1,63 @@
+{
+  "project_title": "Hybrid Vision Transformer and convolutional Network for Automated Road Damage Detection",
+  "generated_at_utc": "2026-11-19T13:28:55.475825+00:00",
+  "seed": 42,
+  "status": "completed",
+  "source_manifest": "D:\\major project\\Hybrid Vision Transformer and convolutional Network for  Automated Road Damage Detection\\artifacts\\duplicate_aware_splits\\split_manifest.csv",
+  "source_manual_review": "D:\\major project\\Hybrid Vision Transformer and convolutional Network for  Automated Road Damage Detection\\artifacts\\duplicate_aware_splits_corrected\\conflict_review\\corrected_manual_review_decisions.csv",
+  "original_dataset_modified": false,
+  "existing_split_manifest_modified": false,
+  "model_training_performed": false,
+  "total_original_images": 1607,
+  "total_manifest_images": 889,
+  "exact_duplicate_group_count": 1005,
+  "combined_duplicate_group_count": 889,
+  "combined_duplicate_groups_with_multiple_images": 494,
+  "confirmed_duplicate_decisions": 207,
+  "confirmed_duplicate_edges": 207,
+  "transitive_duplicate_group_count": 889,
+  "conflicting_label_group_count": 0,
+  "target_split_counts": {
+    "train": 1125,
+    "validation": 241,
+    "test": 241
+  },
+  "actual_split_counts": {
+    "train": 1125,
+    "test": 241,
+    "validation": 241
+  },
+  "class_distribution_all_files": {
+    "Asphalt": 510,
+    "Crack": 586,
+    "Pothole": 511
+  },
+  "class_distribution_by_split": {
+    "train": {
+      "Asphalt": 357,
+      "Crack": 410,
+      "Pothole": 358
+    },
+    "validation": {
+      "Asphalt": 76,
+      "Crack": 88,
+      "Pothole": 77
+    },
+    "test": {
+      "Asphalt": 77,
+      "Crack": 88,
+      "Pothole": 76
+    }
+  },
+  "split_ratio": {
+    "train": 0.7000622277535781,
+    "validation": 0.14996888612321096,
+    "test": 0.14996888612321096
+  },
+  "exact_verification_metadata": {
+    "train": 1125,
+    "validation": 241,
+    "test": 241
+  },
+  "limitations": []
+}

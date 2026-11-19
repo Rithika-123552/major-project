@@ -1,0 +1,890 @@
+duplicate_group_id,image_count,labels,exact_duplicate_group_ids,confirmed_duplicate_edge_count,conflicting_labels,assigned_split,image_paths
+corrected-000001,7,Asphalt,exact-000184|exact-000564|exact-000953,12,false,train,D:\major project\Road damage data\Asphalt\10.JPG|D:\major project\Road damage data\Asphalt\asp(10).JPG|D:\major project\Road damage data\Asphalt\asp(9).JPG|D:\major project\Road damage data\Asphalt\asp1 (24).JPG|D:\major project\Road damage data\Asphalt\asp1 (25).JPG|D:\major project\Road damage data\Asphalt\asphalt(10).JPG|D:\major project\Road damage data\Asphalt\asphalt(9).JPG
+corrected-000002,3,Asphalt,exact-000677|exact-000892,2,false,train,D:\major project\Road damage data\Asphalt\109.JPG|D:\major project\Road damage data\Asphalt\asp1 (101).JPG|D:\major project\Road damage data\Asphalt\asphalt(100).JPG
+corrected-000003,3,Asphalt,exact-000332|exact-000588,2,false,train,D:\major project\Road damage data\Asphalt\111.JPG|D:\major project\Road damage data\Asphalt\asp1 (103).JPG|D:\major project\Road damage data\Asphalt\asphalt(102).JPG
+corrected-000004,4,Asphalt,exact-000131|exact-000397,3,false,test,D:\major project\Road damage data\Asphalt\116.JPG|D:\major project\Road damage data\Asphalt\asp(91).JPG|D:\major project\Road damage data\Asphalt\asp1 (106).JPG|D:\major project\Road damage data\Asphalt\asphalt(106).JPG
+corrected-000005,3,Asphalt,exact-000339|exact-000939,2,false,train,D:\major project\Road damage data\Asphalt\12.JPG|D:\major project\Road damage data\Asphalt\asp1 (27).JPG|D:\major project\Road damage data\Asphalt\asphalt(12).JPG
+corrected-000006,3,Asphalt,exact-000174,0,false,test,D:\major project\Road damage data\Asphalt\13.JPG|D:\major project\Road damage data\Asphalt\asp1 (28).JPG|D:\major project\Road damage data\Asphalt\asphalt(13).JPG
+corrected-000007,3,Asphalt,exact-000820,0,false,train,D:\major project\Road damage data\Asphalt\16.JPG|D:\major project\Road damage data\Asphalt\asp1 (30).JPG|D:\major project\Road damage data\Asphalt\asphalt(15).JPG
+corrected-000008,3,Asphalt,exact-000521,0,false,validation,D:\major project\Road damage data\Asphalt\18.JPG|D:\major project\Road damage data\Asphalt\asp1 (31).JPG|D:\major project\Road damage data\Asphalt\asphalt(16).JPG
+corrected-000009,1,Asphalt,exact-000461,0,false,train,D:\major project\Road damage data\Asphalt\20240301_081401.jpg
+corrected-000010,1,Asphalt,exact-000908,0,false,test,D:\major project\Road damage data\Asphalt\20240301_081458.jpg
+corrected-000011,1,Asphalt,exact-000791,0,false,test,D:\major project\Road damage data\Asphalt\20240301_081628.jpg
+corrected-000012,3,Asphalt,exact-000403,0,false,train,D:\major project\Road damage data\Asphalt\27.JPG|D:\major project\Road damage data\Asphalt\asp1 (37).JPG|D:\major project\Road damage data\Asphalt\asphalt(24).JPG
+corrected-000013,4,Asphalt,exact-000375,0,false,train,D:\major project\Road damage data\Asphalt\28.JPG|D:\major project\Road damage data\Asphalt\asp(20).JPG|D:\major project\Road damage data\Asphalt\asp1 (38).JPG|D:\major project\Road damage data\Asphalt\asphalt(25).JPG
+corrected-000014,4,Asphalt,exact-000431,0,false,validation,D:\major project\Road damage data\Asphalt\38.JPG|D:\major project\Road damage data\Asphalt\asp(29).JPG|D:\major project\Road damage data\Asphalt\asp1 (46).JPG|D:\major project\Road damage data\Asphalt\asphalt(34).JPG
+corrected-000015,3,Asphalt,exact-000360,0,false,train,D:\major project\Road damage data\Asphalt\40.JPG|D:\major project\Road damage data\Asphalt\asp1 (48).JPG|D:\major project\Road damage data\Asphalt\asphalt(36).JPG
+corrected-000016,3,Asphalt,exact-000933,0,false,train,D:\major project\Road damage data\Asphalt\48.JPG|D:\major project\Road damage data\Asphalt\asp1 (55).JPG|D:\major project\Road damage data\Asphalt\asphalt(44).JPG
+corrected-000017,4,Asphalt,exact-000655,0,false,train,D:\major project\Road damage data\Asphalt\51.JPG|D:\major project\Road damage data\Asphalt\asp(40).JPG|D:\major project\Road damage data\Asphalt\asp1 (58).JPG|D:\major project\Road damage data\Asphalt\asphalt(47).JPG
+corrected-000018,4,Asphalt,exact-000963,0,false,test,D:\major project\Road damage data\Asphalt\52.JPG|D:\major project\Road damage data\Asphalt\asp(41).JPG|D:\major project\Road damage data\Asphalt\asp1 (59).JPG|D:\major project\Road damage data\Asphalt\asphalt(48).JPG
+corrected-000019,3,Asphalt,exact-000225,0,false,train,D:\major project\Road damage data\Asphalt\55.JPG|D:\major project\Road damage data\Asphalt\asp1 (61).JPG|D:\major project\Road damage data\Asphalt\asphalt(50).JPG
+corrected-000020,3,Asphalt,exact-000067,0,false,train,D:\major project\Road damage data\Asphalt\60.JPG|D:\major project\Road damage data\Asphalt\asp1 (64).JPG|D:\major project\Road damage data\Asphalt\asphalt(55).JPG
+corrected-000021,3,Asphalt,exact-000396,0,false,validation,D:\major project\Road damage data\Asphalt\74.JPG|D:\major project\Road damage data\Asphalt\asp1 (76).JPG|D:\major project\Road damage data\Asphalt\asphalt(67).JPG
+corrected-000022,3,Asphalt,exact-000813,0,false,train,D:\major project\Road damage data\Asphalt\77.JPG|D:\major project\Road damage data\Asphalt\asp1 (78).JPG|D:\major project\Road damage data\Asphalt\asphalt(70).JPG
+corrected-000023,3,Asphalt,exact-000644,0,false,validation,D:\major project\Road damage data\Asphalt\78.JPG|D:\major project\Road damage data\Asphalt\asp1 (79).JPG|D:\major project\Road damage data\Asphalt\asphalt(71).JPG
+corrected-000024,3,Asphalt,exact-000118,0,false,validation,D:\major project\Road damage data\Asphalt\86.JPG|D:\major project\Road damage data\Asphalt\asp1 (85).JPG|D:\major project\Road damage data\Asphalt\asphalt(78).JPG
+corrected-000025,4,Asphalt,exact-000999,0,false,train,D:\major project\Road damage data\Asphalt\94.JPG|D:\major project\Road damage data\Asphalt\asp(72).JPG|D:\major project\Road damage data\Asphalt\asp1 (90).JPG|D:\major project\Road damage data\Asphalt\asphalt(85).JPG
+corrected-000026,4,Asphalt,exact-000960,0,false,train,D:\major project\Road damage data\Asphalt\96.JPG|D:\major project\Road damage data\Asphalt\asp(74).JPG|D:\major project\Road damage data\Asphalt\asp1 (92).JPG|D:\major project\Road damage data\Asphalt\asphalt(87).JPG
+corrected-000027,4,Asphalt,exact-000254,0,false,train,D:\major project\Road damage data\Asphalt\97.JPG|D:\major project\Road damage data\Asphalt\asp(75).JPG|D:\major project\Road damage data\Asphalt\asp1 (93).JPG|D:\major project\Road damage data\Asphalt\asphalt(88).JPG
+corrected-000028,4,Asphalt,exact-000201|exact-000433|exact-001003,3,false,train,D:\major project\Road damage data\Asphalt\IMG-20240301-WA0018.jpg|D:\major project\Road damage data\Asphalt\IMG20240301081406 - Copy.jpg|D:\major project\Road damage data\Asphalt\IMG20240301081406.jpg|D:\major project\Road damage data\Asphalt\asphalt(120).jpg
+corrected-000029,2,Asphalt,exact-000120|exact-000555,1,false,test,D:\major project\Road damage data\Asphalt\IMG-20240301-WA0027.jpg|D:\major project\Road damage data\Asphalt\IMG20240301081411.jpg
+corrected-000030,1,Asphalt,exact-000212,0,false,validation,D:\major project\Road damage data\Asphalt\IMG-20240301-WA0042.jpg
+corrected-000031,1,Asphalt,exact-000259,0,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0000.jpg
+corrected-000032,1,Asphalt,exact-000852,0,false,validation,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0001.jpg
+corrected-000033,2,Asphalt,exact-000386|exact-000479,1,false,validation,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0002.jpg|D:\major project\Road damage data\Asphalt\photo_6217532711279641462_y.jpg
+corrected-000034,2,Asphalt,exact-000079|exact-000974,1,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0003.jpg|D:\major project\Road damage data\Asphalt\photo_6217532711279641461_y.jpg
+corrected-000035,1,Asphalt,exact-000703,0,false,validation,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0004.jpg
+corrected-000036,1,Asphalt,exact-000995,0,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0005.jpg
+corrected-000037,2,Asphalt,exact-000492|exact-000576,1,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0006.jpg|D:\major project\Road damage data\Asphalt\photo_6217532711279641458_y.jpg
+corrected-000038,3,Asphalt,exact-000488|exact-000961,2,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0007 - Copy.jpg|D:\major project\Road damage data\Asphalt\IMG-20240302-WA0007.jpg|D:\major project\Road damage data\Asphalt\photo_6217532711279641361_y.jpg
+corrected-000039,1,Asphalt,exact-000553,0,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0008.jpg
+corrected-000040,1,Asphalt,exact-000260,0,false,validation,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0009.jpg
+corrected-000041,1,Asphalt,exact-000906,0,false,test,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0010.jpg
+corrected-000042,1,Asphalt,exact-000097,0,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0012.jpg
+corrected-000043,1,Asphalt,exact-000615,0,false,test,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0015.jpg
+corrected-000044,2,Asphalt,exact-000057|exact-000607,1,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0016.jpg|D:\major project\Road damage data\Asphalt\photo_6217532711279641451_y.jpg
+corrected-000045,2,Asphalt,exact-000303|exact-000623,1,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0022.jpg|D:\major project\Road damage data\Asphalt\photo_6217532711279641446_y.jpg
+corrected-000046,2,Asphalt,exact-000006|exact-000818,1,false,validation,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0023.jpg|D:\major project\Road damage data\Asphalt\photo_6217532711279641445_y.jpg
+corrected-000047,1,Asphalt,exact-000388,0,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0027.jpg
+corrected-000048,2,Asphalt,exact-000119|exact-000322,1,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0031.jpg|D:\major project\Road damage data\Asphalt\photo_6217532711279641440_y.jpg
+corrected-000049,1,Asphalt,exact-000904,0,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0033.jpg
+corrected-000050,2,Asphalt,exact-000595|exact-000725,1,false,test,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0036.jpg|D:\major project\Road damage data\Asphalt\photo_6217532711279641436_y.jpg
+corrected-000051,1,Asphalt,exact-000659,0,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0039.jpg
+corrected-000052,1,Asphalt,exact-000241,0,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0042.jpg
+corrected-000053,1,Asphalt,exact-000616,0,false,validation,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0043.jpg
+corrected-000054,1,Asphalt,exact-000905,0,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0044.jpg
+corrected-000055,1,Asphalt,exact-000271,0,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0045.jpg
+corrected-000056,2,Asphalt,exact-000203|exact-000824,1,false,test,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0046.jpg|D:\major project\Road damage data\Asphalt\photo_6217532711279641431_y.jpg
+corrected-000057,1,Asphalt,exact-000840,0,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0047.jpg
+corrected-000058,1,Asphalt,exact-000464,0,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0048.jpg
+corrected-000059,1,Asphalt,exact-000449,0,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0051.jpg
+corrected-000060,2,Asphalt,exact-000091|exact-000182,1,false,validation,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0052.jpg|D:\major project\Road damage data\Asphalt\photo_6217532711279641427_y.jpg
+corrected-000061,1,Asphalt,exact-000810,0,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0056.jpg
+corrected-000062,1,Asphalt,exact-000063,0,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0063.jpg
+corrected-000063,1,Asphalt,exact-000984,0,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0064.jpg
+corrected-000064,1,Asphalt,exact-000790,0,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0065.jpg
+corrected-000065,1,Asphalt,exact-000017,0,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0066.jpg
+corrected-000066,1,Asphalt,exact-000037,0,false,test,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0067.jpg
+corrected-000067,1,Asphalt,exact-000546,0,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0068.jpg
+corrected-000068,1,Asphalt,exact-000296,0,false,test,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0070.jpg
+corrected-000069,1,Asphalt,exact-000558,0,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0071.jpg
+corrected-000070,1,Asphalt,exact-000333,0,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0073.jpg
+corrected-000071,1,Asphalt,exact-000803,0,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0074.jpg
+corrected-000072,1,Asphalt,exact-000686,0,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0075.jpg
+corrected-000073,1,Asphalt,exact-000293,0,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0077.jpg
+corrected-000074,1,Asphalt,exact-000992,0,false,validation,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0078.jpg
+corrected-000075,1,Asphalt,exact-000520,0,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0080.jpg
+corrected-000076,1,Asphalt,exact-000465,0,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0081.jpg
+corrected-000077,1,Asphalt,exact-000663,0,false,test,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0084.jpg
+corrected-000078,1,Asphalt,exact-000839,0,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0086.jpg
+corrected-000079,1,Asphalt,exact-000313,0,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0087.jpg
+corrected-000080,1,Asphalt,exact-000214,0,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0090.jpg
+corrected-000081,1,Asphalt,exact-000979,0,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0092.jpg
+corrected-000082,1,Asphalt,exact-000394,0,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0094.jpg
+corrected-000083,3,Asphalt,exact-000522|exact-000893,2,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0095 - Copy.jpg|D:\major project\Road damage data\Asphalt\IMG-20240302-WA0095.jpg|D:\major project\Road damage data\Asphalt\asphalt(112).jpg
+corrected-000084,1,Asphalt,exact-000967,0,false,validation,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0097.jpg
+corrected-000085,2,Asphalt,exact-000766|exact-000944,1,false,test,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0098.jpg|D:\major project\Road damage data\Asphalt\photo_6217532711279641369_y.jpg
+corrected-000086,3,Asphalt,exact-000384|exact-000884,2,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0099.jpg|D:\major project\Road damage data\Asphalt\photo_6217532711279641367_y (1).jpg|D:\major project\Road damage data\Asphalt\photo_6217532711279641367_y.jpg
+corrected-000087,1,Asphalt,exact-000138,0,false,validation,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0100.jpg
+corrected-000088,2,Asphalt,exact-000361,0,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0101 - Copy.jpg|D:\major project\Road damage data\Asphalt\IMG-20240302-WA0101.jpg
+corrected-000089,2,Asphalt,exact-000921,0,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0102 - Copy.jpg|D:\major project\Road damage data\Asphalt\IMG-20240302-WA0102.jpg
+corrected-000090,1,Asphalt,exact-000565,0,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0103.jpg
+corrected-000091,2,Asphalt,exact-000257,0,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0106 - Copy.jpg|D:\major project\Road damage data\Asphalt\IMG-20240302-WA0106.jpg
+corrected-000092,1,Asphalt,exact-000035,0,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0107.jpg
+corrected-000093,1,Asphalt,exact-000238,0,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0108.jpg
+corrected-000094,1,Asphalt,exact-000484,0,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0114.jpg
+corrected-000095,1,Asphalt,exact-000606,0,false,validation,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0118.jpg
+corrected-000096,4,Asphalt,exact-000620|exact-000863|exact-000947,3,false,validation,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0119 - Copy.jpg|D:\major project\Road damage data\Asphalt\IMG-20240302-WA0119.jpg|D:\major project\Road damage data\Asphalt\asphalt(114).jpg|D:\major project\Road damage data\Asphalt\photo_6217532711279641364_y.jpg
+corrected-000097,2,Asphalt,exact-000627,0,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0120 - Copy.jpg|D:\major project\Road damage data\Asphalt\IMG-20240302-WA0120.jpg
+corrected-000098,3,Asphalt,exact-000436,0,false,train,D:\major project\Road damage data\Asphalt\IMG-20240302-WA0122 - Copy.jpg|D:\major project\Road damage data\Asphalt\IMG-20240302-WA0122.jpg|D:\major project\Road damage data\Asphalt\asphalt(116).jpg
+corrected-000099,3,Asphalt,exact-000168,0,false,test,D:\major project\Road damage data\Asphalt\IMG-20240303-WA0000 - Copy.jpg|D:\major project\Road damage data\Asphalt\IMG-20240303-WA0000.jpg|D:\major project\Road damage data\Asphalt\asphalt(117).jpg
+corrected-000100,2,Asphalt,exact-000366|exact-000617,1,false,test,D:\major project\Road damage data\Asphalt\IMG-20240303-WA0001.jpg|D:\major project\Road damage data\Asphalt\photo_6217532711279641357_y.jpg
+corrected-000101,1,Asphalt,exact-000146,0,false,validation,D:\major project\Road damage data\Asphalt\IMG-20240303-WA0002.jpg
+corrected-000102,3,Asphalt,exact-000096,0,false,test,D:\major project\Road damage data\Asphalt\IMG-20240303-WA0003 - Copy.jpg|D:\major project\Road damage data\Asphalt\IMG-20240303-WA0003.jpg|D:\major project\Road damage data\Asphalt\asphalt(118).jpg
+corrected-000103,3,Asphalt,exact-000879,0,false,train,D:\major project\Road damage data\Asphalt\IMG-20240303-WA0004 - Copy.jpg|D:\major project\Road damage data\Asphalt\IMG-20240303-WA0004.jpg|D:\major project\Road damage data\Asphalt\asphalt(119).jpg
+corrected-000104,1,Asphalt,exact-000074,0,false,test,D:\major project\Road damage data\Asphalt\IMG-20240303-WA0006.jpg
+corrected-000105,1,Asphalt,exact-000519,0,false,validation,D:\major project\Road damage data\Asphalt\IMG-20240305-WA0060.jpg
+corrected-000106,2,Asphalt,exact-000139|exact-000653,1,false,train,D:\major project\Road damage data\Asphalt\IMG20240221072943.jpg|D:\major project\Road damage data\Asphalt\photo_6217532711279641468_y.jpg
+corrected-000107,2,Asphalt,exact-000050|exact-000501,1,false,train,D:\major project\Road damage data\Asphalt\IMG20240301094458.jpg|D:\major project\Road damage data\Asphalt\photo_6217532711279641485_y.jpg
+corrected-000108,1,Asphalt,exact-000270,0,false,train,D:\major project\Road damage data\Asphalt\IMG20240301094506.jpg
+corrected-000109,1,Asphalt,exact-000435,0,false,train,D:\major project\Road damage data\Asphalt\IMG20240301094728.jpg
+corrected-000110,1,Asphalt,exact-000393,0,false,validation,D:\major project\Road damage data\Asphalt\IMG20240301095632.jpg
+corrected-000111,1,Asphalt,exact-000815,0,false,train,D:\major project\Road damage data\Asphalt\IMG20240301102450.jpg
+corrected-000112,1,Asphalt,exact-000842,0,false,train,D:\major project\Road damage data\Asphalt\IMG20240301153739.jpg
+corrected-000113,1,Asphalt,exact-000246,0,false,train,D:\major project\Road damage data\Asphalt\IMG20240301153743.jpg
+corrected-000114,1,Asphalt,exact-000603,0,false,test,D:\major project\Road damage data\Asphalt\IMG20240301153850.jpg
+corrected-000115,1,Asphalt,exact-000741,0,false,train,D:\major project\Road damage data\Asphalt\IMG20240301153914.jpg
+corrected-000116,1,Asphalt,exact-000563,0,false,train,D:\major project\Road damage data\Asphalt\IMG_20240301_171534.jpg
+corrected-000117,1,Asphalt,exact-000487,0,false,validation,D:\major project\Road damage data\Asphalt\IMG_20240301_171555.jpg
+corrected-000118,3,Asphalt,exact-000142,0,false,train,D:\major project\Road damage data\Asphalt\asp(1).JPG|D:\major project\Road damage data\Asphalt\asp1 (18).JPG|D:\major project\Road damage data\Asphalt\asphalt(1).JPG
+corrected-000119,2,Asphalt,exact-000569,0,false,validation,D:\major project\Road damage data\Asphalt\asp(11).JPG|D:\major project\Road damage data\Asphalt\asp1 (26).JPG
+corrected-000120,3,Asphalt,exact-000125,0,false,train,D:\major project\Road damage data\Asphalt\asp(12).JPG|D:\major project\Road damage data\Asphalt\asp1 (29).JPG|D:\major project\Road damage data\Asphalt\asphalt(14).JPG
+corrected-000121,3,Asphalt,exact-000680,0,false,train,D:\major project\Road damage data\Asphalt\asp(13).JPG|D:\major project\Road damage data\Asphalt\asp1 (32).JPG|D:\major project\Road damage data\Asphalt\asphalt(17).JPG
+corrected-000122,3,Asphalt,exact-000582,0,false,train,D:\major project\Road damage data\Asphalt\asp(14).JPG|D:\major project\Road damage data\Asphalt\asp1 (33).JPG|D:\major project\Road damage data\Asphalt\asphalt(18).JPG
+corrected-000123,3,Asphalt,exact-000948,0,false,train,D:\major project\Road damage data\Asphalt\asp(15).JPG|D:\major project\Road damage data\Asphalt\asp1 (34).JPG|D:\major project\Road damage data\Asphalt\asphalt(19).JPG
+corrected-000124,2,Asphalt,exact-000675,0,false,train,D:\major project\Road damage data\Asphalt\asp(16).JPG|D:\major project\Road damage data\Asphalt\asphalt(20).JPG
+corrected-000125,3,Asphalt,exact-000323,0,false,train,D:\major project\Road damage data\Asphalt\asp(17).JPG|D:\major project\Road damage data\Asphalt\asp1 (35).JPG|D:\major project\Road damage data\Asphalt\asphalt(21).JPG
+corrected-000126,3,Asphalt,exact-000611,0,false,train,D:\major project\Road damage data\Asphalt\asp(18).JPG|D:\major project\Road damage data\Asphalt\asp1 (36).JPG|D:\major project\Road damage data\Asphalt\asphalt(22).JPG
+corrected-000127,2,Asphalt,exact-000379,0,false,train,D:\major project\Road damage data\Asphalt\asp(19).JPG|D:\major project\Road damage data\Asphalt\asphalt(23).JPG
+corrected-000128,2,Asphalt,exact-000585,0,false,train,D:\major project\Road damage data\Asphalt\asp(2).JPG|D:\major project\Road damage data\Asphalt\asphalt(2).JPG
+corrected-000129,3,Asphalt,exact-000165,0,false,test,D:\major project\Road damage data\Asphalt\asp(21).JPG|D:\major project\Road damage data\Asphalt\asp1 (39).JPG|D:\major project\Road damage data\Asphalt\asphalt(26).JPG
+corrected-000130,2,Asphalt,exact-000583,0,false,train,D:\major project\Road damage data\Asphalt\asp(22).JPG|D:\major project\Road damage data\Asphalt\asphalt(27).JPG
+corrected-000131,3,Asphalt,exact-000802,0,false,train,D:\major project\Road damage data\Asphalt\asp(23).JPG|D:\major project\Road damage data\Asphalt\asp1 (40).JPG|D:\major project\Road damage data\Asphalt\asphalt(28).JPG
+corrected-000132,3,Asphalt,exact-000608,0,false,train,D:\major project\Road damage data\Asphalt\asp(24).JPG|D:\major project\Road damage data\Asphalt\asp1 (41).JPG|D:\major project\Road damage data\Asphalt\asphalt(29).JPG
+corrected-000133,3,Asphalt,exact-000373,0,false,validation,D:\major project\Road damage data\Asphalt\asp(25).JPG|D:\major project\Road damage data\Asphalt\asp1 (42).JPG|D:\major project\Road damage data\Asphalt\asphalt(30).JPG
+corrected-000134,3,Asphalt,exact-000003,0,false,train,D:\major project\Road damage data\Asphalt\asp(26).JPG|D:\major project\Road damage data\Asphalt\asp1 (43).JPG|D:\major project\Road damage data\Asphalt\asphalt(31).JPG
+corrected-000135,3,Asphalt,exact-000369,0,false,train,D:\major project\Road damage data\Asphalt\asp(27).JPG|D:\major project\Road damage data\Asphalt\asp1 (44).JPG|D:\major project\Road damage data\Asphalt\asphalt(32).JPG
+corrected-000136,3,Asphalt,exact-000325,0,false,train,D:\major project\Road damage data\Asphalt\asp(28).JPG|D:\major project\Road damage data\Asphalt\asp1 (45).JPG|D:\major project\Road damage data\Asphalt\asphalt(33).JPG
+corrected-000137,3,Asphalt,exact-000507,0,false,train,D:\major project\Road damage data\Asphalt\asp(3).JPG|D:\major project\Road damage data\Asphalt\asp1 (19).JPG|D:\major project\Road damage data\Asphalt\asphalt(3).JPG
+corrected-000138,3,Asphalt,exact-000951,0,false,test,D:\major project\Road damage data\Asphalt\asp(30).JPG|D:\major project\Road damage data\Asphalt\asp1 (47).JPG|D:\major project\Road damage data\Asphalt\asphalt(35).JPG
+corrected-000139,3,Asphalt,exact-000122,0,false,train,D:\major project\Road damage data\Asphalt\asp(31).JPG|D:\major project\Road damage data\Asphalt\asp1 (49).JPG|D:\major project\Road damage data\Asphalt\asphalt(37).JPG
+corrected-000140,3,Asphalt,exact-000402,0,false,test,D:\major project\Road damage data\Asphalt\asp(32).JPG|D:\major project\Road damage data\Asphalt\asp1 (50).JPG|D:\major project\Road damage data\Asphalt\asphalt(38).JPG
+corrected-000141,3,Asphalt,exact-000648,0,false,train,D:\major project\Road damage data\Asphalt\asp(33).JPG|D:\major project\Road damage data\Asphalt\asp1 (51).JPG|D:\major project\Road damage data\Asphalt\asphalt(39).JPG
+corrected-000142,3,Asphalt,exact-000643,0,false,train,D:\major project\Road damage data\Asphalt\asp(34).JPG|D:\major project\Road damage data\Asphalt\asp1 (52).JPG|D:\major project\Road damage data\Asphalt\asphalt(40).JPG
+corrected-000143,3,Asphalt,exact-000392,0,false,validation,D:\major project\Road damage data\Asphalt\asp(35).JPG|D:\major project\Road damage data\Asphalt\asp1 (53).JPG|D:\major project\Road damage data\Asphalt\asphalt(41).JPG
+corrected-000144,3,Asphalt,exact-000971,0,false,train,D:\major project\Road damage data\Asphalt\asp(36).JPG|D:\major project\Road damage data\Asphalt\asp1 (54).JPG|D:\major project\Road damage data\Asphalt\asphalt(42).JPG
+corrected-000145,2,Asphalt,exact-000013,0,false,train,D:\major project\Road damage data\Asphalt\asp(37).JPG|D:\major project\Road damage data\Asphalt\asphalt(43).JPG
+corrected-000146,3,Asphalt,exact-000164,0,false,train,D:\major project\Road damage data\Asphalt\asp(38).JPG|D:\major project\Road damage data\Asphalt\asp1 (56).JPG|D:\major project\Road damage data\Asphalt\asphalt(45).JPG
+corrected-000147,3,Asphalt,exact-000135,0,false,train,D:\major project\Road damage data\Asphalt\asp(39).JPG|D:\major project\Road damage data\Asphalt\asp1 (57).JPG|D:\major project\Road damage data\Asphalt\asphalt(46).JPG
+corrected-000148,2,Asphalt,exact-000264,0,false,train,D:\major project\Road damage data\Asphalt\asp(4).JPG|D:\major project\Road damage data\Asphalt\asphalt(4).JPG
+corrected-000149,3,Asphalt,exact-000004,0,false,train,D:\major project\Road damage data\Asphalt\asp(42).JPG|D:\major project\Road damage data\Asphalt\asp1 (60).JPG|D:\major project\Road damage data\Asphalt\asphalt(49).JPG
+corrected-000150,3,Asphalt,exact-000796,0,false,train,D:\major project\Road damage data\Asphalt\asp(43).JPG|D:\major project\Road damage data\Asphalt\asp1 (62).JPG|D:\major project\Road damage data\Asphalt\asphalt(51).JPG
+corrected-000151,2,Asphalt,exact-000874,0,false,train,D:\major project\Road damage data\Asphalt\asp(44).JPG|D:\major project\Road damage data\Asphalt\asphalt(52).JPG
+corrected-000152,2,Asphalt,exact-000282,0,false,validation,D:\major project\Road damage data\Asphalt\asp(45).JPG|D:\major project\Road damage data\Asphalt\asphalt(53).JPG
+corrected-000153,3,Asphalt,exact-000363,0,false,train,D:\major project\Road damage data\Asphalt\asp(46).JPG|D:\major project\Road damage data\Asphalt\asp1 (63).JPG|D:\major project\Road damage data\Asphalt\asphalt(54).JPG
+corrected-000154,3,Asphalt,exact-000594,0,false,validation,D:\major project\Road damage data\Asphalt\asp(47).JPG|D:\major project\Road damage data\Asphalt\asp1 (65).JPG|D:\major project\Road damage data\Asphalt\asphalt(56).JPG
+corrected-000155,3,Asphalt,exact-000748,0,false,test,D:\major project\Road damage data\Asphalt\asp(48).JPG|D:\major project\Road damage data\Asphalt\asp1 (66).JPG|D:\major project\Road damage data\Asphalt\asphalt(57).JPG
+corrected-000156,3,Asphalt,exact-000938,0,false,train,D:\major project\Road damage data\Asphalt\asp(49).JPG|D:\major project\Road damage data\Asphalt\asp1 (67).JPG|D:\major project\Road damage data\Asphalt\asphalt(58).JPG
+corrected-000157,3,Asphalt,exact-000277,0,false,test,D:\major project\Road damage data\Asphalt\asp(5).JPG|D:\major project\Road damage data\Asphalt\asp1 (20).JPG|D:\major project\Road damage data\Asphalt\asphalt(5).JPG
+corrected-000158,3,Asphalt,exact-000554,0,false,train,D:\major project\Road damage data\Asphalt\asp(50).JPG|D:\major project\Road damage data\Asphalt\asp1 (68).JPG|D:\major project\Road damage data\Asphalt\asphalt(59).JPG
+corrected-000159,3,Asphalt,exact-000865,0,false,test,D:\major project\Road damage data\Asphalt\asp(51).JPG|D:\major project\Road damage data\Asphalt\asp1 (69).JPG|D:\major project\Road damage data\Asphalt\asphalt(60).JPG
+corrected-000160,3,Asphalt,exact-000735,0,false,train,D:\major project\Road damage data\Asphalt\asp(52).JPG|D:\major project\Road damage data\Asphalt\asp1 (70).JPG|D:\major project\Road damage data\Asphalt\asphalt(61).JPG
+corrected-000161,3,Asphalt,exact-000636,0,false,train,D:\major project\Road damage data\Asphalt\asp(53).JPG|D:\major project\Road damage data\Asphalt\asp1 (71).JPG|D:\major project\Road damage data\Asphalt\asphalt(62).JPG
+corrected-000162,3,Asphalt,exact-000183,0,false,train,D:\major project\Road damage data\Asphalt\asp(54).JPG|D:\major project\Road damage data\Asphalt\asp1 (72).JPG|D:\major project\Road damage data\Asphalt\asphalt(63).JPG
+corrected-000163,3,Asphalt,exact-000580,0,false,train,D:\major project\Road damage data\Asphalt\asp(55).JPG|D:\major project\Road damage data\Asphalt\asp1 (73).JPG|D:\major project\Road damage data\Asphalt\asphalt(64).JPG
+corrected-000164,3,Asphalt,exact-000026,0,false,train,D:\major project\Road damage data\Asphalt\asp(56).JPG|D:\major project\Road damage data\Asphalt\asp1 (74).JPG|D:\major project\Road damage data\Asphalt\asphalt(65).JPG
+corrected-000165,3,Asphalt,exact-000638,0,false,train,D:\major project\Road damage data\Asphalt\asp(57).JPG|D:\major project\Road damage data\Asphalt\asp1 (75).JPG|D:\major project\Road damage data\Asphalt\asphalt(66).JPG
+corrected-000166,3,Asphalt,exact-000075,0,false,validation,D:\major project\Road damage data\Asphalt\asp(58).JPG|D:\major project\Road damage data\Asphalt\asp1 (77).JPG|D:\major project\Road damage data\Asphalt\asphalt(68).JPG
+corrected-000167,2,Asphalt,exact-000353,0,false,train,D:\major project\Road damage data\Asphalt\asp(59).JPG|D:\major project\Road damage data\Asphalt\asphalt(69).JPG
+corrected-000168,3,Asphalt,exact-000745,0,false,validation,D:\major project\Road damage data\Asphalt\asp(6).JPG|D:\major project\Road damage data\Asphalt\asp1 (21).JPG|D:\major project\Road damage data\Asphalt\asphalt(6).JPG
+corrected-000169,3,Asphalt,exact-000398,0,false,validation,D:\major project\Road damage data\Asphalt\asp(60).JPG|D:\major project\Road damage data\Asphalt\asp1 (80).JPG|D:\major project\Road damage data\Asphalt\asphalt(72).JPG
+corrected-000170,3,Asphalt,exact-000104,0,false,train,D:\major project\Road damage data\Asphalt\asp(61).JPG|D:\major project\Road damage data\Asphalt\asp1 (81).JPG|D:\major project\Road damage data\Asphalt\asphalt(73).JPG
+corrected-000171,3,Asphalt,exact-000804,0,false,train,D:\major project\Road damage data\Asphalt\asp(62).JPG|D:\major project\Road damage data\Asphalt\asp1 (82).JPG|D:\major project\Road damage data\Asphalt\asphalt(74).JPG
+corrected-000172,3,Asphalt,exact-000228,0,false,train,D:\major project\Road damage data\Asphalt\asp(63).JPG|D:\major project\Road damage data\Asphalt\asp1 (83).JPG|D:\major project\Road damage data\Asphalt\asphalt(75).JPG
+corrected-000173,3,Asphalt,exact-000985,0,false,test,D:\major project\Road damage data\Asphalt\asp(64).JPG|D:\major project\Road damage data\Asphalt\asp1 (84).JPG|D:\major project\Road damage data\Asphalt\asphalt(76).JPG
+corrected-000174,2,Asphalt,exact-000889,0,false,validation,D:\major project\Road damage data\Asphalt\asp(65).JPG|D:\major project\Road damage data\Asphalt\asphalt(77).JPG
+corrected-000175,3,Asphalt,exact-000651,0,false,validation,D:\major project\Road damage data\Asphalt\asp(66).JPG|D:\major project\Road damage data\Asphalt\asp1 (86).JPG|D:\major project\Road damage data\Asphalt\asphalt(79).JPG
+corrected-000176,3,Asphalt,exact-000015,0,false,train,D:\major project\Road damage data\Asphalt\asp(67).JPG|D:\major project\Road damage data\Asphalt\asp1 (87).JPG|D:\major project\Road damage data\Asphalt\asphalt(80).JPG
+corrected-000177,2,Asphalt,exact-000864,0,false,train,D:\major project\Road damage data\Asphalt\asp(68).JPG|D:\major project\Road damage data\Asphalt\asphalt(81).JPG
+corrected-000178,2,Asphalt,exact-000658,0,false,train,D:\major project\Road damage data\Asphalt\asp(69).JPG|D:\major project\Road damage data\Asphalt\asphalt(82).JPG
+corrected-000179,3,Asphalt,exact-000605,0,false,validation,D:\major project\Road damage data\Asphalt\asp(7).JPG|D:\major project\Road damage data\Asphalt\asp1 (22).JPG|D:\major project\Road damage data\Asphalt\asphalt(7).JPG
+corrected-000180,3,Asphalt,exact-000250,0,false,validation,D:\major project\Road damage data\Asphalt\asp(70).JPG|D:\major project\Road damage data\Asphalt\asp1 (88).JPG|D:\major project\Road damage data\Asphalt\asphalt(83).JPG
+corrected-000181,3,Asphalt,exact-000136,0,false,train,D:\major project\Road damage data\Asphalt\asp(71).JPG|D:\major project\Road damage data\Asphalt\asp1 (89).JPG|D:\major project\Road damage data\Asphalt\asphalt(84).JPG
+corrected-000182,3,Asphalt,exact-000305,0,false,train,D:\major project\Road damage data\Asphalt\asp(73).JPG|D:\major project\Road damage data\Asphalt\asp1 (91).JPG|D:\major project\Road damage data\Asphalt\asphalt(86).JPG
+corrected-000183,2,Asphalt,exact-000292,0,false,test,D:\major project\Road damage data\Asphalt\asp(76).JPG|D:\major project\Road damage data\Asphalt\asphalt(89).JPG
+corrected-000184,3,Asphalt,exact-000459,0,false,train,D:\major project\Road damage data\Asphalt\asp(77).JPG|D:\major project\Road damage data\Asphalt\asp1 (94).JPG|D:\major project\Road damage data\Asphalt\asphalt(90).JPG
+corrected-000185,3,Asphalt,exact-000900,0,false,train,D:\major project\Road damage data\Asphalt\asp(78).JPG|D:\major project\Road damage data\Asphalt\asp1 (95).JPG|D:\major project\Road damage data\Asphalt\asphalt(91).JPG
+corrected-000186,2,Asphalt,exact-000816,0,false,train,D:\major project\Road damage data\Asphalt\asp(79).JPG|D:\major project\Road damage data\Asphalt\asphalt(92).JPG
+corrected-000187,3,Asphalt,exact-000913,0,false,test,D:\major project\Road damage data\Asphalt\asp(8).JPG|D:\major project\Road damage data\Asphalt\asp1 (23).JPG|D:\major project\Road damage data\Asphalt\asphalt(8).JPG
+corrected-000188,3,Asphalt,exact-000621,0,false,train,D:\major project\Road damage data\Asphalt\asp(80).JPG|D:\major project\Road damage data\Asphalt\asp1 (96).JPG|D:\major project\Road damage data\Asphalt\asphalt(93).JPG
+corrected-000189,3,Asphalt,exact-000041,0,false,train,D:\major project\Road damage data\Asphalt\asp(81).JPG|D:\major project\Road damage data\Asphalt\asp1 (97).JPG|D:\major project\Road damage data\Asphalt\asphalt(94).JPG
+corrected-000190,2,Asphalt,exact-000141,0,false,train,D:\major project\Road damage data\Asphalt\asp(82).JPG|D:\major project\Road damage data\Asphalt\asphalt(95).JPG
+corrected-000191,3,Asphalt,exact-000227,0,false,train,D:\major project\Road damage data\Asphalt\asp(83).JPG|D:\major project\Road damage data\Asphalt\asp1 (98).JPG|D:\major project\Road damage data\Asphalt\asphalt(96).JPG
+corrected-000192,3,Asphalt,exact-000460,0,false,train,D:\major project\Road damage data\Asphalt\asp(84).JPG|D:\major project\Road damage data\Asphalt\asp1 (99).JPG|D:\major project\Road damage data\Asphalt\asphalt(97).JPG
+corrected-000193,3,Asphalt,exact-000458,0,false,train,D:\major project\Road damage data\Asphalt\asp(85).JPG|D:\major project\Road damage data\Asphalt\asp1 (100).JPG|D:\major project\Road damage data\Asphalt\asphalt(98).JPG
+corrected-000194,2,Asphalt,exact-000795,0,false,train,D:\major project\Road damage data\Asphalt\asp(86).JPG|D:\major project\Road damage data\Asphalt\asphalt(99).JPG
+corrected-000195,3,Asphalt,exact-000078|exact-000740,2,false,test,D:\major project\Road damage data\Asphalt\asp(87).JPG|D:\major project\Road damage data\Asphalt\asp1 (102).JPG|D:\major project\Road damage data\Asphalt\asphalt(101).JPG
+corrected-000196,2,Asphalt,exact-000406,0,false,test,D:\major project\Road damage data\Asphalt\asp(88).JPG|D:\major project\Road damage data\Asphalt\asp1 (104).JPG
+corrected-000197,2,Asphalt,exact-000711,0,false,train,D:\major project\Road damage data\Asphalt\asp(89).JPG|D:\major project\Road damage data\Asphalt\asp1 (105).JPG
+corrected-000198,1,Asphalt,exact-000531,0,false,train,D:\major project\Road damage data\Asphalt\asp(90).JPG
+corrected-000199,2,Asphalt,exact-000278,0,false,train,D:\major project\Road damage data\Asphalt\asp(92).JPG|D:\major project\Road damage data\Asphalt\asp1 (107).JPG
+corrected-000200,2,Asphalt,exact-000428|exact-000826,1,false,test,D:\major project\Road damage data\Asphalt\asp(93).JPG|D:\major project\Road damage data\Asphalt\asphalt(108).JPG
+corrected-000201,3,Asphalt,exact-000883|exact-000959,2,false,train,D:\major project\Road damage data\Asphalt\asp(94).JPG|D:\major project\Road damage data\Asphalt\asp1 (108).JPG|D:\major project\Road damage data\Asphalt\asphalt(109).JPG
+corrected-000202,2,Asphalt,exact-000596,0,false,train,D:\major project\Road damage data\Asphalt\asp(95).JPG|D:\major project\Road damage data\Asphalt\asp1 (109).JPG
+corrected-000203,4,Asphalt,exact-000032|exact-000381|exact-000523,4,false,train,D:\major project\Road damage data\Asphalt\asp(96).jpg|D:\major project\Road damage data\Asphalt\asp1 (110).jpg|D:\major project\Road damage data\Asphalt\asphalt(111).jpg|D:\major project\Road damage data\Asphalt\photo_6217532711279641450_y.jpg
+corrected-000204,2,Asphalt,exact-000185|exact-000574,1,false,train,D:\major project\Road damage data\Asphalt\asp1 (1).JPG|D:\major project\Road damage data\Asphalt\asp1 (3).JPG
+corrected-000205,1,Asphalt,exact-000230,0,false,train,D:\major project\Road damage data\Asphalt\asp1 (10).JPG
+corrected-000206,1,Asphalt,exact-000759,0,false,test,D:\major project\Road damage data\Asphalt\asp1 (11).JPG
+corrected-000207,1,Asphalt,exact-000602,0,false,train,D:\major project\Road damage data\Asphalt\asp1 (12).JPG
+corrected-000208,1,Asphalt,exact-000216,0,false,test,D:\major project\Road damage data\Asphalt\asp1 (13).JPG
+corrected-000209,1,Asphalt,exact-000326,0,false,train,D:\major project\Road damage data\Asphalt\asp1 (14).JPG
+corrected-000210,1,Asphalt,exact-000650,0,false,train,D:\major project\Road damage data\Asphalt\asp1 (15).JPG
+corrected-000211,1,Asphalt,exact-000841,0,false,train,D:\major project\Road damage data\Asphalt\asp1 (16).JPG
+corrected-000212,2,Asphalt,exact-000453|exact-000729,1,false,train,D:\major project\Road damage data\Asphalt\asp1 (17).JPG|D:\major project\Road damage data\Asphalt\asp1 (5).JPG
+corrected-000213,1,Asphalt,exact-000765,0,false,train,D:\major project\Road damage data\Asphalt\asp1 (2).JPG
+corrected-000214,1,Asphalt,exact-000855,0,false,train,D:\major project\Road damage data\Asphalt\asp1 (4).JPG
+corrected-000215,1,Asphalt,exact-000557,0,false,train,D:\major project\Road damage data\Asphalt\asp1 (6).JPG
+corrected-000216,1,Asphalt,exact-000856,0,false,train,D:\major project\Road damage data\Asphalt\asp1 (7).JPG
+corrected-000217,1,Asphalt,exact-000897,0,false,train,D:\major project\Road damage data\Asphalt\asp1 (8).JPG
+corrected-000218,1,Asphalt,exact-000786,0,false,validation,D:\major project\Road damage data\Asphalt\asp1 (9).JPG
+corrected-000219,1,Asphalt,exact-000998,0,false,train,D:\major project\Road damage data\Asphalt\asphalt(103).JPG
+corrected-000220,1,Asphalt,exact-000395,0,false,test,D:\major project\Road damage data\Asphalt\asphalt(104).JPG
+corrected-000221,1,Asphalt,exact-000012,0,false,train,D:\major project\Road damage data\Asphalt\asphalt(105).JPG
+corrected-000222,1,Asphalt,exact-000253,0,false,train,D:\major project\Road damage data\Asphalt\asphalt(107).JPG
+corrected-000223,1,Asphalt,exact-000579,0,false,train,D:\major project\Road damage data\Asphalt\asphalt(11).JPG
+corrected-000224,1,Asphalt,exact-000319,0,false,train,D:\major project\Road damage data\Asphalt\asphalt(110).JPG
+corrected-000225,1,Asphalt,exact-000792,0,false,train,D:\major project\Road damage data\Asphalt\asphalt(113).jpg
+corrected-000226,1,Asphalt,exact-000632,0,false,test,D:\major project\Road damage data\Asphalt\asphalt(115).jpg
+corrected-000227,1,Asphalt,exact-000172,0,false,train,D:\major project\Road damage data\Asphalt\photo_6217532711279641351_y.jpg
+corrected-000228,1,Asphalt,exact-000180,0,false,train,D:\major project\Road damage data\Asphalt\photo_6217532711279641353_y.jpg
+corrected-000229,1,Asphalt,exact-000049,0,false,test,D:\major project\Road damage data\Asphalt\photo_6217532711279641354_y.jpg
+corrected-000230,1,Asphalt,exact-000784,0,false,train,D:\major project\Road damage data\Asphalt\photo_6217532711279641355_y.jpg
+corrected-000231,1,Asphalt,exact-000420,0,false,train,D:\major project\Road damage data\Asphalt\photo_6217532711279641356_y.jpg
+corrected-000232,1,Asphalt,exact-000390,0,false,train,D:\major project\Road damage data\Asphalt\photo_6217532711279641358_y.jpg
+corrected-000233,1,Asphalt,exact-000719,0,false,train,D:\major project\Road damage data\Asphalt\photo_6217532711279641362_y.jpg
+corrected-000234,1,Asphalt,exact-000054,0,false,train,D:\major project\Road damage data\Asphalt\photo_6217532711279641363_y.jpg
+corrected-000235,1,Asphalt,exact-000110,0,false,train,D:\major project\Road damage data\Asphalt\photo_6217532711279641365_y.jpg
+corrected-000236,2,Asphalt,exact-000642,0,false,train,D:\major project\Road damage data\Asphalt\photo_6217532711279641366_y (1).jpg|D:\major project\Road damage data\Asphalt\photo_6217532711279641366_y.jpg
+corrected-000237,1,Asphalt,exact-000404,0,false,train,D:\major project\Road damage data\Asphalt\photo_6217532711279641421_y.jpg
+corrected-000238,1,Asphalt,exact-000039,0,false,test,D:\major project\Road damage data\Asphalt\photo_6217532711279641422_y.jpg
+corrected-000239,1,Asphalt,exact-000208,0,false,train,D:\major project\Road damage data\Asphalt\photo_6217532711279641425_y.jpg
+corrected-000240,2,Asphalt,exact-000549,0,false,train,D:\major project\Road damage data\Asphalt\photo_6217532711279641433_y (1).jpg|D:\major project\Road damage data\Asphalt\photo_6217532711279641433_y.jpg
+corrected-000241,1,Asphalt,exact-000926,0,false,train,D:\major project\Road damage data\Asphalt\photo_6217532711279641434_y.jpg
+corrected-000242,1,Asphalt,exact-000055,0,false,test,D:\major project\Road damage data\Asphalt\photo_6217532711279641435_y.jpg
+corrected-000243,1,Asphalt,exact-000414,0,false,validation,D:\major project\Road damage data\Asphalt\photo_6217532711279641442_y.jpg
+corrected-000244,1,Asphalt,exact-000053,0,false,train,D:\major project\Road damage data\Asphalt\photo_6217532711279641443_y.jpg
+corrected-000245,1,Asphalt,exact-000029,0,false,train,D:\major project\Road damage data\Asphalt\photo_6217532711279641444_y.jpg
+corrected-000246,1,Asphalt,exact-000756,0,false,train,D:\major project\Road damage data\Asphalt\photo_6217532711279641454_y.jpg
+corrected-000247,1,Asphalt,exact-000891,0,false,train,D:\major project\Road damage data\Asphalt\photo_6217532711279641455_y.jpg
+corrected-000248,1,Asphalt,exact-000502,0,false,train,D:\major project\Road damage data\Asphalt\photo_6217532711279641456_y.jpg
+corrected-000249,1,Asphalt,exact-000130,0,false,train,D:\major project\Road damage data\Asphalt\photo_6217532711279641457_y.jpg
+corrected-000250,1,Asphalt,exact-000151,0,false,train,D:\major project\Road damage data\Asphalt\photo_6217532711279641472_y.jpg
+corrected-000251,1,Asphalt,exact-000867,0,false,train,D:\major project\Road damage data\Asphalt\photo_6217532711279641473_y.jpg
+corrected-000252,1,Asphalt,exact-000781,0,false,train,D:\major project\Road damage data\Asphalt\photo_6217532711279641477_y.jpg
+corrected-000253,1,Asphalt,exact-000258,0,false,train,D:\major project\Road damage data\Asphalt\photo_6217532711279641486_y.jpg
+corrected-000254,1,Asphalt,exact-000127,0,false,validation,D:\major project\Road damage data\Asphalt\photo_6217532711279641490_y.jpg
+corrected-000255,1,Asphalt,exact-000457,0,false,train,D:\major project\Road damage data\Asphalt\photo_6217532711279641491_y.jpg
+corrected-000256,1,Asphalt,exact-000858,0,false,test,D:\major project\Road damage data\Asphalt\photo_6217532711279641492_y.jpg
+corrected-000257,1,Asphalt,exact-000114,0,false,train,D:\major project\Road damage data\Asphalt\photo_6217532711279641493_y.jpg
+corrected-000258,1,Asphalt,exact-000556,0,false,validation,D:\major project\Road damage data\Asphalt\photo_6217532711279641494_y.jpg
+corrected-000259,1,Crack,exact-000577,0,false,train,D:\major project\Road damage data\Crack\1 (2).JPG
+corrected-000260,1,Crack,exact-000422,0,false,train,D:\major project\Road damage data\Crack\1.JPG
+corrected-000261,2,Crack,exact-000541|exact-000853,1,false,train,D:\major project\Road damage data\Crack\10 (2).JPG|D:\major project\Road damage data\Crack\10.JPG
+corrected-000262,2,Crack,exact-000065,0,false,train,D:\major project\Road damage data\Crack\100 (2).JPG|D:\major project\Road damage data\Crack\100 (3).JPG
+corrected-000263,1,Crack,exact-000494,0,false,train,D:\major project\Road damage data\Crack\100.JPG
+corrected-000264,2,Crack,exact-000438,0,false,train,D:\major project\Road damage data\Crack\101 (2).JPG|D:\major project\Road damage data\Crack\101 (3).JPG
+corrected-000265,1,Crack,exact-000237,0,false,train,D:\major project\Road damage data\Crack\101.JPG
+corrected-000266,3,Crack,exact-000231|exact-000970,2,false,train,D:\major project\Road damage data\Crack\102 (2).JPG|D:\major project\Road damage data\Crack\102 (3).JPG|D:\major project\Road damage data\Crack\102.JPG
+corrected-000267,3,Crack,exact-000248|exact-000866,2,false,test,D:\major project\Road damage data\Crack\103 (2).JPG|D:\major project\Road damage data\Crack\103 (3).JPG|D:\major project\Road damage data\Crack\103.JPG
+corrected-000268,3,Crack,exact-000111|exact-000898,2,false,train,D:\major project\Road damage data\Crack\104 (2).JPG|D:\major project\Road damage data\Crack\104 (3).JPG|D:\major project\Road damage data\Crack\104.JPG
+corrected-000269,2,Crack,exact-000973,0,false,train,D:\major project\Road damage data\Crack\105 (2).JPG|D:\major project\Road damage data\Crack\105 (3).JPG
+corrected-000270,1,Crack,exact-000661,0,false,validation,D:\major project\Road damage data\Crack\105.JPG
+corrected-000271,2,Crack,exact-000739,0,false,train,D:\major project\Road damage data\Crack\107 (2).JPG|D:\major project\Road damage data\Crack\107 (3).JPG
+corrected-000272,1,Crack,exact-000871,0,false,train,D:\major project\Road damage data\Crack\107.JPG
+corrected-000273,3,Crack,exact-000380|exact-000572,2,false,train,D:\major project\Road damage data\Crack\108 (2).JPG|D:\major project\Road damage data\Crack\108 (3).JPG|D:\major project\Road damage data\Crack\108.JPG
+corrected-000274,2,Crack,exact-000476,0,false,train,D:\major project\Road damage data\Crack\109 (2).JPG|D:\major project\Road damage data\Crack\109 (3).JPG
+corrected-000275,1,Crack,exact-000220,0,false,train,D:\major project\Road damage data\Crack\109.JPG
+corrected-000276,1,Crack,exact-000702,0,false,train,D:\major project\Road damage data\Crack\11 (2).JPG
+corrected-000277,1,Crack,exact-000016,0,false,test,D:\major project\Road damage data\Crack\11.JPG
+corrected-000278,3,Crack,exact-000283|exact-000497,2,false,train,D:\major project\Road damage data\Crack\110 (2).JPG|D:\major project\Road damage data\Crack\110 (3).JPG|D:\major project\Road damage data\Crack\110.JPG
+corrected-000279,2,Crack,exact-000722,0,false,train,D:\major project\Road damage data\Crack\111 (2).JPG|D:\major project\Road damage data\Crack\111 (3).JPG
+corrected-000280,1,Crack,exact-000149,0,false,train,D:\major project\Road damage data\Crack\111.JPG
+corrected-000281,2,Crack,exact-000473,0,false,validation,D:\major project\Road damage data\Crack\112 (2).JPG|D:\major project\Road damage data\Crack\112 (3).JPG
+corrected-000282,1,Crack,exact-000762,0,false,train,D:\major project\Road damage data\Crack\112.JPG
+corrected-000283,2,Crack,exact-000008,0,false,train,D:\major project\Road damage data\Crack\113 (2).JPG|D:\major project\Road damage data\Crack\113 (3).JPG
+corrected-000284,1,Crack,exact-000291,0,false,train,D:\major project\Road damage data\Crack\113.JPG
+corrected-000285,2,Crack,exact-000705,0,false,train,D:\major project\Road damage data\Crack\114 (2).JPG|D:\major project\Road damage data\Crack\114 (3).JPG
+corrected-000286,1,Crack,exact-000480,0,false,train,D:\major project\Road damage data\Crack\114.JPG
+corrected-000287,3,Crack,exact-000252|exact-000902,2,false,train,D:\major project\Road damage data\Crack\115 (2).JPG|D:\major project\Road damage data\Crack\115 (3).JPG|D:\major project\Road damage data\Crack\115.JPG
+corrected-000288,2,Crack,exact-000073,0,false,test,D:\major project\Road damage data\Crack\116 (2).JPG|D:\major project\Road damage data\Crack\116 (3).JPG
+corrected-000289,1,Crack,exact-000051,0,false,test,D:\major project\Road damage data\Crack\116.JPG
+corrected-000290,2,Crack,exact-000628,0,false,validation,D:\major project\Road damage data\Crack\117 (2).JPG|D:\major project\Road damage data\Crack\117 (3).JPG
+corrected-000291,1,Crack,exact-000918,0,false,test,D:\major project\Road damage data\Crack\117.JPG
+corrected-000292,2,Crack,exact-001005,0,false,test,D:\major project\Road damage data\Crack\118 (2).JPG|D:\major project\Road damage data\Crack\118 (3).JPG
+corrected-000293,1,Crack,exact-000868,0,false,validation,D:\major project\Road damage data\Crack\118.JPG
+corrected-000294,1,Crack,exact-000529,0,false,train,D:\major project\Road damage data\Crack\119.JPG
+corrected-000295,2,Crack,exact-000112|exact-000758,1,false,train,D:\major project\Road damage data\Crack\12 (2).JPG|D:\major project\Road damage data\Crack\12.JPG
+corrected-000296,2,Crack,exact-000547,0,false,train,D:\major project\Road damage data\Crack\120 (2).JPG|D:\major project\Road damage data\Crack\120 (3).JPG
+corrected-000297,1,Crack,exact-000646,0,false,train,D:\major project\Road damage data\Crack\120.JPG
+corrected-000298,2,Crack,exact-000033,0,false,train,D:\major project\Road damage data\Crack\13 (2).JPG|D:\major project\Road damage data\Crack\13 (3).JPG
+corrected-000299,1,Crack,exact-000754,0,false,validation,D:\major project\Road damage data\Crack\13.JPG
+corrected-000300,3,Crack,exact-000829|exact-000830,2,false,train,D:\major project\Road damage data\Crack\14 (2).JPG|D:\major project\Road damage data\Crack\14 (3).JPG|D:\major project\Road damage data\Crack\14.JPG
+corrected-000301,3,Crack,exact-000304|exact-000956,2,false,train,D:\major project\Road damage data\Crack\15 (2).JPG|D:\major project\Road damage data\Crack\15 (3).JPG|D:\major project\Road damage data\Crack\15.JPG
+corrected-000302,3,Crack,exact-000223|exact-000639,2,false,test,D:\major project\Road damage data\Crack\16 (2).JPG|D:\major project\Road damage data\Crack\16 (3).JPG|D:\major project\Road damage data\Crack\16.JPG
+corrected-000303,1,Crack,exact-000043,0,false,train,D:\major project\Road damage data\Crack\17 (2).JPG
+corrected-000304,1,Crack,exact-000715,0,false,train,D:\major project\Road damage data\Crack\17.JPG
+corrected-000305,2,Crack,exact-000140|exact-000202,1,false,test,D:\major project\Road damage data\Crack\18 (2).JPG|D:\major project\Road damage data\Crack\18.JPG
+corrected-000306,2,Crack,exact-000548|exact-000751,1,false,train,D:\major project\Road damage data\Crack\2 (2).JPG|D:\major project\Road damage data\Crack\2.JPG
+corrected-000307,5,Crack,exact-000081|exact-000234|exact-000486|exact-000849,8,false,train,D:\major project\Road damage data\Crack\20 (2).JPG|D:\major project\Road damage data\Crack\20.jpg|D:\major project\Road damage data\Crack\67 (2).JPG|D:\major project\Road damage data\Crack\67 (3).JPG|D:\major project\Road damage data\Crack\67.JPG
+corrected-000308,1,Crack,exact-000439,0,false,validation,D:\major project\Road damage data\Crack\20240301_072619 - Copy.jpg
+corrected-000309,1,Crack,exact-000724,0,false,train,D:\major project\Road damage data\Crack\20240301_072806.jpg
+corrected-000310,2,Crack,exact-000968,0,false,train,D:\major project\Road damage data\Crack\20240301_072824 - Copy.jpg|D:\major project\Road damage data\Crack\20240301_072824.jpg
+corrected-000311,2,Crack,exact-000566,0,false,validation,D:\major project\Road damage data\Crack\20240301_072905 - Copy.jpg|D:\major project\Road damage data\Crack\20240301_072905.jpg
+corrected-000312,2,Crack,exact-000537,0,false,train,D:\major project\Road damage data\Crack\20240301_072947 - Copy.jpg|D:\major project\Road damage data\Crack\20240301_072947.jpg
+corrected-000313,2,Crack,exact-000688,0,false,train,D:\major project\Road damage data\Crack\20240301_073010 - Copy.jpg|D:\major project\Road damage data\Crack\20240301_073010.jpg
+corrected-000314,1,Crack,exact-000437,0,false,test,D:\major project\Road damage data\Crack\20240301_073039 - Copy.jpg
+corrected-000315,5,Crack,exact-000232|exact-000301|exact-000312,3,false,test,D:\major project\Road damage data\Crack\20240301_073102.jpg|D:\major project\Road damage data\Crack\20240301_073841 (2).jpg|D:\major project\Road damage data\Crack\20240301_073841 - Copy.jpg|D:\major project\Road damage data\Crack\20240301_074158 - Copy.jpg|D:\major project\Road damage data\Crack\20240301_074158.jpg
+corrected-000316,2,Crack,exact-000106,0,false,test,D:\major project\Road damage data\Crack\20240301_073331 - Copy.jpg|D:\major project\Road damage data\Crack\20240301_073331.jpg
+corrected-000317,2,Crack,exact-000832,0,false,train,D:\major project\Road damage data\Crack\20240301_073343 - Copy.jpg|D:\major project\Road damage data\Crack\20240301_073343.jpg
+corrected-000318,2,Crack,exact-000764,0,false,train,D:\major project\Road damage data\Crack\20240301_073417 - Copy.jpg|D:\major project\Road damage data\Crack\20240301_073417.jpg
+corrected-000319,2,Crack,exact-000823,0,false,train,D:\major project\Road damage data\Crack\20240301_073437 - Copy.jpg|D:\major project\Road damage data\Crack\20240301_073437.jpg
+corrected-000320,2,Crack,exact-000875,0,false,train,D:\major project\Road damage data\Crack\20240301_073517 - Copy.jpg|D:\major project\Road damage data\Crack\20240301_073517.jpg
+corrected-000321,2,Crack,exact-000483,0,false,validation,D:\major project\Road damage data\Crack\20240301_073530 - Copy (2).jpg|D:\major project\Road damage data\Crack\20240301_073530.jpg
+corrected-000322,1,Crack,exact-000721,0,false,validation,D:\major project\Road damage data\Crack\20240301_073530 - Copy.jpg
+corrected-000323,2,Crack,exact-000640,0,false,train,D:\major project\Road damage data\Crack\20240301_073625 - Copy.jpg|D:\major project\Road damage data\Crack\20240301_073625.jpg
+corrected-000324,2,Crack,exact-000123,0,false,train,D:\major project\Road damage data\Crack\20240301_073707 - Copy.jpg|D:\major project\Road damage data\Crack\20240301_073707.jpg
+corrected-000325,2,Crack,exact-000941,0,false,train,D:\major project\Road damage data\Crack\20240301_073739 - Copy.jpg|D:\major project\Road damage data\Crack\20240301_073739.jpg
+corrected-000326,2,Crack,exact-000188,0,false,train,D:\major project\Road damage data\Crack\20240301_073747 - Copy.jpg|D:\major project\Road damage data\Crack\20240301_073747.jpg
+corrected-000327,2,Crack,exact-000809,0,false,train,D:\major project\Road damage data\Crack\20240301_073812 - Copy.jpg|D:\major project\Road damage data\Crack\20240301_073812.jpg
+corrected-000328,1,Crack,exact-000377,0,false,validation,D:\major project\Road damage data\Crack\20240301_073841.jpg
+corrected-000329,5,Crack,exact-000281|exact-000495|exact-000590,2,false,train,D:\major project\Road damage data\Crack\20240301_074137 - Copy.jpg|D:\major project\Road damage data\Crack\20240301_074137.jpg|D:\major project\Road damage data\Crack\20240301_074238 - Copy (2).jpg|D:\major project\Road damage data\Crack\20240301_074238.jpg|D:\major project\Road damage data\Crack\20240301_100937.jpg
+corrected-000330,1,Crack,exact-000443,0,false,validation,D:\major project\Road damage data\Crack\20240301_074238 - Copy.jpg
+corrected-000331,1,Crack,exact-000451,0,false,train,D:\major project\Road damage data\Crack\20240301_075044 - Copy.jpg
+corrected-000332,1,Crack,exact-000807,0,false,train,D:\major project\Road damage data\Crack\20240301_075227 - Copy.jpg
+corrected-000333,1,Crack,exact-000780,0,false,train,D:\major project\Road damage data\Crack\20240301_075236 - Copy.jpg
+corrected-000334,2,Crack,exact-000021,0,false,train,D:\major project\Road damage data\Crack\20240301_075430 - Copy.jpg|D:\major project\Road damage data\Crack\20240301_075430.jpg
+corrected-000335,2,Crack,exact-000755,0,false,train,D:\major project\Road damage data\Crack\20240301_075452 - Copy.jpg|D:\major project\Road damage data\Crack\20240301_075452.jpg
+corrected-000336,2,Crack,exact-000597|exact-000788,1,false,test,D:\major project\Road damage data\Crack\20240301_075616.jpg|D:\major project\Road damage data\Crack\20240301_080103.jpg
+corrected-000337,1,Crack,exact-000843,0,false,validation,D:\major project\Road damage data\Crack\20240301_075956.jpg
+corrected-000338,1,Crack,exact-000982,0,false,train,D:\major project\Road damage data\Crack\20240301_094913.jpg
+corrected-000339,1,Crack,exact-000048,0,false,train,D:\major project\Road damage data\Crack\20240301_101037.jpg
+corrected-000340,1,Crack,exact-000857,0,false,train,D:\major project\Road damage data\Crack\20240301_101149.jpg
+corrected-000341,1,Crack,exact-001004,0,false,test,D:\major project\Road damage data\Crack\20240301_101221.jpg
+corrected-000342,1,Crack,exact-000245,0,false,train,D:\major project\Road damage data\Crack\20240301_101345.jpg
+corrected-000343,1,Crack,exact-000416,0,false,train,D:\major project\Road damage data\Crack\20240301_101402.jpg
+corrected-000344,1,Crack,exact-000179,0,false,train,D:\major project\Road damage data\Crack\20240301_101413.jpg
+corrected-000345,1,Crack,exact-000805,0,false,train,D:\major project\Road damage data\Crack\20240301_101452.jpg
+corrected-000346,1,Crack,exact-000105,0,false,train,D:\major project\Road damage data\Crack\20240301_101602.jpg
+corrected-000347,1,Crack,exact-000532,0,false,validation,D:\major project\Road damage data\Crack\20240301_101633.jpg
+corrected-000348,1,Crack,exact-000927,0,false,validation,D:\major project\Road damage data\Crack\20240301_101645.jpg
+corrected-000349,1,Crack,exact-000047,0,false,train,D:\major project\Road damage data\Crack\20240301_101727.jpg
+corrected-000350,1,Crack,exact-000937,0,false,train,D:\major project\Road damage data\Crack\20240301_101851.jpg
+corrected-000351,1,Crack,exact-000670,0,false,train,D:\major project\Road damage data\Crack\20240301_101957.jpg
+corrected-000352,1,Crack,exact-000372,0,false,train,D:\major project\Road damage data\Crack\20240301_102038.jpg
+corrected-000353,1,Crack,exact-000952,0,false,validation,D:\major project\Road damage data\Crack\20240301_102105.jpg
+corrected-000354,1,Crack,exact-000552,0,false,train,D:\major project\Road damage data\Crack\21 (2).JPG
+corrected-000355,1,Crack,exact-000400,0,false,train,D:\major project\Road damage data\Crack\21.JPG
+corrected-000356,2,Crack,exact-000909,0,false,test,D:\major project\Road damage data\Crack\22 (2).JPG|D:\major project\Road damage data\Crack\22 (3).JPG
+corrected-000357,1,Crack,exact-000539,0,false,train,D:\major project\Road damage data\Crack\22.JPG
+corrected-000358,3,Crack,exact-000144|exact-000357,2,false,train,D:\major project\Road damage data\Crack\23 (2).JPG|D:\major project\Road damage data\Crack\23 (3).JPG|D:\major project\Road damage data\Crack\23.JPG
+corrected-000359,3,Crack,exact-000447|exact-000618,2,false,train,D:\major project\Road damage data\Crack\24 (2).JPG|D:\major project\Road damage data\Crack\24 (3).JPG|D:\major project\Road damage data\Crack\24.JPG
+corrected-000360,3,Crack,exact-000345|exact-000427,2,false,train,D:\major project\Road damage data\Crack\25 (2).JPG|D:\major project\Road damage data\Crack\25 (3).JPG|D:\major project\Road damage data\Crack\25.JPG
+corrected-000361,1,Crack,exact-000156,0,false,train,D:\major project\Road damage data\Crack\26 (2).JPG
+corrected-000362,1,Crack,exact-000682,0,false,train,D:\major project\Road damage data\Crack\26.JPG
+corrected-000363,1,Crack,exact-000763,0,false,train,D:\major project\Road damage data\Crack\27 (2).JPG
+corrected-000364,1,Crack,exact-000986,0,false,train,D:\major project\Road damage data\Crack\27.JPG
+corrected-000365,1,Crack,exact-000018,0,false,train,D:\major project\Road damage data\Crack\28 (2).JPG
+corrected-000366,1,Crack,exact-000344,0,false,train,D:\major project\Road damage data\Crack\28.JPG
+corrected-000367,2,Crack,exact-000019|exact-000701,1,false,validation,D:\major project\Road damage data\Crack\29 (2).JPG|D:\major project\Road damage data\Crack\29.JPG
+corrected-000368,1,Crack,exact-000777,0,false,train,D:\major project\Road damage data\Crack\3 (2).JPG
+corrected-000369,1,Crack,exact-000405,0,false,train,D:\major project\Road damage data\Crack\3.JPG
+corrected-000370,3,Crack,exact-000717|exact-000945,2,false,train,D:\major project\Road damage data\Crack\30 (2).JPG|D:\major project\Road damage data\Crack\30 (3).JPG|D:\major project\Road damage data\Crack\30.JPG
+corrected-000371,2,Crack,exact-001002,0,false,test,D:\major project\Road damage data\Crack\31 (2).JPG|D:\major project\Road damage data\Crack\31 (3).JPG
+corrected-000372,1,Crack,exact-000698,0,false,train,D:\major project\Road damage data\Crack\31.JPG
+corrected-000373,3,Crack,exact-000773|exact-000954,2,false,validation,D:\major project\Road damage data\Crack\32 (2).JPG|D:\major project\Road damage data\Crack\32 (3).JPG|D:\major project\Road damage data\Crack\32.JPG
+corrected-000374,2,Crack,exact-000833,0,false,train,D:\major project\Road damage data\Crack\33 (2).JPG|D:\major project\Road damage data\Crack\33 (3).JPG
+corrected-000375,1,Crack,exact-000289,0,false,train,D:\major project\Road damage data\Crack\33.JPG
+corrected-000376,2,Crack,exact-000306|exact-000543,1,false,train,D:\major project\Road damage data\Crack\34 (2).JPG|D:\major project\Road damage data\Crack\34.JPG
+corrected-000377,1,Crack,exact-000524,0,false,train,D:\major project\Road damage data\Crack\35 (2).JPG
+corrected-000378,1,Crack,exact-000518,0,false,validation,D:\major project\Road damage data\Crack\35.JPG
+corrected-000379,2,Crack,exact-000244|exact-000535,1,false,validation,D:\major project\Road damage data\Crack\36 (2).JPG|D:\major project\Road damage data\Crack\36.JPG
+corrected-000380,5,Crack,exact-000094|exact-000117|exact-000152|exact-000943,8,false,validation,D:\major project\Road damage data\Crack\37 (2).JPG|D:\major project\Road damage data\Crack\37.JPG|D:\major project\Road damage data\Crack\80 (2).JPG|D:\major project\Road damage data\Crack\80 (3).JPG|D:\major project\Road damage data\Crack\80.JPG
+corrected-000381,2,Crack,exact-000157,0,false,train,D:\major project\Road damage data\Crack\38 (2).JPG|D:\major project\Road damage data\Crack\38 (3).JPG
+corrected-000382,1,Crack,exact-000600,0,false,train,D:\major project\Road damage data\Crack\38.JPG
+corrected-000383,2,Crack,exact-000462,0,false,train,D:\major project\Road damage data\Crack\39 (2).JPG|D:\major project\Road damage data\Crack\39 (3).JPG
+corrected-000384,1,Crack,exact-000239,0,false,train,D:\major project\Road damage data\Crack\39.JPG
+corrected-000385,2,Crack,exact-000401|exact-000969,1,false,train,D:\major project\Road damage data\Crack\4 (2).JPG|D:\major project\Road damage data\Crack\4.JPG
+corrected-000386,2,Crack,exact-000083,0,false,train,D:\major project\Road damage data\Crack\40 (2).JPG|D:\major project\Road damage data\Crack\40 (3).JPG
+corrected-000387,1,Crack,exact-000432,0,false,train,D:\major project\Road damage data\Crack\40.JPG
+corrected-000388,2,Crack,exact-000723,0,false,train,D:\major project\Road damage data\Crack\41 (2).JPG|D:\major project\Road damage data\Crack\41 (3).JPG
+corrected-000389,1,Crack,exact-000511,0,false,train,D:\major project\Road damage data\Crack\41.JPG
+corrected-000390,1,Crack,exact-000060,0,false,test,D:\major project\Road damage data\Crack\42 (2).JPG
+corrected-000391,1,Crack,exact-000337,0,false,train,D:\major project\Road damage data\Crack\42.JPG
+corrected-000392,1,Crack,exact-000359,0,false,train,D:\major project\Road damage data\Crack\43 (2).JPG
+corrected-000393,1,Crack,exact-000034,0,false,train,D:\major project\Road damage data\Crack\43.JPG
+corrected-000394,1,Crack,exact-000881,0,false,train,D:\major project\Road damage data\Crack\44 (2).JPG
+corrected-000395,1,Crack,exact-000731,0,false,validation,D:\major project\Road damage data\Crack\44.JPG
+corrected-000396,2,Crack,exact-000340|exact-000584,1,false,test,D:\major project\Road damage data\Crack\45 (2).JPG|D:\major project\Road damage data\Crack\45.JPG
+corrected-000397,3,Crack,exact-000109|exact-000785,2,false,train,D:\major project\Road damage data\Crack\46 (2).JPG|D:\major project\Road damage data\Crack\46 (3).JPG|D:\major project\Road damage data\Crack\46.JPG
+corrected-000398,3,Crack,exact-000316|exact-000778,2,false,test,D:\major project\Road damage data\Crack\47 (2).JPG|D:\major project\Road damage data\Crack\47 (3).JPG|D:\major project\Road damage data\Crack\47.JPG
+corrected-000399,2,Crack,exact-000455,0,false,train,D:\major project\Road damage data\Crack\48 (2).JPG|D:\major project\Road damage data\Crack\48 (3).JPG
+corrected-000400,1,Crack,exact-000612,0,false,train,D:\major project\Road damage data\Crack\48.JPG
+corrected-000401,3,Crack,exact-000544|exact-000696,2,false,test,D:\major project\Road damage data\Crack\49 (2).JPG|D:\major project\Road damage data\Crack\49 (3).JPG|D:\major project\Road damage data\Crack\49.JPG
+corrected-000402,3,Crack,exact-000307|exact-000382,2,false,train,D:\major project\Road damage data\Crack\5 (2).JPG|D:\major project\Road damage data\Crack\5 (3).JPG|D:\major project\Road damage data\Crack\5.JPG
+corrected-000403,3,Crack,exact-000181|exact-000334,2,false,train,D:\major project\Road damage data\Crack\50 (2).JPG|D:\major project\Road damage data\Crack\50 (3).JPG|D:\major project\Road damage data\Crack\50.JPG
+corrected-000404,2,Crack,exact-000066,0,false,train,D:\major project\Road damage data\Crack\51 (2).JPG|D:\major project\Road damage data\Crack\51 (3).JPG
+corrected-000405,1,Crack,exact-000211,0,false,validation,D:\major project\Road damage data\Crack\51.JPG
+corrected-000406,3,Crack,exact-000559|exact-000873,2,false,train,D:\major project\Road damage data\Crack\52 (2).JPG|D:\major project\Road damage data\Crack\52 (3).JPG|D:\major project\Road damage data\Crack\52.JPG
+corrected-000407,2,Crack,exact-000713,0,false,train,D:\major project\Road damage data\Crack\54 (2).JPG|D:\major project\Road damage data\Crack\54 (3).JPG
+corrected-000408,1,Crack,exact-000700,0,false,test,D:\major project\Road damage data\Crack\54.JPG
+corrected-000409,3,Crack,exact-000456|exact-000649,2,false,validation,D:\major project\Road damage data\Crack\55 (2).JPG|D:\major project\Road damage data\Crack\55 (3).JPG|D:\major project\Road damage data\Crack\55.JPG
+corrected-000410,2,Crack,exact-000445,0,false,train,D:\major project\Road damage data\Crack\56 (2).JPG|D:\major project\Road damage data\Crack\56 (3).JPG
+corrected-000411,1,Crack,exact-000093,0,false,validation,D:\major project\Road damage data\Crack\56.JPG
+corrected-000412,2,Crack,exact-000020,0,false,test,D:\major project\Road damage data\Crack\57 (2).JPG|D:\major project\Road damage data\Crack\57 (3).JPG
+corrected-000413,1,Crack,exact-000454,0,false,train,D:\major project\Road damage data\Crack\57.JPG
+corrected-000414,2,Crack,exact-000835,0,false,train,D:\major project\Road damage data\Crack\58 (2).JPG|D:\major project\Road damage data\Crack\58 (3).JPG
+corrected-000415,1,Crack,exact-000730,0,false,train,D:\major project\Road damage data\Crack\58.JPG
+corrected-000416,2,Crack,exact-000299,0,false,validation,D:\major project\Road damage data\Crack\59 (2).JPG|D:\major project\Road damage data\Crack\59 (3).JPG
+corrected-000417,1,Crack,exact-000972,0,false,test,D:\major project\Road damage data\Crack\59.JPG
+corrected-000418,3,Crack,exact-000068|exact-000662,2,false,validation,D:\major project\Road damage data\Crack\6 (2).JPG|D:\major project\Road damage data\Crack\6 (3).JPG|D:\major project\Road damage data\Crack\6.JPG
+corrected-000419,3,Crack,exact-000071|exact-000493,2,false,train,D:\major project\Road damage data\Crack\60 (2).JPG|D:\major project\Road damage data\Crack\60 (3).JPG|D:\major project\Road damage data\Crack\60.JPG
+corrected-000420,3,Crack,exact-000418|exact-000940,2,false,train,D:\major project\Road damage data\Crack\61 (2).JPG|D:\major project\Road damage data\Crack\61 (3).JPG|D:\major project\Road damage data\Crack\61.JPG
+corrected-000421,3,Crack,exact-000300|exact-000444,2,false,train,D:\major project\Road damage data\Crack\62 (2).JPG|D:\major project\Road damage data\Crack\62 (3).JPG|D:\major project\Road damage data\Crack\62.JPG
+corrected-000422,2,Crack,exact-000024,0,false,validation,D:\major project\Road damage data\Crack\63 (2).JPG|D:\major project\Road damage data\Crack\63 (3).JPG
+corrected-000423,1,Crack,exact-000336,0,false,train,D:\major project\Road damage data\Crack\63.JPG
+corrected-000424,2,Crack,exact-000199,0,false,train,D:\major project\Road damage data\Crack\64 (2).JPG|D:\major project\Road damage data\Crack\64 (3).JPG
+corrected-000425,1,Crack,exact-000108,0,false,train,D:\major project\Road damage data\Crack\64.JPG
+corrected-000426,2,Crack,exact-000285,0,false,validation,D:\major project\Road damage data\Crack\65 (2).JPG|D:\major project\Road damage data\Crack\65 (3).JPG
+corrected-000427,1,Crack,exact-000635,0,false,test,D:\major project\Road damage data\Crack\65.JPG
+corrected-000428,2,Crack,exact-000619,0,false,validation,D:\major project\Road damage data\Crack\66 (2).JPG|D:\major project\Road damage data\Crack\66 (3).JPG
+corrected-000429,1,Crack,exact-000733,0,false,train,D:\major project\Road damage data\Crack\66.JPG
+corrected-000430,2,Crack,exact-000962,0,false,validation,D:\major project\Road damage data\Crack\68 (2).JPG|D:\major project\Road damage data\Crack\68 (3).JPG
+corrected-000431,1,Crack,exact-000586,0,false,train,D:\major project\Road damage data\Crack\68.JPG
+corrected-000432,2,Crack,exact-000187,0,false,train,D:\major project\Road damage data\Crack\69 (2).JPG|D:\major project\Road damage data\Crack\69 (3).JPG
+corrected-000433,1,Crack,exact-000471,0,false,test,D:\major project\Road damage data\Crack\69.JPG
+corrected-000434,2,Crack,exact-000190,0,false,train,D:\major project\Road damage data\Crack\7 (2).JPG|D:\major project\Road damage data\Crack\7 (3).JPG
+corrected-000435,1,Crack,exact-000077,0,false,train,D:\major project\Road damage data\Crack\7.JPG
+corrected-000436,3,Crack,exact-000261|exact-000295,2,false,train,D:\major project\Road damage data\Crack\70 (2).JPG|D:\major project\Road damage data\Crack\70 (3).JPG|D:\major project\Road damage data\Crack\70.JPG
+corrected-000437,3,Crack,exact-000042|exact-000355,2,false,validation,D:\major project\Road damage data\Crack\71 (2).JPG|D:\major project\Road damage data\Crack\71 (3).JPG|D:\major project\Road damage data\Crack\71.JPG
+corrected-000438,3,Crack,exact-000666|exact-000769,2,false,train,D:\major project\Road damage data\Crack\72 (2).JPG|D:\major project\Road damage data\Crack\72 (3).JPG|D:\major project\Road damage data\Crack\72.JPG
+corrected-000439,2,Crack,exact-000808,0,false,train,D:\major project\Road damage data\Crack\73 (2).JPG|D:\major project\Road damage data\Crack\73 (3).JPG
+corrected-000440,1,Crack,exact-000641,0,false,train,D:\major project\Road damage data\Crack\73.JPG
+corrected-000441,2,Crack,exact-000215,0,false,train,D:\major project\Road damage data\Crack\74 (2).JPG|D:\major project\Road damage data\Crack\74 (3).JPG
+corrected-000442,1,Crack,exact-000513,0,false,train,D:\major project\Road damage data\Crack\74.JPG
+corrected-000443,3,Crack,exact-000219|exact-000862,2,false,test,D:\major project\Road damage data\Crack\75 (2).JPG|D:\major project\Road damage data\Crack\75 (3).JPG|D:\major project\Road damage data\Crack\75.JPG
+corrected-000444,3,Crack,exact-000090|exact-000354,2,false,train,D:\major project\Road damage data\Crack\76 (2).JPG|D:\major project\Road damage data\Crack\76 (3).JPG|D:\major project\Road damage data\Crack\76.JPG
+corrected-000445,2,Crack,exact-000907,0,false,train,D:\major project\Road damage data\Crack\77 (2).JPG|D:\major project\Road damage data\Crack\77 (3).JPG
+corrected-000446,1,Crack,exact-000011,0,false,train,D:\major project\Road damage data\Crack\77.JPG
+corrected-000447,3,Crack,exact-000593|exact-000834,2,false,train,D:\major project\Road damage data\Crack\78 (2).JPG|D:\major project\Road damage data\Crack\78 (3).JPG|D:\major project\Road damage data\Crack\78.JPG
+corrected-000448,3,Crack,exact-000294|exact-000409,2,false,train,D:\major project\Road damage data\Crack\79 (2).JPG|D:\major project\Road damage data\Crack\79 (3).JPG|D:\major project\Road damage data\Crack\79.JPG
+corrected-000449,3,Crack,exact-000210|exact-000469,2,false,train,D:\major project\Road damage data\Crack\8 (2).JPG|D:\major project\Road damage data\Crack\8 (3).JPG|D:\major project\Road damage data\Crack\8.JPG
+corrected-000450,2,Crack,exact-000525,0,false,train,D:\major project\Road damage data\Crack\81 (2).JPG|D:\major project\Road damage data\Crack\81 (3).JPG
+corrected-000451,1,Crack,exact-000341,0,false,train,D:\major project\Road damage data\Crack\81.JPG
+corrected-000452,2,Crack,exact-000243,0,false,train,D:\major project\Road damage data\Crack\82 (2).JPG|D:\major project\Road damage data\Crack\82 (3).JPG
+corrected-000453,1,Crack,exact-000821,0,false,train,D:\major project\Road damage data\Crack\82.JPG
+corrected-000454,3,Crack,exact-000744|exact-000912,2,false,test,D:\major project\Road damage data\Crack\83 (2).JPG|D:\major project\Road damage data\Crack\83 (3).JPG|D:\major project\Road damage data\Crack\83.JPG
+corrected-000455,3,Crack,exact-000356|exact-000822,2,false,train,D:\major project\Road damage data\Crack\84 (2).JPG|D:\major project\Road damage data\Crack\84 (3).JPG|D:\major project\Road damage data\Crack\84.JPG
+corrected-000456,2,Crack,exact-000691,0,false,validation,D:\major project\Road damage data\Crack\85 (2).JPG|D:\major project\Road damage data\Crack\85 (3).JPG
+corrected-000457,1,Crack,exact-000827,0,false,train,D:\major project\Road damage data\Crack\85.JPG
+corrected-000458,2,Crack,exact-000568,0,false,test,D:\major project\Road damage data\Crack\86 (2).JPG|D:\major project\Road damage data\Crack\86 (3).JPG
+corrected-000459,1,Crack,exact-000365,0,false,train,D:\major project\Road damage data\Crack\86.JPG
+corrected-000460,2,Crack,exact-000148,0,false,train,D:\major project\Road damage data\Crack\87 (2).JPG|D:\major project\Road damage data\Crack\87 (3).JPG
+corrected-000461,1,Crack,exact-000934,0,false,validation,D:\major project\Road damage data\Crack\87.JPG
+corrected-000462,2,Crack,exact-000309,0,false,train,D:\major project\Road damage data\Crack\88 (2).JPG|D:\major project\Road damage data\Crack\88 (3).JPG
+corrected-000463,1,Crack,exact-000645,0,false,train,D:\major project\Road damage data\Crack\88.JPG
+corrected-000464,4,Crack,exact-000679|exact-000886,3,false,train,D:\major project\Road damage data\Crack\89 (2).JPG|D:\major project\Road damage data\Crack\89 (3) - Copy.JPG|D:\major project\Road damage data\Crack\89 (3).JPG|D:\major project\Road damage data\Crack\89.JPG
+corrected-000465,2,Crack,exact-000191|exact-000631,1,false,validation,D:\major project\Road damage data\Crack\9 (2).JPG|D:\major project\Road damage data\Crack\9.JPG
+corrected-000466,2,Crack,exact-000235,0,false,test,D:\major project\Road damage data\Crack\90 (2).JPG|D:\major project\Road damage data\Crack\90.JPG
+corrected-000467,2,Crack,exact-000988,0,false,train,D:\major project\Road damage data\Crack\91 (2).JPG|D:\major project\Road damage data\Crack\91 (3).JPG
+corrected-000468,1,Crack,exact-000882,0,false,train,D:\major project\Road damage data\Crack\91.JPG
+corrected-000469,3,Crack,exact-000170|exact-000767,2,false,train,D:\major project\Road damage data\Crack\92 (2).JPG|D:\major project\Road damage data\Crack\92 (3).JPG|D:\major project\Road damage data\Crack\92.JPG
+corrected-000470,3,Crack,exact-000671|exact-000994,2,false,train,D:\major project\Road damage data\Crack\93 (2).JPG|D:\major project\Road damage data\Crack\93 (3).JPG|D:\major project\Road damage data\Crack\93.JPG
+corrected-000471,3,Crack,exact-000134|exact-000176,2,false,train,D:\major project\Road damage data\Crack\94 (2).JPG|D:\major project\Road damage data\Crack\94 (3).JPG|D:\major project\Road damage data\Crack\94.JPG
+corrected-000472,2,Crack,exact-000916,0,false,test,D:\major project\Road damage data\Crack\95 (2).JPG|D:\major project\Road damage data\Crack\95 (3).JPG
+corrected-000473,1,Crack,exact-000837,0,false,train,D:\major project\Road damage data\Crack\95.JPG
+corrected-000474,3,Crack,exact-000407|exact-000720,2,false,test,D:\major project\Road damage data\Crack\96 (2).JPG|D:\major project\Road damage data\Crack\96 (3).JPG|D:\major project\Road damage data\Crack\96.JPG
+corrected-000475,3,Crack,exact-000040|exact-000736,2,false,validation,D:\major project\Road damage data\Crack\97 (2).JPG|D:\major project\Road damage data\Crack\97 (3).JPG|D:\major project\Road damage data\Crack\97.JPG
+corrected-000476,2,Crack,exact-000482,0,false,train,D:\major project\Road damage data\Crack\98 (2).JPG|D:\major project\Road damage data\Crack\98 (3).JPG
+corrected-000477,1,Crack,exact-000046,0,false,test,D:\major project\Road damage data\Crack\98.JPG
+corrected-000478,2,Crack,exact-000910,0,false,train,D:\major project\Road damage data\Crack\99 (2).JPG|D:\major project\Road damage data\Crack\99 (3).JPG
+corrected-000479,1,Crack,exact-000710,0,false,train,D:\major project\Road damage data\Crack\99.JPG
+corrected-000480,2,Crack,exact-000143,0,false,test,D:\major project\Road damage data\Crack\Copy of hjmfj.jpg|D:\major project\Road damage data\Crack\hjmfj.jpg
+corrected-000481,2,Crack,exact-000268,0,false,train,D:\major project\Road damage data\Crack\Copy of photo_2023-11-03_17-04-39.jpg|D:\major project\Road damage data\Crack\photo_2023-11-03_17-04-39.jpg
+corrected-000482,2,Crack,exact-000950,0,false,train,D:\major project\Road damage data\Crack\Copy of rg.jpg|D:\major project\Road damage data\Crack\rg.jpg
+corrected-000483,1,Crack,exact-000990,0,false,validation,D:\major project\Road damage data\Crack\IMG-20240302-WA0111.jpg
+corrected-000484,1,Crack,exact-000957,0,false,train,D:\major project\Road damage data\Crack\IMG20240301072823.jpg
+corrected-000485,1,Crack,exact-000929,0,false,validation,D:\major project\Road damage data\Crack\IMG20240301072842.jpg
+corrected-000486,1,Crack,exact-000561,0,false,train,D:\major project\Road damage data\Crack\IMG20240301072907.jpg
+corrected-000487,1,Crack,exact-000010,0,false,test,D:\major project\Road damage data\Crack\IMG20240301073018.jpg
+corrected-000488,1,Crack,exact-000817,0,false,test,D:\major project\Road damage data\Crack\IMG20240301073031.jpg
+corrected-000489,1,Crack,exact-000059,0,false,test,D:\major project\Road damage data\Crack\IMG20240301073058.jpg
+corrected-000490,1,Crack,exact-000385,0,false,train,D:\major project\Road damage data\Crack\IMG20240301073133.jpg
+corrected-000491,1,Crack,exact-000061,0,false,train,D:\major project\Road damage data\Crack\IMG20240301073138.jpg
+corrected-000492,1,Crack,exact-000728,0,false,validation,D:\major project\Road damage data\Crack\IMG20240301073157.jpg
+corrected-000493,1,Crack,exact-000685,0,false,train,D:\major project\Road damage data\Crack\IMG20240301073255.jpg
+corrected-000494,1,Crack,exact-000770,0,false,train,D:\major project\Road damage data\Crack\IMG20240301073314.jpg
+corrected-000495,1,Crack,exact-000478,0,false,train,D:\major project\Road damage data\Crack\IMG20240301073316.jpg
+corrected-000496,1,Crack,exact-000030,0,false,train,D:\major project\Road damage data\Crack\IMG20240301073331.jpg
+corrected-000497,1,Crack,exact-000993,0,false,train,D:\major project\Road damage data\Crack\IMG20240301073333.jpg
+corrected-000498,1,Crack,exact-000601,0,false,train,D:\major project\Road damage data\Crack\IMG20240301073341.jpg
+corrected-000499,1,Crack,exact-000828,0,false,train,D:\major project\Road damage data\Crack\IMG20240301073345.jpg
+corrected-000500,1,Crack,exact-000567,0,false,train,D:\major project\Road damage data\Crack\IMG20240301073415.jpg
+corrected-000501,1,Crack,exact-000429,0,false,train,D:\major project\Road damage data\Crack\IMG20240301073421.jpg
+corrected-000502,1,Crack,exact-000997,0,false,train,D:\major project\Road damage data\Crack\IMG20240301073423.jpg
+corrected-000503,2,Crack,exact-000153|exact-000315,1,false,train,D:\major project\Road damage data\Crack\IMG20240301073431.jpg|D:\major project\Road damage data\Crack\IMG20240301073432.jpg
+corrected-000504,1,Crack,exact-000425,0,false,train,D:\major project\Road damage data\Crack\IMG20240301073503.jpg
+corrected-000505,1,Crack,exact-000806,0,false,train,D:\major project\Road damage data\Crack\IMG20240301073504.jpg
+corrected-000506,1,Crack,exact-000352,0,false,train,D:\major project\Road damage data\Crack\IMG20240301073506.jpg
+corrected-000507,1,Crack,exact-000362,0,false,train,D:\major project\Road damage data\Crack\IMG20240301073527.jpg
+corrected-000508,1,Crack,exact-000434,0,false,train,D:\major project\Road damage data\Crack\IMG20240301073606.jpg
+corrected-000509,1,Crack,exact-000129,0,false,train,D:\major project\Road damage data\Crack\IMG20240301073608.jpg
+corrected-000510,1,Crack,exact-000159,0,false,train,D:\major project\Road damage data\Crack\IMG20240301073635.jpg
+corrected-000511,1,Crack,exact-000463,0,false,train,D:\major project\Road damage data\Crack\IMG20240301073734.jpg
+corrected-000512,1,Crack,exact-000233,0,false,train,D:\major project\Road damage data\Crack\IMG20240301073737.jpg
+corrected-000513,2,Crack,exact-000707|exact-000899,1,false,validation,D:\major project\Road damage data\Crack\IMG20240301073800 (2).jpg|D:\major project\Road damage data\Crack\IMG20240301073800.jpg
+corrected-000514,1,Crack,exact-000213,0,false,train,D:\major project\Road damage data\Crack\IMG20240301073803.jpg
+corrected-000515,1,Crack,exact-000776,0,false,train,D:\major project\Road damage data\Crack\IMG20240301073827.jpg
+corrected-000516,1,Crack,exact-000368,0,false,test,D:\major project\Road damage data\Crack\IMG20240301073859.jpg
+corrected-000517,1,Crack,exact-000413,0,false,train,D:\major project\Road damage data\Crack\IMG20240301073907.jpg
+corrected-000518,1,Crack,exact-000622,0,false,train,D:\major project\Road damage data\Crack\IMG20240301073910.jpg
+corrected-000519,1,Crack,exact-000367,0,false,train,D:\major project\Road damage data\Crack\IMG20240301074024.jpg
+corrected-000520,1,Crack,exact-000575,0,false,train,D:\major project\Road damage data\Crack\IMG20240301074101.jpg
+corrected-000521,1,Crack,exact-000598,0,false,train,D:\major project\Road damage data\Crack\IMG20240301074140.jpg
+corrected-000522,1,Crack,exact-000387,0,false,train,D:\major project\Road damage data\Crack\IMG20240301074141.jpg
+corrected-000523,1,Crack,exact-000169,0,false,train,D:\major project\Road damage data\Crack\IMG20240301074202.jpg
+corrected-000524,1,Crack,exact-000358,0,false,validation,D:\major project\Road damage data\Crack\IMG20240301074224.jpg
+corrected-000525,1,Crack,exact-000132,0,false,train,D:\major project\Road damage data\Crack\IMG20240301074241.jpg
+corrected-000526,1,Crack,exact-000794,0,false,train,D:\major project\Road damage data\Crack\IMG20240301074307.jpg
+corrected-000527,1,Crack,exact-000503,0,false,train,D:\major project\Road damage data\Crack\IMG20240301074308.jpg
+corrected-000528,1,Crack,exact-000452,0,false,validation,D:\major project\Road damage data\Crack\IMG20240301074309.jpg
+corrected-000529,1,Crack,exact-000704,0,false,validation,D:\major project\Road damage data\Crack\IMG20240301074334.jpg
+corrected-000530,1,Crack,exact-000417,0,false,train,D:\major project\Road damage data\Crack\IMG20240301074340.jpg
+corrected-000531,1,Crack,exact-000811,0,false,train,D:\major project\Road damage data\Crack\IMG20240301074455.jpg
+corrected-000532,1,Crack,exact-000022,0,false,train,D:\major project\Road damage data\Crack\IMG20240301074459.jpg
+corrected-000533,1,Crack,exact-000236,0,false,train,D:\major project\Road damage data\Crack\IMG20240301074511.jpg
+corrected-000534,1,Crack,exact-000249,0,false,train,D:\major project\Road damage data\Crack\IMG20240301074606.jpg
+corrected-000535,1,Crack,exact-000656,0,false,test,D:\major project\Road damage data\Crack\IMG20240301074630.jpg
+corrected-000536,1,Crack,exact-000166,0,false,train,D:\major project\Road damage data\Crack\IMG20240301074718_BURST000_COVER.jpg
+corrected-000537,1,Crack,exact-000489,0,false,train,D:\major project\Road damage data\Crack\IMG20240301074718_BURST001.jpg
+corrected-000538,1,Crack,exact-000880,0,false,train,D:\major project\Road damage data\Crack\IMG20240301074718_BURST002.jpg
+corrected-000539,1,Crack,exact-000774,0,false,train,D:\major project\Road damage data\Crack\IMG20240301074718_BURST003.jpg
+corrected-000540,1,Crack,exact-000229,0,false,test,D:\major project\Road damage data\Crack\IMG20240301074805.jpg
+corrected-000541,1,Crack,exact-001001,0,false,train,D:\major project\Road damage data\Crack\IMG20240301074951.jpg
+corrected-000542,1,Crack,exact-000311,0,false,test,D:\major project\Road damage data\Crack\IMG20240301074953.jpg
+corrected-000543,1,Crack,exact-000374,0,false,test,D:\major project\Road damage data\Crack\IMG20240301075026.jpg
+corrected-000544,1,Crack,exact-000269,0,false,validation,D:\major project\Road damage data\Crack\IMG20240301075046.jpg
+corrected-000545,1,Crack,exact-000578,0,false,test,D:\major project\Road damage data\Crack\IMG20240301075056.jpg
+corrected-000546,1,Crack,exact-000095,0,false,validation,D:\major project\Road damage data\Crack\IMG20240301075114.jpg
+corrected-000547,1,Crack,exact-000200,0,false,train,D:\major project\Road damage data\Crack\IMG20240301075138.jpg
+corrected-000548,1,Crack,exact-000290,0,false,train,D:\major project\Road damage data\Crack\IMG20240301075148.jpg
+corrected-000549,1,Crack,exact-000684,0,false,train,D:\major project\Road damage data\Crack\IMG20240301075205.jpg
+corrected-000550,1,Crack,exact-000604,0,false,train,D:\major project\Road damage data\Crack\IMG20240301075215.jpg
+corrected-000551,1,Crack,exact-000137,0,false,test,D:\major project\Road damage data\Crack\IMG20240301075226.jpg
+corrected-000552,1,Crack,exact-000562,0,false,train,D:\major project\Road damage data\Crack\IMG20240301075311.jpg
+corrected-000553,1,Crack,exact-000302,0,false,train,D:\major project\Road damage data\Crack\IMG20240301075429.jpg
+corrected-000554,1,Crack,exact-000155,0,false,train,D:\major project\Road damage data\Crack\IMG20240301075435.jpg
+corrected-000555,1,Crack,exact-000045,0,false,test,D:\major project\Road damage data\Crack\IMG20240301075957.jpg
+corrected-000556,1,Crack,exact-000423,0,false,train,D:\major project\Road damage data\Crack\IMG20240301101156.jpg
+corrected-000557,1,Crack,exact-000932,0,false,train,D:\major project\Road damage data\Crack\IMG20240301101202.jpg
+corrected-000558,1,Crack,exact-000955,0,false,train,D:\major project\Road damage data\Crack\IMG20240301101220.jpg
+corrected-000559,1,Crack,exact-000664,0,false,train,D:\major project\Road damage data\Crack\IMG20240301101230.jpg
+corrected-000560,1,Crack,exact-000255,0,false,test,D:\major project\Road damage data\Crack\IMG20240301101320.jpg
+corrected-000561,1,Crack,exact-000069,0,false,test,D:\major project\Road damage data\Crack\IMG20240301101340.jpg
+corrected-000562,1,Crack,exact-000376,0,false,test,D:\major project\Road damage data\Crack\IMG20240301101355.jpg
+corrected-000563,1,Crack,exact-000089,0,false,train,D:\major project\Road damage data\Crack\IMG20240301101358.jpg
+corrected-000564,1,Crack,exact-000966,0,false,test,D:\major project\Road damage data\Crack\IMG20240301101414.jpg
+corrected-000565,1,Crack,exact-000217,0,false,train,D:\major project\Road damage data\Crack\IMG20240301101422.jpg
+corrected-000566,1,Crack,exact-000162,0,false,train,D:\major project\Road damage data\Crack\IMG20240301101445.jpg
+corrected-000567,1,Crack,exact-000965,0,false,train,D:\major project\Road damage data\Crack\IMG20240301101505.jpg
+corrected-000568,1,Crack,exact-000279,0,false,test,D:\major project\Road damage data\Crack\IMG20240301101510.jpg
+corrected-000569,2,Crack,exact-000542,0,false,train,D:\major project\Road damage data\Crack\IMG20240301101559 - Copy.jpg|D:\major project\Road damage data\Crack\IMG20240301101559.jpg
+corrected-000570,2,Crack,exact-000925,0,false,train,D:\major project\Road damage data\Crack\IMG20240301101606 - Copy.jpg|D:\major project\Road damage data\Crack\IMG20240301101606.jpg
+corrected-000571,4,Crack,exact-000101,0,false,train,D:\major project\Road damage data\Crack\IMG20240301101629 - Copy (2).jpg|D:\major project\Road damage data\Crack\IMG20240301101629 - Copy - Copy.jpg|D:\major project\Road damage data\Crack\IMG20240301101629 - Copy.jpg|D:\major project\Road damage data\Crack\IMG20240301101629.jpg
+corrected-000572,4,Crack,exact-000668,0,false,train,D:\major project\Road damage data\Crack\IMG20240301101634 - Copy (2).jpg|D:\major project\Road damage data\Crack\IMG20240301101634 - Copy - Copy.jpg|D:\major project\Road damage data\Crack\IMG20240301101634 - Copy.jpg|D:\major project\Road damage data\Crack\IMG20240301101634.jpg
+corrected-000573,4,Crack,exact-000370,0,false,train,D:\major project\Road damage data\Crack\IMG20240301101807 - Copy (2).jpg|D:\major project\Road damage data\Crack\IMG20240301101807 - Copy - Copy.jpg|D:\major project\Road damage data\Crack\IMG20240301101807 - Copy.jpg|D:\major project\Road damage data\Crack\IMG20240301101807.jpg
+corrected-000574,4,Crack,exact-000267,0,false,train,D:\major project\Road damage data\Crack\IMG20240301101808 - Copy (2).jpg|D:\major project\Road damage data\Crack\IMG20240301101808 - Copy - Copy.jpg|D:\major project\Road damage data\Crack\IMG20240301101808 - Copy.jpg|D:\major project\Road damage data\Crack\IMG20240301101808.jpg
+corrected-000575,4,Crack,exact-000194,0,false,validation,D:\major project\Road damage data\Crack\IMG20240301101830 - Copy (2).jpg|D:\major project\Road damage data\Crack\IMG20240301101830 - Copy - Copy.jpg|D:\major project\Road damage data\Crack\IMG20240301101830 - Copy.jpg|D:\major project\Road damage data\Crack\IMG20240301101830.jpg
+corrected-000576,4,Crack,exact-000746,0,false,train,D:\major project\Road damage data\Crack\IMG20240301101844 - Copy (2).jpg|D:\major project\Road damage data\Crack\IMG20240301101844 - Copy - Copy.jpg|D:\major project\Road damage data\Crack\IMG20240301101844 - Copy.jpg|D:\major project\Road damage data\Crack\IMG20240301101844.jpg
+corrected-000577,2,Crack,exact-000727,0,false,train,D:\major project\Road damage data\Crack\IMG20240301101914 - Copy.jpg|D:\major project\Road damage data\Crack\IMG20240301101914.jpg
+corrected-000578,2,Crack,exact-000275,0,false,train,D:\major project\Road damage data\Crack\IMG20240301101958 - Copy.jpg|D:\major project\Road damage data\Crack\IMG20240301101958.jpg
+corrected-000579,1,Crack,exact-000504,0,false,train,D:\major project\Road damage data\Crack\IMG20240301102010.jpg
+corrected-000580,1,Crack,exact-000550,0,false,train,D:\major project\Road damage data\Crack\IMG20240301102029.jpg
+corrected-000581,1,Crack,exact-000272,0,false,train,D:\major project\Road damage data\Crack\IMG20240301102035.jpg
+corrected-000582,2,Crack,exact-000825,0,false,train,D:\major project\Road damage data\Crack\IMG20240301102104 - Copy.jpg|D:\major project\Road damage data\Crack\IMG20240301102104.jpg
+corrected-000583,1,Crack,exact-000286,0,false,train,D:\major project\Road damage data\Crack\IMG20240301102122.jpg
+corrected-000584,2,Crack,exact-000206,0,false,train,D:\major project\Road damage data\Crack\IMG20240301102126 - Copy.jpg|D:\major project\Road damage data\Crack\IMG20240301102126.jpg
+corrected-000585,2,Crack,exact-000440,0,false,train,D:\major project\Road damage data\Crack\IMG20240301102132 - Copy.jpg|D:\major project\Road damage data\Crack\IMG20240301102132.jpg
+corrected-000586,1,Crack,exact-000186,0,false,train,D:\major project\Road damage data\Crack\IMG20240301102150.jpg
+corrected-000587,1,Crack,exact-000477,0,false,train,D:\major project\Road damage data\Crack\IMG20240301102157.jpg
+corrected-000588,1,Crack,exact-000697,0,false,train,D:\major project\Road damage data\Crack\IMG20240301102207.jpg
+corrected-000589,1,Crack,exact-000346,0,false,train,D:\major project\Road damage data\Crack\IMG20240301102220.jpg
+corrected-000590,1,Crack,exact-000222,0,false,test,D:\major project\Road damage data\Crack\IMG20240301102226.jpg
+corrected-000591,1,Crack,exact-000610,0,false,train,D:\major project\Road damage data\Crack\IMG20240301102234.jpg
+corrected-000592,1,Crack,exact-000001,0,false,test,D:\major project\Road damage data\Crack\IMG20240301102252.jpg
+corrected-000593,1,Crack,exact-000430,0,false,validation,D:\major project\Road damage data\Crack\IMG20240301102300.jpg
+corrected-000594,1,Crack,exact-000589,0,false,validation,D:\major project\Road damage data\Crack\IMG20240301102310.jpg
+corrected-000595,1,Crack,exact-000545,0,false,train,D:\major project\Road damage data\Crack\IMG20240301102317.jpg
+corrected-000596,1,Crack,exact-000538,0,false,train,D:\major project\Road damage data\Crack\IMG20240301102321.jpg
+corrected-000597,1,Crack,exact-000189,0,false,test,D:\major project\Road damage data\Crack\IMG20240301102326.jpg
+corrected-000598,1,Crack,exact-000903,0,false,train,D:\major project\Road damage data\Crack\IMG20240301102341.jpg
+corrected-000599,1,Crack,exact-000448,0,false,test,D:\major project\Road damage data\Crack\IMG20240301102351.jpg
+corrected-000600,1,Crack,exact-000978,0,false,validation,D:\major project\Road damage data\Crack\IMG20240301102419.jpg
+corrected-000601,1,Crack,exact-000819,0,false,validation,D:\major project\Road damage data\Crack\IMG20240301102424.jpg
+corrected-000602,1,Crack,exact-000009,0,false,validation,D:\major project\Road damage data\Crack\IMG20240301102444.jpg
+corrected-000603,2,Crack,exact-000798,0,false,validation,D:\major project\Road damage data\Crack\IMG20240301102552 - Copy.jpg|D:\major project\Road damage data\Crack\IMG20240301102552.jpg
+corrected-000604,1,Crack,exact-000838,0,false,train,D:\major project\Road damage data\Crack\IMG20240301102600.jpg
+corrected-000605,1,Crack,exact-000949,0,false,validation,D:\major project\Road damage data\Crack\IMG20240301102604.jpg
+corrected-000606,1,Crack,exact-000321,0,false,train,D:\major project\Road damage data\Crack\IMG20240301102615.jpg
+corrected-000607,1,Crack,exact-000850,0,false,train,D:\major project\Road damage data\Crack\IMG20240301102619.jpg
+corrected-000608,1,Crack,exact-000630,0,false,validation,D:\major project\Road damage data\Crack\IMG20240301102626.jpg
+corrected-000609,1,Crack,exact-000175,0,false,test,D:\major project\Road damage data\Crack\IMG20240301102654.jpg
+corrected-000610,1,Crack,exact-000573,0,false,train,D:\major project\Road damage data\Crack\IMG20240301102709.jpg
+corrected-000611,1,Crack,exact-000161,0,false,train,D:\major project\Road damage data\Crack\IMG20240301102728.jpg
+corrected-000612,1,Crack,exact-000475,0,false,train,D:\major project\Road damage data\Crack\IMG20240301102745.jpg
+corrected-000613,1,Crack,exact-000086,0,false,test,D:\major project\Road damage data\Crack\IMG20240301102749.jpg
+corrected-000614,1,Crack,exact-000466,0,false,test,D:\major project\Road damage data\Crack\IMG20240301102803.jpg
+corrected-000615,1,Crack,exact-001000,0,false,train,D:\major project\Road damage data\Crack\IMG20240301102816.jpg
+corrected-000616,1,Crack,exact-000737,0,false,test,D:\major project\Road damage data\Crack\IMG20240301102843.jpg
+corrected-000617,1,Crack,exact-000872,0,false,train,D:\major project\Road damage data\Crack\IMG20240301104107.jpg
+corrected-000618,2,Crack,exact-000681|exact-000983,1,false,train,D:\major project\Road damage data\Crack\IMG20240301104112.jpg|D:\major project\Road damage data\Crack\IMG20240301104113.jpg
+corrected-000619,1,Crack,exact-000683,0,false,train,D:\major project\Road damage data\Crack\IMG20240301104118.jpg
+corrected-000620,1,Crack,exact-000660,0,false,validation,D:\major project\Road damage data\Crack\IMG20240301104122.jpg
+corrected-000621,1,Crack,exact-000470,0,false,train,D:\major project\Road damage data\Crack\IMG20240301104128.jpg
+corrected-000622,1,Crack,exact-000946,0,false,train,D:\major project\Road damage data\Crack\IMG20240301104141.jpg
+corrected-000623,1,Crack,exact-000508,0,false,test,D:\major project\Road damage data\Crack\IMG20240301104145.jpg
+corrected-000624,1,Crack,exact-000935,0,false,train,D:\major project\Road damage data\Crack\IMG20240301104154.jpg
+corrected-000625,2,Crack,exact-000613,0,false,train,D:\major project\Road damage data\Crack\photo_2023-11-03_17-01-45.jpg|D:\major project\Road damage data\Crack\photo_2023-11-03_17-01-46.jpg
+corrected-000626,1,Crack,exact-000263,0,false,validation,D:\major project\Road damage data\Crack\photo_2023-11-03_17-01-53.jpg
+corrected-000627,1,Crack,exact-000335,0,false,train,D:\major project\Road damage data\Crack\photo_2023-11-03_17-02-16.jpg
+corrected-000628,1,Crack,exact-000092,0,false,train,D:\major project\Road damage data\Crack\photo_2023-11-03_17-02-21.jpg
+corrected-000629,1,Crack,exact-000317,0,false,train,D:\major project\Road damage data\Crack\photo_2023-11-03_17-02-45.jpg
+corrected-000630,1,Crack,exact-000667,0,false,train,D:\major project\Road damage data\Crack\photo_2023-11-03_17-02-51.jpg
+corrected-000631,1,Crack,exact-000652,0,false,train,D:\major project\Road damage data\Crack\photo_2023-11-03_17-03-09.jpg
+corrected-000632,1,Crack,exact-000673,0,false,train,D:\major project\Road damage data\Crack\photo_2023-11-03_17-03-21.jpg
+corrected-000633,1,Crack,exact-000419,0,false,train,D:\major project\Road damage data\Crack\photo_2023-11-03_17-03-26.jpg
+corrected-000634,1,Crack,exact-000534,0,false,validation,D:\major project\Road damage data\Crack\photo_2023-11-03_17-03-41.jpg
+corrected-000635,1,Crack,exact-000526,0,false,train,D:\major project\Road damage data\Crack\photo_2023-11-03_17-04-34.jpg
+corrected-000636,2,Pothole,exact-000847,0,false,train,D:\major project\Road damage data\Pot hole\1 (2).jpg|D:\major project\Road damage data\Pot hole\1 (3).jpg
+corrected-000637,2,Pothole,exact-000712,0,false,train,D:\major project\Road damage data\Pot hole\1 (4).JPG|D:\major project\Road damage data\Pot hole\1.JPG
+corrected-000638,2,Pothole,exact-000692,0,false,train,D:\major project\Road damage data\Pot hole\10 (2).JPG|D:\major project\Road damage data\Pot hole\10 (3).JPG
+corrected-000639,2,Pothole,exact-000877,0,false,train,D:\major project\Road damage data\Pot hole\10 (4).JPG|D:\major project\Road damage data\Pot hole\10.JPG
+corrected-000640,2,Pothole,exact-000890,0,false,train,D:\major project\Road damage data\Pot hole\100 (2).JPG|D:\major project\Road damage data\Pot hole\100 (3).JPG
+corrected-000641,2,Pothole,exact-000348,0,false,train,D:\major project\Road damage data\Pot hole\100 (4).JPG|D:\major project\Road damage data\Pot hole\100.JPG
+corrected-000642,2,Pothole,exact-000088,0,false,train,D:\major project\Road damage data\Pot hole\101 (2).JPG|D:\major project\Road damage data\Pot hole\101 (3).JPG
+corrected-000643,2,Pothole,exact-000391,0,false,test,D:\major project\Road damage data\Pot hole\101 (4).JPG|D:\major project\Road damage data\Pot hole\101.JPG
+corrected-000644,2,Pothole,exact-000633,0,false,validation,D:\major project\Road damage data\Pot hole\102 (2).JPG|D:\major project\Road damage data\Pot hole\102 (3).JPG
+corrected-000645,2,Pothole,exact-000752,0,false,train,D:\major project\Road damage data\Pot hole\102 (4).JPG|D:\major project\Road damage data\Pot hole\102.JPG
+corrected-000646,2,Pothole,exact-000028,0,false,train,D:\major project\Road damage data\Pot hole\103 (2).JPG|D:\major project\Road damage data\Pot hole\103 (3).JPG
+corrected-000647,2,Pothole,exact-000023,0,false,train,D:\major project\Road damage data\Pot hole\103 (4).JPG|D:\major project\Road damage data\Pot hole\103.JPG
+corrected-000648,3,Pothole,exact-000349,0,false,train,D:\major project\Road damage data\Pot hole\104 (2).JPG|D:\major project\Road damage data\Pot hole\104 (3).JPG|D:\major project\Road damage data\Pot hole\104.JPG
+corrected-000649,1,Pothole,exact-000207,0,false,test,D:\major project\Road damage data\Pot hole\104 (4).JPG
+corrected-000650,2,Pothole,exact-000320,0,false,test,D:\major project\Road damage data\Pot hole\105 (2).JPG|D:\major project\Road damage data\Pot hole\105 (3).JPG
+corrected-000651,2,Pothole,exact-000197,0,false,train,D:\major project\Road damage data\Pot hole\105 (4).JPG|D:\major project\Road damage data\Pot hole\105.JPG
+corrected-000652,3,Pothole,exact-000424,0,false,test,D:\major project\Road damage data\Pot hole\106 (2).JPG|D:\major project\Road damage data\Pot hole\106 (3).JPG|D:\major project\Road damage data\Pot hole\106.JPG
+corrected-000653,1,Pothole,exact-000570,0,false,train,D:\major project\Road damage data\Pot hole\106 (4).JPG
+corrected-000654,2,Pothole,exact-000266,0,false,train,D:\major project\Road damage data\Pot hole\107 (2).JPG|D:\major project\Road damage data\Pot hole\107 (3).JPG
+corrected-000655,2,Pothole,exact-000005,0,false,validation,D:\major project\Road damage data\Pot hole\107 (4).JPG|D:\major project\Road damage data\Pot hole\107.JPG
+corrected-000656,2,Pothole,exact-000831,0,false,train,D:\major project\Road damage data\Pot hole\108 (2).JPG|D:\major project\Road damage data\Pot hole\108 (3).JPG
+corrected-000657,2,Pothole,exact-000298,0,false,train,D:\major project\Road damage data\Pot hole\108 (4).JPG|D:\major project\Road damage data\Pot hole\108.JPG
+corrected-000658,2,Pothole,exact-000793,0,false,train,D:\major project\Road damage data\Pot hole\109 (2).JPG|D:\major project\Road damage data\Pot hole\109 (3).JPG
+corrected-000659,2,Pothole,exact-000976,0,false,train,D:\major project\Road damage data\Pot hole\109 (4).JPG|D:\major project\Road damage data\Pot hole\109.JPG
+corrected-000660,3,Pothole,exact-000082|exact-000204,2,false,test,D:\major project\Road damage data\Pot hole\11 (2).JPG|D:\major project\Road damage data\Pot hole\11 (3).JPG|D:\major project\Road damage data\Pot hole\11 (5).JPG
+corrected-000661,2,Pothole,exact-000324,0,false,train,D:\major project\Road damage data\Pot hole\11 (4).JPG|D:\major project\Road damage data\Pot hole\11.JPG
+corrected-000662,2,Pothole,exact-000515,0,false,train,D:\major project\Road damage data\Pot hole\110 (2).JPG|D:\major project\Road damage data\Pot hole\110 (3).JPG
+corrected-000663,2,Pothole,exact-000760,0,false,train,D:\major project\Road damage data\Pot hole\110 (4).JPG|D:\major project\Road damage data\Pot hole\110.JPG
+corrected-000664,3,Pothole,exact-000975,0,false,train,D:\major project\Road damage data\Pot hole\111 (2).JPG|D:\major project\Road damage data\Pot hole\111 (3).JPG|D:\major project\Road damage data\Pot hole\111.JPG
+corrected-000665,3,Pothole,exact-000442|exact-000888,2,false,train,D:\major project\Road damage data\Pot hole\111 (4).JPG|D:\major project\Road damage data\Pot hole\72 (4).JPG|D:\major project\Road damage data\Pot hole\72.JPG
+corrected-000666,1,Pothole,exact-000787,0,false,train,D:\major project\Road damage data\Pot hole\112 (2).JPG
+corrected-000667,1,Pothole,exact-000098,0,false,train,D:\major project\Road damage data\Pot hole\112 (3).JPG
+corrected-000668,2,Pothole,exact-000527,0,false,test,D:\major project\Road damage data\Pot hole\112 (4).JPG|D:\major project\Road damage data\Pot hole\112.JPG
+corrected-000669,3,Pothole,exact-000126|exact-000887,2,false,train,D:\major project\Road damage data\Pot hole\113 (2).JPG|D:\major project\Road damage data\Pot hole\113 (3).JPG|D:\major project\Road damage data\Pot hole\113 (5).JPG
+corrected-000670,2,Pothole,exact-000981,0,false,train,D:\major project\Road damage data\Pot hole\113 (4).JPG|D:\major project\Road damage data\Pot hole\113.JPG
+corrected-000671,3,Pothole,exact-000859,0,false,train,D:\major project\Road damage data\Pot hole\114 (2).JPG|D:\major project\Road damage data\Pot hole\114 (3).JPG|D:\major project\Road damage data\Pot hole\114 (5).JPG
+corrected-000672,4,Pothole,exact-000297|exact-000709,4,false,test,D:\major project\Road damage data\Pot hole\114 (4).JPG|D:\major project\Road damage data\Pot hole\114.JPG|D:\major project\Road damage data\Pot hole\70 (4).JPG|D:\major project\Road damage data\Pot hole\70.JPG
+corrected-000673,2,Pothole,exact-000496,0,false,test,D:\major project\Road damage data\Pot hole\115 (2).JPG|D:\major project\Road damage data\Pot hole\115 (3).JPG
+corrected-000674,2,Pothole,exact-000218,0,false,train,D:\major project\Road damage data\Pot hole\115 (4).JPG|D:\major project\Road damage data\Pot hole\115.JPG
+corrected-000675,2,Pothole,exact-000958,0,false,train,D:\major project\Road damage data\Pot hole\116 (2).JPG|D:\major project\Road damage data\Pot hole\116 (3).JPG
+corrected-000676,2,Pothole,exact-000221,0,false,train,D:\major project\Road damage data\Pot hole\116 (4).JPG|D:\major project\Road damage data\Pot hole\116.JPG
+corrected-000677,1,Pothole,exact-000121,0,false,train,D:\major project\Road damage data\Pot hole\118 (2).JPG
+corrected-000678,1,Pothole,exact-000100,0,false,train,D:\major project\Road damage data\Pot hole\118 (3).JPG
+corrected-000679,2,Pothole,exact-000198,0,false,train,D:\major project\Road damage data\Pot hole\118 (4).JPG|D:\major project\Road damage data\Pot hole\118.JPG
+corrected-000680,3,Pothole,exact-000498,0,false,train,D:\major project\Road damage data\Pot hole\119 (2).JPG|D:\major project\Road damage data\Pot hole\119 (3).JPG|D:\major project\Road damage data\Pot hole\119 (5).JPG
+corrected-000681,2,Pothole,exact-000931,0,false,train,D:\major project\Road damage data\Pot hole\119 (4).JPG|D:\major project\Road damage data\Pot hole\119.JPG
+corrected-000682,2,Pothole,exact-000533,0,false,validation,D:\major project\Road damage data\Pot hole\12 (2).JPG|D:\major project\Road damage data\Pot hole\12 (5).JPG
+corrected-000683,1,Pothole,exact-000242,0,false,train,D:\major project\Road damage data\Pot hole\12 (3).JPG
+corrected-000684,2,Pothole,exact-000624,0,false,train,D:\major project\Road damage data\Pot hole\12 (4).JPG|D:\major project\Road damage data\Pot hole\12.jpg
+corrected-000685,3,Pothole,exact-000775,0,false,train,D:\major project\Road damage data\Pot hole\120 (2).JPG|D:\major project\Road damage data\Pot hole\120 (3).JPG|D:\major project\Road damage data\Pot hole\120 (5).JPG
+corrected-000686,2,Pothole,exact-000625,0,false,train,D:\major project\Road damage data\Pot hole\120 (4).JPG|D:\major project\Road damage data\Pot hole\120.JPG
+corrected-000687,4,Pothole,exact-000383,0,false,train,D:\major project\Road damage data\Pot hole\121 (2).JPG|D:\major project\Road damage data\Pot hole\121 (3).JPG|D:\major project\Road damage data\Pot hole\121 (4).JPG|D:\major project\Road damage data\Pot hole\121.JPG
+corrected-000688,3,Pothole,exact-000080|exact-000991,2,false,train,D:\major project\Road damage data\Pot hole\13 (2).JPG|D:\major project\Road damage data\Pot hole\13 (3).JPG|D:\major project\Road damage data\Pot hole\13.jpg
+corrected-000689,2,Pothole,exact-000560,0,false,train,D:\major project\Road damage data\Pot hole\14 (2).JPG|D:\major project\Road damage data\Pot hole\14 (3).JPG
+corrected-000690,2,Pothole,exact-000919,0,false,test,D:\major project\Road damage data\Pot hole\14 (4).JPG|D:\major project\Road damage data\Pot hole\14.jpg
+corrected-000691,2,Pothole,exact-000989,0,false,test,D:\major project\Road damage data\Pot hole\15 (2).JPG|D:\major project\Road damage data\Pot hole\15 (3).JPG
+corrected-000692,2,Pothole,exact-000147,0,false,validation,D:\major project\Road damage data\Pot hole\15 (4).JPG|D:\major project\Road damage data\Pot hole\15.jpg
+corrected-000693,1,Pothole,exact-000928,0,false,train,D:\major project\Road damage data\Pot hole\16 (1).jpg
+corrected-000694,1,Pothole,exact-000923,0,false,train,D:\major project\Road damage data\Pot hole\16 (2).jpg
+corrected-000695,2,Pothole,exact-000064,0,false,train,D:\major project\Road damage data\Pot hole\16 (3).JPG|D:\major project\Road damage data\Pot hole\16 (4).JPG
+corrected-000696,2,Pothole,exact-000314,0,false,train,D:\major project\Road damage data\Pot hole\16 (5).JPG|D:\major project\Road damage data\Pot hole\16.JPG
+corrected-000697,2,Pothole,exact-000836,0,false,train,D:\major project\Road damage data\Pot hole\17 (2).JPG|D:\major project\Road damage data\Pot hole\17 (3).JPG
+corrected-000698,2,Pothole,exact-000327,0,false,train,D:\major project\Road damage data\Pot hole\17 (4).JPG|D:\major project\Road damage data\Pot hole\17.JPG
+corrected-000699,2,Pothole,exact-000036|exact-000247,1,false,train,D:\major project\Road damage data\Pot hole\18 (2).JPG|D:\major project\Road damage data\Pot hole\18 (3).JPG
+corrected-000700,2,Pothole,exact-000797,0,false,train,D:\major project\Road damage data\Pot hole\18 (4).JPG|D:\major project\Road damage data\Pot hole\18.JPG
+corrected-000701,2,Pothole,exact-000474|exact-000510,1,false,train,D:\major project\Road damage data\Pot hole\19 (2).JPG|D:\major project\Road damage data\Pot hole\19 (3).JPG
+corrected-000702,2,Pothole,exact-000399,0,false,train,D:\major project\Road damage data\Pot hole\19 (4).JPG|D:\major project\Road damage data\Pot hole\19.JPG
+corrected-000703,2,Pothole,exact-000761,0,false,train,D:\major project\Road damage data\Pot hole\2 (2).JPG|D:\major project\Road damage data\Pot hole\2 (3).JPG
+corrected-000704,2,Pothole,exact-000581,0,false,test,D:\major project\Road damage data\Pot hole\2 (4).JPG|D:\major project\Road damage data\Pot hole\2.JPG
+corrected-000705,2,Pothole,exact-000924,0,false,train,D:\major project\Road damage data\Pot hole\20 (2).JPG|D:\major project\Road damage data\Pot hole\20 (3).JPG
+corrected-000706,2,Pothole,exact-000732,0,false,test,D:\major project\Road damage data\Pot hole\20 (4).JPG|D:\major project\Road damage data\Pot hole\20.JPG
+corrected-000707,4,Pothole,exact-000084,0,false,validation,D:\major project\Road damage data\Pot hole\20240301_085244 (2).jpg|D:\major project\Road damage data\Pot hole\20240301_085244 (3).jpg|D:\major project\Road damage data\Pot hole\20240301_085244 (4).jpg|D:\major project\Road damage data\Pot hole\20240301_085244.jpg
+corrected-000708,2,Pothole,exact-000193,0,false,train,D:\major project\Road damage data\Pot hole\21 (2).JPG|D:\major project\Road damage data\Pot hole\21 (3).JPG
+corrected-000709,2,Pothole,exact-000350,0,false,train,D:\major project\Road damage data\Pot hole\21 (4).JPG|D:\major project\Road damage data\Pot hole\21.JPG
+corrected-000710,2,Pothole,exact-000389,0,false,test,D:\major project\Road damage data\Pot hole\22 (2).JPG|D:\major project\Road damage data\Pot hole\22 (3).JPG
+corrected-000711,2,Pothole,exact-000415,0,false,train,D:\major project\Road damage data\Pot hole\22 (4).JPG|D:\major project\Road damage data\Pot hole\22.JPG
+corrected-000712,2,Pothole,exact-000799,0,false,train,D:\major project\Road damage data\Pot hole\23 (2).JPG|D:\major project\Road damage data\Pot hole\23 (3).JPG
+corrected-000713,2,Pothole,exact-000410,0,false,train,D:\major project\Road damage data\Pot hole\23 (4).JPG|D:\major project\Road damage data\Pot hole\23.JPG
+corrected-000714,3,Pothole,exact-000338,0,false,train,D:\major project\Road damage data\Pot hole\24 (2).JPG|D:\major project\Road damage data\Pot hole\24 (3).JPG|D:\major project\Road damage data\Pot hole\24 (5).JPG
+corrected-000715,2,Pothole,exact-000512,0,false,train,D:\major project\Road damage data\Pot hole\24 (4).JPG|D:\major project\Road damage data\Pot hole\24.JPG
+corrected-000716,2,Pothole,exact-000846,0,false,test,D:\major project\Road damage data\Pot hole\25 (2).JPG|D:\major project\Road damage data\Pot hole\25 (3).JPG
+corrected-000717,2,Pothole,exact-000540,0,false,train,D:\major project\Road damage data\Pot hole\25 (4).JPG|D:\major project\Road damage data\Pot hole\25.JPG
+corrected-000718,3,Pothole,exact-000224,0,false,train,D:\major project\Road damage data\Pot hole\26 (2).JPG|D:\major project\Road damage data\Pot hole\26 (3).JPG|D:\major project\Road damage data\Pot hole\26 (5).JPG
+corrected-000719,2,Pothole,exact-000964,0,false,train,D:\major project\Road damage data\Pot hole\26 (4).JPG|D:\major project\Road damage data\Pot hole\26.JPG
+corrected-000720,3,Pothole,exact-000637,0,false,train,D:\major project\Road damage data\Pot hole\27 (2).JPG|D:\major project\Road damage data\Pot hole\27 (3).JPG|D:\major project\Road damage data\Pot hole\27 (5).JPG
+corrected-000721,2,Pothole,exact-000276,0,false,test,D:\major project\Road damage data\Pot hole\27 (4).JPG|D:\major project\Road damage data\Pot hole\27.JPG
+corrected-000722,3,Pothole,exact-000860,0,false,train,D:\major project\Road damage data\Pot hole\28 (2).JPG|D:\major project\Road damage data\Pot hole\28 (3).JPG|D:\major project\Road damage data\Pot hole\28.JPG
+corrected-000723,1,Pothole,exact-000672,0,false,train,D:\major project\Road damage data\Pot hole\28 (4).JPG
+corrected-000724,2,Pothole,exact-000571,0,false,validation,D:\major project\Road damage data\Pot hole\29 (2).JPG|D:\major project\Road damage data\Pot hole\29 (3).JPG
+corrected-000725,2,Pothole,exact-000768,0,false,validation,D:\major project\Road damage data\Pot hole\29 (4).JPG|D:\major project\Road damage data\Pot hole\29.JPG
+corrected-000726,2,Pothole,exact-000113,0,false,train,D:\major project\Road damage data\Pot hole\3 (2).JPG|D:\major project\Road damage data\Pot hole\3 (3).JPG
+corrected-000727,2,Pothole,exact-000195,0,false,test,D:\major project\Road damage data\Pot hole\3 (4).JPG|D:\major project\Road damage data\Pot hole\3.JPG
+corrected-000728,3,Pothole,exact-000308,0,false,train,D:\major project\Road damage data\Pot hole\30 (2).JPG|D:\major project\Road damage data\Pot hole\30 (3).JPG|D:\major project\Road damage data\Pot hole\30.JPG
+corrected-000729,3,Pothole,exact-000528,0,false,train,D:\major project\Road damage data\Pot hole\31 (2).JPG|D:\major project\Road damage data\Pot hole\31 (3).JPG|D:\major project\Road damage data\Pot hole\31.JPG
+corrected-000730,1,Pothole,exact-000505,0,false,validation,D:\major project\Road damage data\Pot hole\31 (4).JPG
+corrected-000731,2,Pothole,exact-000749,0,false,train,D:\major project\Road damage data\Pot hole\32 (2).JPG|D:\major project\Road damage data\Pot hole\32.JPG
+corrected-000732,3,Pothole,exact-000844,0,false,train,D:\major project\Road damage data\Pot hole\33 (2).JPG|D:\major project\Road damage data\Pot hole\33 (3).JPG|D:\major project\Road damage data\Pot hole\33.JPG
+corrected-000733,1,Pothole,exact-000446,0,false,test,D:\major project\Road damage data\Pot hole\33 (4).JPG
+corrected-000734,2,Pothole,exact-000342,0,false,test,D:\major project\Road damage data\Pot hole\34 (2).JPG|D:\major project\Road damage data\Pot hole\34.JPG
+corrected-000735,1,Pothole,exact-000196,0,false,train,D:\major project\Road damage data\Pot hole\34 (3).JPG
+corrected-000736,1,Pothole,exact-000851,0,false,test,D:\major project\Road damage data\Pot hole\34 (4).JPG
+corrected-000737,2,Pothole,exact-000718,0,false,validation,D:\major project\Road damage data\Pot hole\35 (2).JPG|D:\major project\Road damage data\Pot hole\35 (3).JPG
+corrected-000738,2,Pothole,exact-000328,0,false,validation,D:\major project\Road damage data\Pot hole\35 (4).JPG|D:\major project\Road damage data\Pot hole\35.JPG
+corrected-000739,2,Pothole,exact-000629,0,false,train,D:\major project\Road damage data\Pot hole\36 (2).JPG|D:\major project\Road damage data\Pot hole\36 (3).JPG
+corrected-000740,2,Pothole,exact-000099,0,false,train,D:\major project\Road damage data\Pot hole\36 (4).JPG|D:\major project\Road damage data\Pot hole\36.JPG
+corrected-000741,2,Pothole,exact-000031,0,false,train,D:\major project\Road damage data\Pot hole\37 (2).JPG|D:\major project\Road damage data\Pot hole\37 (3).JPG
+corrected-000742,2,Pothole,exact-000262,0,false,train,D:\major project\Road damage data\Pot hole\37 (4).JPG|D:\major project\Road damage data\Pot hole\37.JPG
+corrected-000743,2,Pothole,exact-000371,0,false,validation,D:\major project\Road damage data\Pot hole\38 (2).JPG|D:\major project\Road damage data\Pot hole\38 (3).JPG
+corrected-000744,2,Pothole,exact-000930,0,false,train,D:\major project\Road damage data\Pot hole\38 (4).JPG|D:\major project\Road damage data\Pot hole\38.JPG
+corrected-000745,2,Pothole,exact-000481,0,false,validation,D:\major project\Road damage data\Pot hole\39 (2).JPG|D:\major project\Road damage data\Pot hole\39 (3).JPG
+corrected-000746,2,Pothole,exact-000914,0,false,test,D:\major project\Road damage data\Pot hole\39 (4).JPG|D:\major project\Road damage data\Pot hole\39.JPG
+corrected-000747,3,Pothole,exact-000726,0,false,test,D:\major project\Road damage data\Pot hole\4 (2).JPG|D:\major project\Road damage data\Pot hole\4 (3).JPG|D:\major project\Road damage data\Pot hole\4.JPG
+corrected-000748,1,Pothole,exact-000062,0,false,test,D:\major project\Road damage data\Pot hole\4 (4).JPG
+corrected-000749,3,Pothole,exact-000516,0,false,train,D:\major project\Road damage data\Pot hole\40 (2).JPG|D:\major project\Road damage data\Pot hole\40 (3).JPG|D:\major project\Road damage data\Pot hole\40 (5).JPG
+corrected-000750,2,Pothole,exact-000845,0,false,train,D:\major project\Road damage data\Pot hole\40 (4).JPG|D:\major project\Road damage data\Pot hole\40.JPG
+corrected-000751,2,Pothole,exact-000274,0,false,train,D:\major project\Road damage data\Pot hole\41 (2).JPG|D:\major project\Road damage data\Pot hole\41 (3).JPG
+corrected-000752,2,Pothole,exact-000592,0,false,train,D:\major project\Road damage data\Pot hole\41 (4).JPG|D:\major project\Road damage data\Pot hole\41.JPG
+corrected-000753,2,Pothole,exact-000742,0,false,train,D:\major project\Road damage data\Pot hole\42 (2).JPG|D:\major project\Road damage data\Pot hole\42 (3).JPG
+corrected-000754,2,Pothole,exact-000506,0,false,train,D:\major project\Road damage data\Pot hole\42 (4).JPG|D:\major project\Road damage data\Pot hole\42.JPG
+corrected-000755,2,Pothole,exact-000351,0,false,train,D:\major project\Road damage data\Pot hole\43 (2).JPG|D:\major project\Road damage data\Pot hole\43 (3).JPG
+corrected-000756,2,Pothole,exact-000002,0,false,train,D:\major project\Road damage data\Pot hole\43 (4).JPG|D:\major project\Road damage data\Pot hole\43.JPG
+corrected-000757,3,Pothole,exact-000876,0,false,validation,D:\major project\Road damage data\Pot hole\44 (2).JPG|D:\major project\Road damage data\Pot hole\44 (3).JPG|D:\major project\Road damage data\Pot hole\44.JPG
+corrected-000758,1,Pothole,exact-000738,0,false,train,D:\major project\Road damage data\Pot hole\44 (4).JPG
+corrected-000759,2,Pothole,exact-000102,0,false,train,D:\major project\Road damage data\Pot hole\45 (2).JPG|D:\major project\Road damage data\Pot hole\45 (3).JPG
+corrected-000760,2,Pothole,exact-000251,0,false,train,D:\major project\Road damage data\Pot hole\45 (4).JPG|D:\major project\Road damage data\Pot hole\45.JPG
+corrected-000761,3,Pothole,exact-000665,0,false,train,D:\major project\Road damage data\Pot hole\46 (2).JPG|D:\major project\Road damage data\Pot hole\46 (3).JPG|D:\major project\Road damage data\Pot hole\46.JPG
+corrected-000762,1,Pothole,exact-000087,0,false,validation,D:\major project\Road damage data\Pot hole\46 (4).JPG
+corrected-000763,3,Pothole,exact-000690,0,false,test,D:\major project\Road damage data\Pot hole\47 (2).JPG|D:\major project\Road damage data\Pot hole\47 (3).JPG|D:\major project\Road damage data\Pot hole\47.JPG
+corrected-000764,1,Pothole,exact-000915,0,false,test,D:\major project\Road damage data\Pot hole\47 (4).JPG
+corrected-000765,3,Pothole,exact-000163|exact-000996,2,false,train,D:\major project\Road damage data\Pot hole\48 (2).JPG|D:\major project\Road damage data\Pot hole\48 (3).JPG|D:\major project\Road damage data\Pot hole\48 (5).JPG
+corrected-000766,2,Pothole,exact-000814,0,false,train,D:\major project\Road damage data\Pot hole\48 (4).JPG|D:\major project\Road damage data\Pot hole\48.JPG
+corrected-000767,4,Pothole,exact-000124|exact-000412,3,false,train,D:\major project\Road damage data\Pot hole\49 (2).JPG|D:\major project\Road damage data\Pot hole\49 (3).JPG|D:\major project\Road damage data\Pot hole\49 (5).JPG|D:\major project\Road damage data\Pot hole\49.JPG
+corrected-000768,1,Pothole,exact-000226,0,false,train,D:\major project\Road damage data\Pot hole\49 (4).JPG
+corrected-000769,2,Pothole,exact-000331,0,false,train,D:\major project\Road damage data\Pot hole\5 (2).JPG|D:\major project\Road damage data\Pot hole\5 (3).JPG
+corrected-000770,2,Pothole,exact-000058,0,false,train,D:\major project\Road damage data\Pot hole\5 (4).JPG|D:\major project\Road damage data\Pot hole\5.JPG
+corrected-000771,5,Pothole,exact-000150|exact-000329|exact-000869,4,false,train,D:\major project\Road damage data\Pot hole\50 (2).JPG|D:\major project\Road damage data\Pot hole\50 (3).JPG|D:\major project\Road damage data\Pot hole\50.JPG|D:\major project\Road damage data\Pot hole\74 (2).JPG|D:\major project\Road damage data\Pot hole\74 (3).JPG
+corrected-000772,1,Pothole,exact-000509,0,false,train,D:\major project\Road damage data\Pot hole\50 (4).JPG
+corrected-000773,2,Pothole,exact-000783,0,false,validation,D:\major project\Road damage data\Pot hole\51 (2).JPG|D:\major project\Road damage data\Pot hole\51 (3).JPG
+corrected-000774,2,Pothole,exact-000757,0,false,train,D:\major project\Road damage data\Pot hole\51 (4).JPG|D:\major project\Road damage data\Pot hole\51.JPG
+corrected-000775,3,Pothole,exact-000209,0,false,train,D:\major project\Road damage data\Pot hole\52 (2).JPG|D:\major project\Road damage data\Pot hole\52 (3).JPG|D:\major project\Road damage data\Pot hole\52.JPG
+corrected-000776,1,Pothole,exact-000177,0,false,validation,D:\major project\Road damage data\Pot hole\52 (4).JPG
+corrected-000777,2,Pothole,exact-000265,0,false,train,D:\major project\Road damage data\Pot hole\53 (2).JPG|D:\major project\Road damage data\Pot hole\53 (3).JPG
+corrected-000778,2,Pothole,exact-000273,0,false,train,D:\major project\Road damage data\Pot hole\53 (4).JPG|D:\major project\Road damage data\Pot hole\53.JPG
+corrected-000779,3,Pothole,exact-000103,0,false,train,D:\major project\Road damage data\Pot hole\54 (2).JPG|D:\major project\Road damage data\Pot hole\54 (3).JPG|D:\major project\Road damage data\Pot hole\54 (5).JPG
+corrected-000780,2,Pothole,exact-000256,0,false,train,D:\major project\Road damage data\Pot hole\54 (4).JPG|D:\major project\Road damage data\Pot hole\54.JPG
+corrected-000781,3,Pothole,exact-000038|exact-000154,2,false,train,D:\major project\Road damage data\Pot hole\55 (2).JPG|D:\major project\Road damage data\Pot hole\55 (3).JPG|D:\major project\Road damage data\Pot hole\55 (5).JPG
+corrected-000782,2,Pothole,exact-000694,0,false,train,D:\major project\Road damage data\Pot hole\55 (4).JPG|D:\major project\Road damage data\Pot hole\55.JPG
+corrected-000783,2,Pothole,exact-000669,0,false,test,D:\major project\Road damage data\Pot hole\56 (2).JPG|D:\major project\Road damage data\Pot hole\56 (3).JPG
+corrected-000784,2,Pothole,exact-000052,0,false,train,D:\major project\Road damage data\Pot hole\56 (4).JPG|D:\major project\Road damage data\Pot hole\56.JPG
+corrected-000785,2,Pothole,exact-000854,0,false,train,D:\major project\Road damage data\Pot hole\57 (2).JPG|D:\major project\Road damage data\Pot hole\57 (3).JPG
+corrected-000786,2,Pothole,exact-000514,0,false,train,D:\major project\Road damage data\Pot hole\57 (4).JPG|D:\major project\Road damage data\Pot hole\57.JPG
+corrected-000787,2,Pothole,exact-000772,0,false,train,D:\major project\Road damage data\Pot hole\58 (2).JPG|D:\major project\Road damage data\Pot hole\58 (3).JPG
+corrected-000788,2,Pothole,exact-000318,0,false,train,D:\major project\Road damage data\Pot hole\58 (4).JPG|D:\major project\Road damage data\Pot hole\58.JPG
+corrected-000789,2,Pothole,exact-000920,0,false,test,D:\major project\Road damage data\Pot hole\59 (2).JPG|D:\major project\Road damage data\Pot hole\59 (3).JPG
+corrected-000790,2,Pothole,exact-000116,0,false,train,D:\major project\Road damage data\Pot hole\59 (4).JPG|D:\major project\Road damage data\Pot hole\59.JPG
+corrected-000791,2,Pothole,exact-000133,0,false,validation,D:\major project\Road damage data\Pot hole\6 (2).JPG|D:\major project\Road damage data\Pot hole\6 (3).JPG
+corrected-000792,1,Pothole,exact-000485,0,false,train,D:\major project\Road damage data\Pot hole\6 (4).JPG
+corrected-000793,2,Pothole,exact-000517,0,false,train,D:\major project\Road damage data\Pot hole\60 (2).JPG|D:\major project\Road damage data\Pot hole\60 (3).JPG
+corrected-000794,2,Pothole,exact-000747,0,false,train,D:\major project\Road damage data\Pot hole\60 (4).JPG|D:\major project\Road damage data\Pot hole\60.JPG
+corrected-000795,2,Pothole,exact-000895,0,false,train,D:\major project\Road damage data\Pot hole\61 (2).JPG|D:\major project\Road damage data\Pot hole\61 (3).JPG
+corrected-000796,2,Pothole,exact-000173,0,false,validation,D:\major project\Road damage data\Pot hole\61 (4).JPG|D:\major project\Road damage data\Pot hole\61.JPG
+corrected-000797,2,Pothole,exact-000347,0,false,train,D:\major project\Road damage data\Pot hole\62 (2).JPG|D:\major project\Road damage data\Pot hole\62 (3).JPG
+corrected-000798,2,Pothole,exact-000076,0,false,train,D:\major project\Road damage data\Pot hole\62 (4).JPG|D:\major project\Road damage data\Pot hole\62.JPG
+corrected-000799,2,Pothole,exact-000107,0,false,train,D:\major project\Road damage data\Pot hole\63 (2).JPG|D:\major project\Road damage data\Pot hole\63 (3).JPG
+corrected-000800,2,Pothole,exact-000848,0,false,train,D:\major project\Road damage data\Pot hole\63 (4).JPG|D:\major project\Road damage data\Pot hole\63.JPG
+corrected-000801,2,Pothole,exact-000812,0,false,train,D:\major project\Road damage data\Pot hole\64 (2).JPG|D:\major project\Road damage data\Pot hole\64 (3).JPG
+corrected-000802,2,Pothole,exact-000421,0,false,validation,D:\major project\Road damage data\Pot hole\64 (4).JPG|D:\major project\Road damage data\Pot hole\64.JPG
+corrected-000803,3,Pothole,exact-000654,0,false,train,D:\major project\Road damage data\Pot hole\65 (2).JPG|D:\major project\Road damage data\Pot hole\65 (3).JPG|D:\major project\Road damage data\Pot hole\65.JPG
+corrected-000804,1,Pothole,exact-000695,0,false,validation,D:\major project\Road damage data\Pot hole\65 (4).JPG
+corrected-000805,2,Pothole,exact-000115,0,false,train,D:\major project\Road damage data\Pot hole\66 (2).JPG|D:\major project\Road damage data\Pot hole\66 (3).JPG
+corrected-000806,2,Pothole,exact-000896,0,false,train,D:\major project\Road damage data\Pot hole\66 (4).JPG|D:\major project\Road damage data\Pot hole\66.JPG
+corrected-000807,3,Pothole,exact-000450,0,false,validation,D:\major project\Road damage data\Pot hole\67 (2).JPG|D:\major project\Road damage data\Pot hole\67 (3).JPG|D:\major project\Road damage data\Pot hole\67.JPG
+corrected-000808,1,Pothole,exact-000205,0,false,train,D:\major project\Road damage data\Pot hole\67 (4).JPG
+corrected-000809,3,Pothole,exact-000714,0,false,validation,D:\major project\Road damage data\Pot hole\68 (2).JPG|D:\major project\Road damage data\Pot hole\68 (3).JPG|D:\major project\Road damage data\Pot hole\68.JPG
+corrected-000810,3,Pothole,exact-000025,0,false,validation,D:\major project\Road damage data\Pot hole\69 (2).JPG|D:\major project\Road damage data\Pot hole\69 (3).JPG|D:\major project\Road damage data\Pot hole\69.JPG
+corrected-000811,1,Pothole,exact-000689,0,false,train,D:\major project\Road damage data\Pot hole\69 (4).JPG
+corrected-000812,3,Pothole,exact-000070|exact-000343,2,false,train,D:\major project\Road damage data\Pot hole\7 (2).JPG|D:\major project\Road damage data\Pot hole\7 (3).JPG|D:\major project\Road damage data\Pot hole\7.JPG
+corrected-000813,1,Pothole,exact-000734,0,false,train,D:\major project\Road damage data\Pot hole\7 (4).JPG
+corrected-000814,2,Pothole,exact-000626,0,false,validation,D:\major project\Road damage data\Pot hole\70 (2).JPG|D:\major project\Road damage data\Pot hole\70 (3).JPG
+corrected-000815,3,Pothole,exact-000500,0,false,train,D:\major project\Road damage data\Pot hole\71 (2).JPG|D:\major project\Road damage data\Pot hole\71 (3).JPG|D:\major project\Road damage data\Pot hole\71.JPG
+corrected-000816,2,Pothole,exact-000942,0,false,train,D:\major project\Road damage data\Pot hole\72 (2).JPG|D:\major project\Road damage data\Pot hole\72 (3).JPG
+corrected-000817,2,Pothole,exact-000530,0,false,validation,D:\major project\Road damage data\Pot hole\73 (2).JPG|D:\major project\Road damage data\Pot hole\73 (3).JPG
+corrected-000818,2,Pothole,exact-000901,0,false,test,D:\major project\Road damage data\Pot hole\73 (4).JPG|D:\major project\Road damage data\Pot hole\73.JPG
+corrected-000819,2,Pothole,exact-000614,0,false,train,D:\major project\Road damage data\Pot hole\74 (4).JPG|D:\major project\Road damage data\Pot hole\74.JPG
+corrected-000820,2,Pothole,exact-000441,0,false,train,D:\major project\Road damage data\Pot hole\75 (2).JPG|D:\major project\Road damage data\Pot hole\75 (3).JPG
+corrected-000821,2,Pothole,exact-000922,0,false,train,D:\major project\Road damage data\Pot hole\75 (4).JPG|D:\major project\Road damage data\Pot hole\75.JPG
+corrected-000822,2,Pothole,exact-000178|exact-000678,1,false,train,D:\major project\Road damage data\Pot hole\76 (2).JPG|D:\major project\Road damage data\Pot hole\76 (3).JPG
+corrected-000823,2,Pothole,exact-000657,0,false,validation,D:\major project\Road damage data\Pot hole\76 (4).JPG|D:\major project\Road damage data\Pot hole\76.JPG
+corrected-000824,2,Pothole,exact-000491,0,false,validation,D:\major project\Road damage data\Pot hole\77 (2).JPG|D:\major project\Road damage data\Pot hole\77 (3).JPG
+corrected-000825,2,Pothole,exact-000591,0,false,test,D:\major project\Road damage data\Pot hole\77 (4).JPG|D:\major project\Road damage data\Pot hole\77.JPG
+corrected-000826,2,Pothole,exact-000072,0,false,validation,D:\major project\Road damage data\Pot hole\78 (2).JPG|D:\major project\Road damage data\Pot hole\78 (3).JPG
+corrected-000827,2,Pothole,exact-000085,0,false,train,D:\major project\Road damage data\Pot hole\78 (4).JPG|D:\major project\Road damage data\Pot hole\78.JPG
+corrected-000828,3,Pothole,exact-000171,0,false,train,D:\major project\Road damage data\Pot hole\79 (2).JPG|D:\major project\Road damage data\Pot hole\79 (3).JPG|D:\major project\Road damage data\Pot hole\79.JPG
+corrected-000829,1,Pothole,exact-000716,0,false,validation,D:\major project\Road damage data\Pot hole\79 (4).JPG
+corrected-000830,1,Pothole,exact-000551,0,false,train,D:\major project\Road damage data\Pot hole\8 (2).JPG
+corrected-000831,1,Pothole,exact-000687,0,false,train,D:\major project\Road damage data\Pot hole\8 (3).JPG
+corrected-000832,2,Pothole,exact-000771,0,false,train,D:\major project\Road damage data\Pot hole\8 (4).JPG|D:\major project\Road damage data\Pot hole\8.JPG
+corrected-000833,2,Pothole,exact-000280,0,false,train,D:\major project\Road damage data\Pot hole\80 (2).JPG|D:\major project\Road damage data\Pot hole\80 (5).JPG
+corrected-000834,1,Pothole,exact-000378,0,false,train,D:\major project\Road damage data\Pot hole\80 (3).JPG
+corrected-000835,2,Pothole,exact-000708,0,false,train,D:\major project\Road damage data\Pot hole\80 (4).JPG|D:\major project\Road damage data\Pot hole\80.JPG
+corrected-000836,2,Pothole,exact-000801,0,false,train,D:\major project\Road damage data\Pot hole\81 (2).JPG|D:\major project\Road damage data\Pot hole\81 (3).JPG
+corrected-000837,2,Pothole,exact-000699,0,false,train,D:\major project\Road damage data\Pot hole\81 (4).JPG|D:\major project\Road damage data\Pot hole\81.JPG
+corrected-000838,3,Pothole,exact-000861,0,false,validation,D:\major project\Road damage data\Pot hole\82 (2).JPG|D:\major project\Road damage data\Pot hole\82 (3).JPG|D:\major project\Road damage data\Pot hole\82.JPG
+corrected-000839,1,Pothole,exact-000647,0,false,train,D:\major project\Road damage data\Pot hole\82 (4).JPG
+corrected-000840,2,Pothole,exact-000878,0,false,test,D:\major project\Road damage data\Pot hole\83 (2).JPG|D:\major project\Road damage data\Pot hole\83.JPG
+corrected-000841,1,Pothole,exact-000917,0,false,train,D:\major project\Road damage data\Pot hole\83 (3).JPG
+corrected-000842,1,Pothole,exact-000634,0,false,train,D:\major project\Road damage data\Pot hole\83 (4).JPG
+corrected-000843,3,Pothole,exact-000158,0,false,test,D:\major project\Road damage data\Pot hole\84 (2).JPG|D:\major project\Road damage data\Pot hole\84 (3).JPG|D:\major project\Road damage data\Pot hole\84.JPG
+corrected-000844,1,Pothole,exact-000885,0,false,train,D:\major project\Road damage data\Pot hole\84 (4).JPG
+corrected-000845,1,Pothole,exact-000936,0,false,train,D:\major project\Road damage data\Pot hole\85 (2).JPG
+corrected-000846,1,Pothole,exact-000894,0,false,validation,D:\major project\Road damage data\Pot hole\85 (3).JPG
+corrected-000847,2,Pothole,exact-000426,0,false,test,D:\major project\Road damage data\Pot hole\85 (4).JPG|D:\major project\Road damage data\Pot hole\85.JPG
+corrected-000848,1,Pothole,exact-000007,0,false,train,D:\major project\Road damage data\Pot hole\86 (2).JPG
+corrected-000849,1,Pothole,exact-000408,0,false,test,D:\major project\Road damage data\Pot hole\86 (3).JPG
+corrected-000850,2,Pothole,exact-000782,0,false,train,D:\major project\Road damage data\Pot hole\86 (4).JPG|D:\major project\Road damage data\Pot hole\86.JPG
+corrected-000851,1,Pothole,exact-000693,0,false,train,D:\major project\Road damage data\Pot hole\87 (2).JPG
+corrected-000852,1,Pothole,exact-000599,0,false,test,D:\major project\Road damage data\Pot hole\87 (3).JPG
+corrected-000853,2,Pothole,exact-000674,0,false,train,D:\major project\Road damage data\Pot hole\87 (4).JPG|D:\major project\Road damage data\Pot hole\87.JPG
+corrected-000854,2,Pothole,exact-000472,0,false,train,D:\major project\Road damage data\Pot hole\88 (2).JPG|D:\major project\Road damage data\Pot hole\88 (3).JPG
+corrected-000855,2,Pothole,exact-000364,0,false,train,D:\major project\Road damage data\Pot hole\88 (4).JPG|D:\major project\Road damage data\Pot hole\88.JPG
+corrected-000856,2,Pothole,exact-000609,0,false,train,D:\major project\Road damage data\Pot hole\89 (2).JPG|D:\major project\Road damage data\Pot hole\89 (3).JPG
+corrected-000857,2,Pothole,exact-000027,0,false,train,D:\major project\Road damage data\Pot hole\89 (4).JPG|D:\major project\Road damage data\Pot hole\89.JPG
+corrected-000858,1,Pothole,exact-000014,0,false,train,D:\major project\Road damage data\Pot hole\9 (2).JPG
+corrected-000859,1,Pothole,exact-000468,0,false,train,D:\major project\Road damage data\Pot hole\9 (3).JPG
+corrected-000860,2,Pothole,exact-000753,0,false,train,D:\major project\Road damage data\Pot hole\9 (4).JPG|D:\major project\Road damage data\Pot hole\9.JPG
+corrected-000861,2,Pothole,exact-000160|exact-000490,1,false,test,D:\major project\Road damage data\Pot hole\90 (2).JPG|D:\major project\Road damage data\Pot hole\90 (3).JPG
+corrected-000862,2,Pothole,exact-000411,0,false,validation,D:\major project\Road damage data\Pot hole\90 (4).JPG|D:\major project\Road damage data\Pot hole\90.JPG
+corrected-000863,2,Pothole,exact-000287,0,false,train,D:\major project\Road damage data\Pot hole\91 (2).JPG|D:\major project\Road damage data\Pot hole\91 (3).JPG
+corrected-000864,2,Pothole,exact-000587,0,false,validation,D:\major project\Road damage data\Pot hole\91 (4).JPG|D:\major project\Road damage data\Pot hole\91.JPG
+corrected-000865,2,Pothole,exact-000800,0,false,validation,D:\major project\Road damage data\Pot hole\92 (2).JPG|D:\major project\Road damage data\Pot hole\92 (3).JPG
+corrected-000866,2,Pothole,exact-000192,0,false,validation,D:\major project\Road damage data\Pot hole\92 (4).JPG|D:\major project\Road damage data\Pot hole\92.JPG
+corrected-000867,2,Pothole,exact-000987,0,false,train,D:\major project\Road damage data\Pot hole\93 (2).JPG|D:\major project\Road damage data\Pot hole\93 (3).JPG
+corrected-000868,2,Pothole,exact-000499,0,false,train,D:\major project\Road damage data\Pot hole\93 (4).JPG|D:\major project\Road damage data\Pot hole\93.JPG
+corrected-000869,2,Pothole,exact-000240,0,false,train,D:\major project\Road damage data\Pot hole\94 (2).JPG|D:\major project\Road damage data\Pot hole\94 (3).JPG
+corrected-000870,2,Pothole,exact-000676,0,false,train,D:\major project\Road damage data\Pot hole\94 (4).JPG|D:\major project\Road damage data\Pot hole\94.JPG
+corrected-000871,2,Pothole,exact-000145|exact-000789,1,false,test,D:\major project\Road damage data\Pot hole\95 (2).JPG|D:\major project\Road damage data\Pot hole\95 (3).JPG
+corrected-000872,2,Pothole,exact-000779,0,false,train,D:\major project\Road damage data\Pot hole\95 (4).JPG|D:\major project\Road damage data\Pot hole\95.JPG
+corrected-000873,2,Pothole,exact-000467,0,false,test,D:\major project\Road damage data\Pot hole\96 (2).JPG|D:\major project\Road damage data\Pot hole\96 (3).JPG
+corrected-000874,2,Pothole,exact-000977,0,false,test,D:\major project\Road damage data\Pot hole\96 (4).JPG|D:\major project\Road damage data\Pot hole\96.JPG
+corrected-000875,2,Pothole,exact-000056,0,false,validation,D:\major project\Road damage data\Pot hole\97 (2).JPG|D:\major project\Road damage data\Pot hole\97 (3).JPG
+corrected-000876,2,Pothole,exact-000167,0,false,train,D:\major project\Road damage data\Pot hole\97 (4).JPG|D:\major project\Road damage data\Pot hole\97.JPG
+corrected-000877,2,Pothole,exact-000536,0,false,train,D:\major project\Road damage data\Pot hole\98 (2).JPG|D:\major project\Road damage data\Pot hole\98 (3).JPG
+corrected-000878,2,Pothole,exact-000706,0,false,test,D:\major project\Road damage data\Pot hole\98 (4).JPG|D:\major project\Road damage data\Pot hole\98.JPG
+corrected-000879,3,Pothole,exact-000330,0,false,train,D:\major project\Road damage data\Pot hole\99 (2).JPG|D:\major project\Road damage data\Pot hole\99 (3).JPG|D:\major project\Road damage data\Pot hole\99.JPG
+corrected-000880,1,Pothole,exact-000044,0,false,train,D:\major project\Road damage data\Pot hole\99 (4).JPG
+corrected-000881,2,Pothole,exact-000288,0,false,train,D:\major project\Road damage data\Pot hole\IMG20240301090425 (2).jpg|D:\major project\Road damage data\Pot hole\IMG20240301090425.jpg
+corrected-000882,2,Pothole,exact-000750,0,false,train,D:\major project\Road damage data\Pot hole\IMG20240301092533 (2).jpg|D:\major project\Road damage data\Pot hole\IMG20240301092533.jpg
+corrected-000883,2,Pothole,exact-000980,0,false,train,D:\major project\Road damage data\Pot hole\IMG20240301092818 (2).jpg|D:\major project\Road damage data\Pot hole\IMG20240301092818.jpg
+corrected-000884,2,Pothole,exact-000310,0,false,validation,D:\major project\Road damage data\Pot hole\IMG20240301095723 (2).jpg|D:\major project\Road damage data\Pot hole\IMG20240301095723.jpg
+corrected-000885,2,Pothole,exact-000284,0,false,validation,D:\major project\Road damage data\Pot hole\photo_2023-11-03_17-01-12 (2).jpg|D:\major project\Road damage data\Pot hole\photo_2023-11-03_17-01-12.jpg
+corrected-000886,2,Pothole,exact-000870,0,false,train,D:\major project\Road damage data\Pot hole\photo_2023-11-03_17-01-16 (2).jpg|D:\major project\Road damage data\Pot hole\photo_2023-11-03_17-01-16.jpg
+corrected-000887,1,Pothole,exact-000911,0,false,train,D:\major project\Road damage data\Pot hole\photo_2023-11-03_17-01-22.jpg
+corrected-000888,2,Pothole,exact-000128,0,false,train,D:\major project\Road damage data\Pot hole\photo_2023-11-03_17-01-26 (2).jpg|D:\major project\Road damage data\Pot hole\photo_2023-11-03_17-01-26.jpg
+corrected-000889,2,Pothole,exact-000743,0,false,train,D:\major project\Road damage data\Pot hole\photo_2023-11-03_17-02-11 (2).jpg|D:\major project\Road damage data\Pot hole\photo_2023-11-03_17-02-11.jpg
