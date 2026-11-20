@@ -1,0 +1,91 @@
+{
+  "project_title": "Hybrid Vision Transformer and convolutional Network for Automated Road Damage Detection",
+  "model_version": "resnet50-baseline-v1",
+  "device": "cpu",
+  "split_manifest": "D:\\major project\\Hybrid Vision Transformer and convolutional Network for  Automated Road Damage Detection\\artifacts\\duplicate_aware_splits_corrected\\corrected_split_manifest.csv",
+  "split_sizes": {
+    "train": 1125,
+    "validation": 241,
+    "test": 241
+  },
+  "history": [
+    {
+      "epoch": 1.0,
+      "train_loss": 0.4746485883659787,
+      "validation_accuracy": 0.9543568464730291
+    },
+    {
+      "epoch": 2.0,
+      "train_loss": 0.18633217716548178,
+      "validation_accuracy": 0.9294605809128631
+    },
+    {
+      "epoch": 3.0,
+      "train_loss": 0.13085804542899132,
+      "validation_accuracy": 0.9377593360995851
+    },
+    {
+      "epoch": 4.0,
+      "train_loss": 0.09449017745421992,
+      "validation_accuracy": 0.9377593360995851
+    },
+    {
+      "epoch": 5.0,
+      "train_loss": 0.05453521641178263,
+      "validation_accuracy": 0.9336099585062241
+    }
+  ],
+  "test_accuracy": 0.966804979253112,
+  "classification_report": {
+    "Pothole": {
+      "precision": 0.961038961038961,
+      "recall": 0.9736842105263158,
+      "f1-score": 0.9673202614379085,
+      "support": 76.0
+    },
+    "Asphalt": {
+      "precision": 0.9726027397260274,
+      "recall": 0.922077922077922,
+      "f1-score": 0.9466666666666667,
+      "support": 77.0
+    },
+    "Crack": {
+      "precision": 0.967032967032967,
+      "recall": 1.0,
+      "f1-score": 0.9832402234636871,
+      "support": 88.0
+    },
+    "accuracy": 0.966804979253112,
+    "macro avg": {
+      "precision": 0.9668915559326519,
+      "recall": 0.9652540442014126,
+      "f1-score": 0.9657423838560875,
+      "support": 241.0
+    },
+    "weighted avg": {
+      "precision": 0.9669222950073287,
+      "recall": 0.966804979253112,
+      "f1-score": 0.9665344932258044,
+      "support": 241.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      74,
+      2,
+      0
+    ],
+    [
+      3,
+      71,
+      3
+    ],
+    [
+      0,
+      0,
+      88
+    ]
+  ],
+  "training_time_seconds": 2930.493848000001,
+  "research_output_disclaimer": "Predictions are research outputs and are not certified road-safety assessments."
+}
